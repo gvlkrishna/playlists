@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="629" tvg-name="ETV Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Telugu.png" tvg-chno="629" group-title="Jio_telugu",ETV Telugu
+https://jio.charron269.workers.dev/bpk-tv/ETV_Telugu_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="638" tvg-name="Zee Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png" tvg-chno="638" group-title="Jio_telugu",Zee Telugu
+https://jio.charron269.workers.dev/bpk-tv/Zee_Telugu_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="1354" tvg-name="Zee Telugu HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png" tvg-chno="1354" group-title="Jio_telugu",Zee Telugu HD
+https://jio.charron269.workers.dev/bpk-tv/Zee_Telugu_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="1973" tvg-name="ETV HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_HD.png" tvg-chno="1973" group-title="Jio_telugu",ETV HD
+https://jio.charron269.workers.dev/bpk-tv/ETV_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="204" tvg-name="DD Sports" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" tvg-chno="204" group-title="Jio_telugu",DD Sports
+https://jio.charron269.workers.dev/bpk-tv/DD_Sports_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="252" tvg-name="ETV Cinema" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema.png" tvg-chno="252" group-title="Jio_telugu",ETV Cinema
+https://jio.charron269.workers.dev/bpk-tv/ETV_Cinema_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="413" tvg-name="Zee Cinemalu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" tvg-chno="413" group-title="Jio_telugu",Zee Cinemalu
+https://jio.charron269.workers.dev/bpk-tv/Zee_Cinemalu_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="543" tvg-name="Nick Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Telugu.png" tvg-chno="543" group-title="Jio_telugu",Nick Telugu
+https://jio.charron269.workers.dev/bpk-tv/Nick_Hindi_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="558" tvg-name="Kushi TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kushi_TV.png" tvg-chno="558" group-title="Jio_telugu",Kushi TV
+https://jio.charron269.workers.dev/bpk-tv/Kushi_TV_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="565" tvg-name="ETV Abhiruchi" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" tvg-chno="565" group-title="Jio_telugu",ETV Abhiruchi
+https://jio.charron269.workers.dev/bpk-tv/ETV_Abhiruchi_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="570" tvg-name="ETV Life" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Life.png" tvg-chno="570" group-title="Jio_telugu",ETV Life
+https://jio.charron269.workers.dev/bpk-tv/ETV_Life_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="576" tvg-name="Discovery Channel Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" tvg-chno="576" group-title="Jio_telugu",Discovery Channel Telugu
+https://jio.charron269.workers.dev/bpk-tv/Discovery_Channel_Hindi_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="577" tvg-name="History TV18 HD Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-chno="577" group-title="Jio_telugu",History TV18 HD Telugu
+https://jio.charron269.workers.dev/bpk-tv/History_18_Telugu_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="598" tvg-name="Sri Venkateshwar Bhakti" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" tvg-chno="598" group-title="Jio_telugu",Sri Venkateshwar Bhakti
+https://jio.charron269.workers.dev/bpk-tv/Sri_Venkateshwar_Bhakti_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="614" tvg-name="ETV Andhra pradesh" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" tvg-chno="614" group-title="Jio_telugu",ETV Andhra pradesh
+https://jio.charron269.workers.dev/bpk-tv/ETV_Andhra_pradesh_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="618" tvg-name="TV9 Telugu News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" tvg-chno="618" group-title="Jio_telugu",TV9 Telugu News
+https://jio.charron269.workers.dev/bpk-tv/TV9_Telugu_News_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="630" tvg-name="ETV Telangana" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Telangana.png" tvg-chno="630" group-title="Jio_telugu",ETV Telangana
+https://jio.charron269.workers.dev/bpk-tv/ETV_Telangana_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="646" tvg-name="NTV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NTV.png" tvg-chno="646" group-title="Jio_telugu",NTV
+https://jio.charron269.workers.dev/bpk-tv/NTV_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="656" tvg-name="News 9" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News9.png" tvg-chno="656" group-title="Jio_telugu",News 9
+https://jio.charron269.workers.dev/bpk-tv/News9_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="664" tvg-name="Raj News Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" tvg-chno="664" group-title="Jio_telugu",Raj News Telugu
+https://jio.charron269.workers.dev/bpk-tv/Raj_News_Telugu_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="665" tvg-name="HM TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/HM_TV.png" tvg-chno="665" group-title="Jio_telugu",HM TV
+https://jio.charron269.workers.dev/bpk-tv/HM_TV_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="666" tvg-name="ABN Andhra Jyothi" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" tvg-chno="666" group-title="Jio_telugu",ABN Andhra Jyothi
+https://jio.charron269.workers.dev/bpk-tv/ABN_Andhra_Jyothi_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="667" tvg-name="T News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/T_News.png" tvg-chno="667" group-title="Jio_telugu",T News
+https://jio.charron269.workers.dev/bpk-tv/T_News_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="668" tvg-name="TV 5 News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV_5_News.png" tvg-chno="668" group-title="Jio_telugu",TV 5 News
+https://jio.charron269.workers.dev/bpk-tv/TV_5_News_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="684" tvg-name="Gemini Life" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png" tvg-chno="684" group-title="Jio_telugu",Gemini Life
+https://jio.charron269.workers.dev/bpk-tv/Gemini_Life_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="692" tvg-name="ETV Plus" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus.png" tvg-chno="692" group-title="Jio_telugu",ETV Plus
+https://jio.charron269.workers.dev/bpk-tv/ETV_Plus_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="707" tvg-name="Raj TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" tvg-chno="707" group-title="Jio_telugu",Raj TV
+https://jio.charron269.workers.dev/bpk-tv/Raj_TV_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="729" tvg-name="Gemini Comedy" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" tvg-chno="729" group-title="Jio_telugu",Gemini Comedy
+https://jio.charron269.workers.dev/bpk-tv/Gemini_Comedy_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="734" tvg-name="Vissa TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vissa_TV.png" tvg-chno="734" group-title="Jio_telugu",Vissa TV
+https://jio.charron269.workers.dev/bpk-tv/Vissa_TV_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="737" tvg-name="Raj Music Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" tvg-chno="737" group-title="Jio_telugu",Raj Music Telugu
+https://jio.charron269.workers.dev/bpk-tv/Raj_Music_Telugu_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="769" tvg-name="V6 News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/V6_News.png" tvg-chno="769" group-title="Jio_telugu",V6 News
+https://jio.charron269.workers.dev/bpk-tv/V6_News_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="772" tvg-name="CVR OM Spiritual" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" tvg-chno="772" group-title="Jio_telugu",CVR OM Spiritual
+https://jio.charron269.workers.dev/bpk-tv/CVR_OM_Spiritual_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="774" tvg-name="CVR Health" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_Health.png" tvg-chno="774" group-title="Jio_telugu",CVR Health
+https://jio.charron269.workers.dev/bpk-tv/CVR_Health_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="775" tvg-name="Vanitha" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vanitha.png" tvg-chno="775" group-title="Jio_telugu",Vanitha
+https://jio.charron269.workers.dev/bpk-tv/Vanitha_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="776" tvg-name="Bhakti TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhakti_TV.png" tvg-chno="776" group-title="Jio_telugu",Bhakti TV
+https://jio.charron269.workers.dev/bpk-tv/Bhakti_TV_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="777" tvg-name="Aradhana TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aradhana_TV.png" tvg-chno="777" group-title="Jio_telugu",Aradhana TV
+https://jio.charron269.workers.dev/bpk-tv/Aradhana_TV_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="784" tvg-name="CVR News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_News.png" tvg-chno="784" group-title="Jio_telugu",CVR News
+https://jio.charron269.workers.dev/bpk-tv/CVR_News_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="790" tvg-name="I News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/I_News.png" tvg-chno="790" group-title="Jio_telugu",I News
+https://jio.charron269.workers.dev/bpk-tv/I_News_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="832" tvg-name="10 TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/10_TV.png" tvg-chno="832" group-title="Jio_telugu",10 TV
+https://jio.charron269.workers.dev/bpk-tv/10_TV_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="885" tvg-name="TV5 Monde" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV_5_Monde.png" tvg-chno="885" group-title="Jio_telugu",TV5 Monde
+https://jio.charron269.workers.dev/bpk-tv/TV_5_Monde_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="897" tvg-name="Gemini TV HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" tvg-chno="897" group-title="Jio_telugu",Gemini TV HD
+https://jio.charron269.workers.dev/bpk-tv/Gemini_TV_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="898" tvg-name="Gemini Music HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" tvg-chno="898" group-title="Jio_telugu",Gemini Music HD
+https://jio.charron269.workers.dev/bpk-tv/Gemini_Music_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="899" tvg-name="Gemini Movies HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" tvg-chno="899" group-title="Jio_telugu",Gemini Movies HD
+https://jio.charron269.workers.dev/bpk-tv/Gemini_Movies_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="1080" tvg-name="CN HD+ Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" tvg-chno="1080" group-title="Jio_telugu",CN HD+ Telugu
+https://jio.charron269.workers.dev/bpk-tv/CN_HD_Telugu_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="1242" tvg-name="Sonic Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Telugu.png" tvg-chno="1242" group-title="Jio_telugu",Sonic Telugu
+https://jio.charron269.workers.dev/bpk-tv/Sonic_Telugu_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="1363" tvg-name="Zee Cinemalu HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png" tvg-chno="1363" group-title="Jio_telugu",Zee Cinemalu HD
+https://jio.charron269.workers.dev/bpk-tv/Zee_Cinemalu_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="1454" tvg-name="Shiksha TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shiksha_TV.png" tvg-chno="1454" group-title="Jio_telugu",Shiksha TV
+https://jio.charron269.workers.dev/bpk-tv/Shiksha_TV_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="1665" tvg-name="ETV Cinema HD " tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png" tvg-chno="1665" group-title="Jio_telugu",ETV Cinema HD 
+https://jio.charron269.workers.dev/bpk-tv/ETV_Cinema_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="1773" tvg-name="Sony Ten 4 HD Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" tvg-chno="1773" group-title="Jio_telugu",Sony Ten 4 HD Telugu
+https://jio.charron269.workers.dev/bpk-tv/Ten_4_HD_Telugu_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="1775" tvg-name="Sony Ten 4 Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" tvg-chno="1775" group-title="Jio_telugu",Sony Ten 4 Telugu
+https://jio.charron269.workers.dev/bpk-tv/Ten_4_Telugu_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="1850" tvg-name="SVBC" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SVBC.png" tvg-chno="1850" group-title="Jio_telugu",SVBC
+https://jio.charron269.workers.dev/bpk-tv/SVBC_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="1975" tvg-name="PMC Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png" tvg-chno="1975" group-title="Jio_telugu",PMC Telugu
+https://jio.charron269.workers.dev/bpk-tv/PMC_Telugu_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="2031" tvg-name="Fashion India" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Fashion_India.png" tvg-chno="2031" group-title="Jio_telugu",Fashion India
+https://jio.charron269.workers.dev/bpk-tv/Fashion_India_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="2351" tvg-name="SRS Bhakti TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SRS_Bhakti_TV.png" tvg-chno="2351" group-title="Jio_telugu",SRS Bhakti TV
+https://jio.charron269.workers.dev/bpk-tv/SRS_Bhakti_TV_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="2436" tvg-name="Prime 9 News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_9_News.png" tvg-chno="2436" group-title="Jio_telugu",Prime 9 News
+https://jio.charron269.workers.dev/bpk-tv/Prime_9_News_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="2783" tvg-name="Big TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_TV.png" tvg-chno="2783" group-title="Jio_telugu",Big TV
+https://jio.charron269.workers.dev/bpk-tv/Big_TV_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="2932" tvg-name="99 TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/99TV.png" tvg-chno="2932" group-title="Jio_telugu",99 TV
+https://jio.charron269.workers.dev/bpk-tv/99TV_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="2956" tvg-name="ETV Plus HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus_HD.png" tvg-chno="2956" group-title="Jio_telugu",ETV Plus HD
+https://jio.charron269.workers.dev/bpk-tv/ETV_Plus_HD_MOB/Fallback/index.m3u8
