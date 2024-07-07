@@ -124,3 +124,7 @@ https://jio.charron269.workers.dev/bpk-tv/Ten_4_Telugu_MOB/Fallback/index.m3u8
 https://jio.charron269.workers.dev/bpk-tv/Sports18_1_HD_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="Sports18 1" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_SD.png" tvg-chno="1985" group-title="Jio_sports",Sports18 1
 https://jio.charron269.workers.dev/bpk-tv/Sports18_1_SD_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="ts516" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" group-title="TataPlay_Telugu",STAR Maa HD
+#EXTVLCOPT:http-user-agent=Denver1769
+https://play.denver1769.in/tp.mpd?id=516
