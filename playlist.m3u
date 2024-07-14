@@ -131,9 +131,7 @@ http://port.denver1769.in/j.php?tv=7995
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 4K UHD HEVC
 http://port.denver1769.in/j.php?tv=42764
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 2 FHD
-http://port.denver1769.in/j.php?tv=42757
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 1 FHD
+ #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 1 FHD
 http://port.denver1769.in/j.php?tv=42778
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 3 FHD
 http://port.denver1769.in/j.php?tv=42785
@@ -208,366 +206,389 @@ https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/play
 #EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="SVBC",SVBC Telugu (1080p)
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="maagold.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa-Gold.png",IN-TG | D2H STAR MAA GOLD
-https://tgaadi-web.tech/B1g.php?tv=689321
-#EXTINF:-1 tvg-id="starmaahd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa.png",IN-TG | D2H STAR MAA FHD
-https://tgaadi-web.tech/B1g.php?tv=161931
-#EXTINF:-1 tvg-id="starmaahd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa.png",IN-TG | TS STAR MAA FHD
-https://tgaadi-web.tech/B1g.php?tv=17450
-#EXTINF:-1 tvg-id="maagold.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa-Gold.png",IN-TG | TS STAR MAA GOLD
-https://tgaadi-web.tech/B1g.php?tv=20701
-#EXTINF:-1 tvg-id="starmaamovieshd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa-Movies-HD.png",IN-TG | D2H STAR MAA MOVIES FHD
-https://tgaadi-web.tech/B1g.php?tv=689320
-#EXTINF:-1 tvg-id="starmaamovieshd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa-Movies-HD.png",IN-TG | TS STAR MAA MOVIES FHD
-https://tgaadi-web.tech/B1g.php?tv=20700
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-PIX-HD.png",IN-TG | D2H SONY PIX FHD
-https://tgaadi-web.tech/B1g.php?tv=397979
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-PIX-HD.png",IN-TG | TS SONY PIX FHD
-https://tgaadi-web.tech/B1g.php?tv=663377
-#EXTINF:-1 tvg-id="sonypix.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-PIX.png",IN-TG | TS SONY PIX SD
-https://tgaadi-web.tech/B1g.php?tv=663378
-#EXTINF:-1 tvg-id="sonyyay.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1g.fun/logos2/sony_yay.jpg",IN-TG | D2H SONY YAY
-https://tgaadi-web.tech/B1g.php?tv=407109
-#EXTINF:-1 tvg-id="sonyyay.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1g.fun/logos2/sony_yay.jpg",IN-TG | TS SONY YAY!
-https://tgaadi-web.tech/B1g.php?tv=663391
-#EXTINF:-1 tvg-id="sonyyay.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1g.fun/logos2/sony_yay.jpg",IN-TG | TS SONY YAY
-https://tgaadi-web.tech/B1g.php?tv=20690
-#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU",IN-TG | D2H SONY BBC EARTH FHD
-https://tgaadi-web.tech/B1g.php?tv=161916
-#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU",IN-TG | TS SONY BBC EARTH FHD
-https://tgaadi-web.tech/B1g.php?tv=20729
-#EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Telugu-HD.png",IN-TG | D2H ZEE TELUGU FHD
-https://tgaadi-web.tech/B1g.php?tv=192764
-#EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Telugu-HD.png",IN-TG | TS ZEE TELUGU FHD
-https://tgaadi-web.tech/B1g.php?tv=20680
-#EXTINF:-1 tvg-id="zeetelugu.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Telugu.png",IN-TG | TS ZEE TELUGU SD
-https://tgaadi-web.tech/B1g.php?tv=663368
-#EXTINF:-1 tvg-id="zeecinemaluhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cinemalu-HD.png",IN-TG | D2H ZEE CINEMALU FHD
-https://tgaadi-web.tech/B1g.php?tv=166317
-#EXTINF:-1 tvg-id="zeecinemaluhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cinemalu-HD.png",IN-TG | TS ZEE CINEMALU FHD
-https://tgaadi-web.tech/B1g.php?tv=20677
-#EXTINF:-1 tvg-id="zee.vajwa.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Vajwa.png",IN-TG | D2H ZEE VAJWA
-https://tgaadi-web.tech/B1g.php?tv=166318
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/National-Geographic-HD.png",IN-TG | D2H NATIONAL GEOGRAPHICS FHD
-https://tgaadi-web.tech/B1g.php?tv=403908
-#EXTINF:-1 tvg-id="nationalgeographicchannel.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/National-Geographic-HD.png",IN-TG | TS NATIONAL GEOGRAPHIC FHD
-https://tgaadi-web.tech/B1g.php?tv=663382
-#EXTINF:-1 tvg-id="nationalgeographicchannel.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/National-Geographic-HD.png",IN-TG | TS NATIONAL GEOGRAPHIC SD
-https://tgaadi-web.tech/B1g.php?tv=663383
-#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nat-Geo-Wild-HD.png",IN-TG | D2H NAT GEO WILD FHD
-https://tgaadi-web.tech/B1g.php?tv=161890
-#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nat-Geo-Wild-HD.png",IN-TG | TS NAT GEO WILD FHD
-https://tgaadi-web.tech/B1g.php?tv=663384
-#EXTINF:-1 tvg-id="natgeowild.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nat-Geo-Wild.png",IN-TG | TS NAT GEO WILD SD
-https://tgaadi-web.tech/B1g.php?tv=663385
-#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="",IN-TG | D2H DISCOVERY CHANNEL
-https://tgaadi-web.tech/B1g.php?tv=161855
-#EXTINF:-1 tvg-id="discovery.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-HD-World.png",IN-TG | TS DISCOVERY WORLD FHD
-https://tgaadi-web.tech/B1g.php?tv=663380
-#EXTINF:-1 tvg-id="discovery.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-HD-World.png",IN-TG | TS DISCOVERY WORLD FHD
-https://tgaadi-web.tech/B1g.php?tv=20722
-#EXTINF:-1 tvg-id="discovery.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Channel-1.png",IN-TG | TS DISCOVERY CHANNEL SD
-https://tgaadi-web.tech/B1g.php?tv=663381
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="https://pluspng.com/img-png/history-hd-png-historyhd-png-352.png",IN-TG | D2H HISTORY TV18 FHD
-https://tgaadi-web.tech/B1g.php?tv=161877
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="https://pluspng.com/img-png/history-hd-png-historyhd-png-352.png",IN-TG | TS HISTORY 18 FHD
-https://tgaadi-web.tech/B1g.php?tv=20706
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-English-in-Telugu.png",IN-TG | TS TATA PLAY ENGLISH IN TELUGU
-https://tgaadi-web.tech/B1g.php?tv=663376
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Hollywood-Local.png",IN-TG | TS TATA PLAY HOLLYWOOD LOCAL
-https://tgaadi-web.tech/B1g.php?tv=663375
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Fitness.png",IN-TG | TS TATA PLAY FITNESS
-https://tgaadi-web.tech/B1g.php?tv=663374
-#EXTINF:-1 tvg-id="naaptontelugu.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Naaptol.png",IN-TG | TS TELUGU NAAPTOL
-https://tgaadi-web.tech/B1g.php?tv=663379
-#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gemini.png",IN-TG | D2H GEMINI TV FHD
-https://tgaadi-web.tech/B1g.php?tv=161872
-#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gemini.png",IN-TG | TS GEMINI TV FHD
-https://tgaadi-web.tech/B1g.php?tv=20708
-#EXTINF:-1 tvg-id="geminilife.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gemini-Life.png",IN-TG | D2H GEMINI LIFE
-https://tgaadi-web.tech/B1g.php?tv=166316
-#EXTINF:-1 tvg-id="geminilife.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gemini-Life.png",IN-TG | TS GEMINI LIFE
-https://tgaadi-web.tech/B1g.php?tv=20714
-#EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gemini-Movies-HD.png",IN-TG | TS GEMINI MOVIES FHD
-https://tgaadi-web.tech/B1g.php?tv=20712
-#EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gemini-Movies-HD.png",IN-TG | TS GEMINI MOVIES FHD
-https://tgaadi-web.tech/B1g.php?tv=20711
-#EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gemini-Comedy.png",IN-TG | D2H GEMINI COMEDY
-https://tgaadi-web.tech/B1g.php?tv=20713
-#EXTINF:-1 tvg-id="geminimusic.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gemini-Music.png",IN-TG | GEMINI MUSIC HD
-https://tgaadi-web.tech/B1g.php?tv=20710
-#EXTINF:-1 tvg-id="abnandhrajyothy.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Abn-Andhra.png",IN-TG | D2H ABN ANDHRA JYOTHI
-https://tgaadi-web.tech/B1g.php?tv=20731
-#EXTINF:-1 tvg-id="abnandhrajyothy.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Abn-Andhra.png",IN-TG | TS ABN ANDHRA JYOTHY
-https://tgaadi-web.tech/B1g.php?tv=663397
-#EXTINF:-1 tvg-id="aradanatv.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Abn-Andhra.png",IN-TG | ARADHANA TV
-https://tgaadi-web.tech/B1g.php?tv=20730
-#EXTINF:-1 tvg-id="aradanatv.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Ardana-TV.png",IN-TG | TS ARADANA TV
-https://tgaadi-web.tech/B1g.php?tv=663405
-#EXTINF:-1 tvg-id="swarasagar.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Swara-Sagar.png",IN-TG | TS SWARA SAGAR
-https://tgaadi-web.tech/B1g.php?tv=663406
-#EXTINF:-1 tvg-id="shubhavaartatv.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Shubhavaarta-TV.png",IN-TG | TS SHUBHAVAARTA TV
-https://tgaadi-web.tech/B1g.php?tv=663404
-#EXTINF:-1 tvg-id="ddyadagiri.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Yadagiri.png",IN-TG | TS DD YADAGIRI
-https://tgaadi-web.tech/B1g.php?tv=663402
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gubbare.png",IN-TG | TS GUBBARE
-https://tgaadi-web.tech/B1g.php?tv=663393
-#EXTINF:-1 tvg-id="ts587" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Super-Hungama.png",IN-TG | TS SUPER HUNGAMA
-https://tgaadi-web.tech/B1g.php?tv=663387
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="https://static.epg.best/in/AndPictures.in.png",IN-TG | D2H &FLIX FHD
-https://tgaadi-web.tech/B1g.php?tv=161827
-#EXTINF:-1 tvg-id="10tv.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png",IN-TG | D2H 10 TV
-https://tgaadi-web.tech/B1g.php?tv=192763
-#EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Bhakti-TV.png",IN-TG | TS BHAKTI TV
-https://tgaadi-web.tech/B1g.php?tv=20728
-#EXTINF:-1 tvg-id="cvrenglish.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CVR-English.png",IN-TG | CVR ENGLISH NEWS
-https://tgaadi-web.tech/B1g.php?tv=20726
-#EXTINF:-1 tvg-id="cvrnews.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CVR-News.png",IN-TG | CVR NEWS
-https://tgaadi-web.tech/B1g.php?tv=20725
-#EXTINF:-1 tvg-id="cvrspiritualom.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CVR-Spirtual.png",IN-TG | CVR OM SPIRITUAL
-https://tgaadi-web.tech/B1g.php?tv=20724
-#EXTINF:-1 tvg-id="ddsaptagiri.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Saptagiri.png",IN-TG | TS DD SAPTAGIRI
-https://tgaadi-web.tech/B1g.php?tv=20723
-#EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Abhiruchi.png",IN-TG | D2H ETV ABHIRUCHI
-https://tgaadi-web.tech/B1g.php?tv=192767
-#EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Abhiruchi.png",IN-TG | TS ETV ABHIRUCHI
-https://tgaadi-web.tech/B1g.php?tv=20721
-#EXTINF:-1 tvg-id="etvandhrapradesh.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Andhra-Pradesh.png",IN-TG | TS ETV ANDHRA PRADESH
-https://tgaadi-web.tech/B1g.php?tv=20720
-#EXTINF:-1 tvg-id="etvhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="",IN-TG | D2H ETV FHD
-https://tgaadi-web.tech/B1g.php?tv=166314
-#EXTINF:-1 tvg-id="etvhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="",IN-TG | TS ETV FHD
-https://tgaadi-web.tech/B1g.php?tv=20715
-#EXTINF:-1 tvg-id="etvhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="",IN-TG | TS ETV SD
-https://tgaadi-web.tech/B1g.php?tv=663373
-#EXTINF:-1 tvg-id="etvlife.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Life.png",IN-TG | D2H ETV LIFE
-https://tgaadi-web.tech/B1g.php?tv=166315
-#EXTINF:-1 tvg-id="etvlife.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Life.png",IN-TG | TS ETV LIFE
-https://tgaadi-web.tech/B1g.php?tv=20718
-#EXTINF:-1 tvg-id="etvplus.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Plus.png",IN-TG | TS ETV PLUS
-https://tgaadi-web.tech/B1g.php?tv=20717
-#EXTINF:-1 tvg-id="etvcinema.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Cinema.png",IN-TG | D2H ETV CINEMA
-https://tgaadi-web.tech/B1g.php?tv=164441
-#EXTINF:-1 tvg-id="etvcinema.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Cinema.png",IN-TG | TS ETV CINEMA
-https://tgaadi-web.tech/B1g.php?tv=20719
-#EXTINF:-1 tvg-id="etvtelengana.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Telangana.png",IN-TG | TS ETV TELANGANA
-https://tgaadi-web.tech/B1g.php?tv=20716
-#EXTINF:-1 tvg-id="hindudharmam.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hindu-Dharmam.png",IN-TG | TS HINDU DHARMAM
-https://tgaadi-web.tech/B1g.php?tv=20679
-#EXTINF:-1 tvg-id="hmtv.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/HM-TV.png",IN-TG | TS HM TV
-https://tgaadi-web.tech/B1g.php?tv=20705
-#EXTINF:-1 tvg-id="790" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/iNews.png",IN-TG | I NEWS
-https://tgaadi-web.tech/B1g.php?tv=20704
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TBO.png",IN-TG | TBO
-https://tgaadi-web.tech/B1g.php?tv=20703
-#EXTINF:-1 tvg-id="a1.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TBO-Classic.png",IN-TG | TBO CLASSIC
-https://tgaadi-web.tech/B1g.php?tv=20685
-#EXTINF:-1 tvg-id="kushitv.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kushi.png",IN-TG | KUSHI TV
-https://tgaadi-web.tech/B1g.php?tv=20702
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/4tv-News.png",IN-TG | TS 4TV NEWS
-https://tgaadi-web.tech/B1g.php?tv=663401
-#EXTINF:-1 tvg-id="800" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Maha-News.png",IN-TG | TS MAHA NEWS
-https://tgaadi-web.tech/B1g.php?tv=20699
-#EXTINF:-1 tvg-id="ntvnews.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NTV.png",IN-TG | D2H NTV
-https://tgaadi-web.tech/B1g.php?tv=20697
-#EXTINF:-1 tvg-id="ntvnews.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NTV.png",IN-TG | TS NTV TELUGU
-https://tgaadi-web.tech/B1g.php?tv=663396
-#EXTINF:-1 tvg-id="studio.one.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Studio-Yuva.png",IN-TG | STUDIO YUVA
-https://tgaadi-web.tech/B1g.php?tv=20688
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Prajaa-TV.png",IN-TG | PRAJAA TV
-https://tgaadi-web.tech/B1g.php?tv=20678
-#EXTINF:-1 tvg-id="rajmusixtelugu.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-Musix.png",IN-TG | D2H RAJ MUSIX
-https://tgaadi-web.tech/B1g.php?tv=20696
-#EXTINF:-1 tvg-id="rajmusixtelugu.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-Musix.png",IN-TG | TS RAJ MUSIX
-https://tgaadi-web.tech/B1g.php?tv=663403
-#EXTINF:-1 tvg-id="sakshitv.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sakshi-TV.png",IN-TG | TS SAKSHI TV
-https://tgaadi-web.tech/B1g.php?tv=20692
-#EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-News.png",IN-TG | D2H RAJ NEWS
-https://tgaadi-web.tech/B1g.php?tv=20695
-#EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-News.png",IN-TG | TS RAJ NEWS
-https://tgaadi-web.tech/B1g.php?tv=663399
-#EXTINF:-1 tvg-id="svbc.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sri-Venka.png",IN-TG | SRI VENKATESHWAR BHAKTI
-https://tgaadi-web.tech/B1g.php?tv=20689
-#EXTINF:-1 tvg-id="tnews.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/T-News.png",IN-TG | TS T NEWS
-https://tgaadi-web.tech/B1g.php?tv=20687
-#EXTINF:-1 tvg-id="tv5.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TV5-News.png",IN-TG | D2H TV5 NEWS
-https://tgaadi-web.tech/B1g.php?tv=20686
-#EXTINF:-1 tvg-id="tv5.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TV5-News.png",IN-TG | TS TV5 NEWS
-https://tgaadi-web.tech/B1g.php?tv=663395
-#EXTINF:-1 tvg-id="v6telugu.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/V6.png",IN-TG | D2H V6 NEWS
-https://tgaadi-web.tech/B1g.php?tv=20683
-#EXTINF:-1 tvg-id="v6telugu.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/V6.png",IN-TG | TS V6 NEWS
-https://tgaadi-web.tech/B1g.php?tv=663398
-#EXTINF:-1 tvg-id="tv9.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TV9-Telegu.png",IN-TG | TS TV9 TELUGU
-https://tgaadi-web.tech/B1g.php?tv=20684
-#EXTINF:-1 tvg-id="vanithatv.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vanitha.png",IN-TG | D2H VANITHA
-https://tgaadi-web.tech/B1g.php?tv=20682
-#EXTINF:-1 tvg-id="vissatv.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vissa-TV.png",IN-TG | TS VISSA TV
-https://tgaadi-web.tech/B1g.php?tv=20681
-#EXTINF:-1 tvg-id="10tv.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png",IN-TG | D2H 10 TV
-https://tgaadi-web.tech/B1g.php?tv=20732
-#EXTINF:-1 tvg-id="10tv.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png",IN-TG | TS 10 TV
-https://tgaadi-web.tech/B1g.php?tv=663400
-#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Cartoon-Network.png",IN-TG | D2H CARTOON NETWORK
-https://tgaadi-web.tech/B1g.php?tv=161838
-#EXTINF:-1 tvg-id="discoverykids.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Kids.png",IN-TG | D2H DISCOVERY KIDS
-https://tgaadi-web.tech/B1g.php?tv=161861
-#EXTINF:-1 tvg-id="discoverykids.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Kids.png",IN-TG | TS DISCOVERY KIDS
-https://tgaadi-web.tech/B1g.php?tv=663389
-#EXTINF:-1 tvg-id="disneyjunior.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Disney-Junior.png",IN-TG | TS DISNEY JUNIOR
-https://tgaadi-web.tech/B1g.php?tv=663394
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Toons.png",IN-TG | TS TATA PLAY TOONS+
-https://tgaadi-web.tech/B1g.php?tv=663392
-#EXTINF:-1 tvg-id="pogo.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Pogo.png",IN-TG | TS POGO
-https://tgaadi-web.tech/B1g.php?tv=663388
-#EXTINF:-1 tvg-id="sonicnickelodeon.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sonic-1.png",IN-TG | D2H SONIC
-https://tgaadi-web.tech/B1g.php?tv=161912
-#EXTINF:-1 tvg-id="sonicnickelodeon.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sonic-1.png",IN-TG | TS SONIC NICKELODEON
-https://tgaadi-web.tech/B1g.php?tv=663390
-#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Cartoon-Network.png",IN-TG | TS CARTOON NETWORK
-https://tgaadi-web.tech/B1g.php?tv=20727
-#EXTINF:-1 tvg-id="wow.cinema.one.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Wow-Kids-Telegu.png",IN-TG | WOW KIDS TELUGU
-https://tgaadi-web.tech/B1g.php?tv=86055
-#EXTINF:-1 tvg-id="nick.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nick-2.png",IN-TG | D2H NICK
-https://tgaadi-web.tech/B1g.php?tv=161898
-#EXTINF:-1 tvg-id="nick.in" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nick-2.png",IN-TG | TS NICK
-https://tgaadi-web.tech/B1g.php?tv=20698
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://127.0.0.1/",TataSky_STAR 4K
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",TataSky_STAR 4K
 http://port.denver1769.in/j.php?tv=18855
-#EXTINF:-1 tvg-id="wllohd" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/willowhd.jpg",IN | WILLOW CRICKET HD
-https://tgaadi-web.tech/B1g.php?tv=173031
-#EXTINF:-1 tvg-id="dupwchd" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/willowhd.jpg",US | WILLOW CRICKET HD
-https://tgaadi-web.tech/B1g.php?tv=98525
-#EXTINF:-1 tvg-id="wilxtra" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/willowxtra.jpg",IN | WILLOW XTRA HD
-https://tgaadi-web.tech/B1g.php?tv=20838
-#EXTINF:-1 tvg-id="wilxtra" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/willowxtra.jpg",US | WILLOW XTRA HD
-https://tgaadi-web.tech/B1g.php?tv=98526
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/supersports_cricket.jpg",SS CRICKET FHD
-https://tgaadi-web.tech/B1g.php?tv=57499
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/astro_cricket.jpg",ASTRO CRICKET FHD
-https://tgaadi-web.tech/B1g.php?tv=20812
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/star_sports1hd.jpg",IN | TS STAR SPORTS 1 FHD
-https://tgaadi-web.tech/B1g.php?tv=7888
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/star_sports1hd.jpg",D2H | STAR SPORTS 1 FHD
-https://tgaadi-web.tech/B1g.php?tv=161936
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/star_sports1hindi.jpg",IN | TS STAR SPORTS 1 FHD HINDI
-https://tgaadi-web.tech/B1g.php?tv=16906
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/star_sports1hindi.jpg",D2H | STAR SPORTS 1 HINDI FHD
-https://tgaadi-web.tech/B1g.php?tv=161937
-#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/star_sports1tamil.jpg",IN | D2H STAR SPORTS 1 FHD TAMIL
-https://tgaadi-web.tech/B1g.php?tv=166309
-#EXTINF:-1 tvg-id="starsports1telugu.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/star_sports1tamil.jpg",IN | D2H STAR SPORTS 1 FHD TELUGU
-https://tgaadi-web.tech/B1g.php?tv=712297
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/star_sports1_marathi.jpg",IN | TS STAR SPORTS 1 FHD MARATHI
-https://tgaadi-web.tech/B1g.php?tv=361351
-#EXTINF:-1 tvg-id="starsports1kannada.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/star_sports1kannda.jpg",IN | D2H STAR SPORTS 1 KANNADA
-https://tgaadi-web.tech/B1g.php?tv=14103
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/star_sports2.jpg",IN | TS STAR SPORTS 2 FHD
-https://tgaadi-web.tech/B1g.php?tv=82400
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/star_sports2.jpg",IN | TS STAR SPORTS 2 FHD*
-https://tgaadi-web.tech/B1g.php?tv=7887
-#EXTINF:-1 tvg-id="starsports3.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/star_sports_3.jpg",IN | STAR SPORTS 3 SD
-https://tgaadi-web.tech/B1g.php?tv=82401
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/star_sports2.jpg",D2H | STAR SPORTS 2 FHD
-https://tgaadi-web.tech/B1g.php?tv=161939
-#EXTINF:-1 tvg-id="starsports3.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/star_sports3.jpg",IN | D2H STAR SPORTS 3
-https://tgaadi-web.tech/B1g.php?tv=161955
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/star_sports_select_1hd.jpg",IN | TS STAR SPORTS SELECT 1 FHD
-https://tgaadi-web.tech/B1g.php?tv=8008
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/star_sports_select_1hd.jpg",D2H | STAR SPORTS SELECT 1 FHD
-https://tgaadi-web.tech/B1g.php?tv=161938
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/star_sports_select2.jpg",IN | TS STAR SPORTS SELECT 2 FHD
-https://tgaadi-web.tech/B1g.php?tv=7886
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/star_sports_select2.jpg",D2H | STAR SPORTS SELECT 2 FHD
-https://tgaadi-web.tech/B1g.php?tv=188294
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/sony_ten1.jpg",IN | TS SONY TEN 1 FHD
-https://tgaadi-web.tech/B1g.php?tv=7885
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/sony_ten1.jpg",IN | D2H SONY TEN 1 FHD
-https://tgaadi-web.tech/B1g.php?tv=161922
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/sony_ten2.jpg",IN | TS SONY TEN 2 FHD
-https://tgaadi-web.tech/B1g.php?tv=16119
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/sony_ten2.jpg",IN | D2H SONY TEN 2 FHD
-https://tgaadi-web.tech/B1g.php?tv=161923
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/sony_ten3.jpg",IN | TS SONY TEN 3 FHD
-https://tgaadi-web.tech/B1g.php?tv=16120
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/sony_ten3.jpg",IN | D2H SONY TEN 3 FHD
-https://tgaadi-web.tech/B1g.php?tv=161924
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/sony_ten5.jpg",IN | TS SONY TEN 5 FHD
-https://tgaadi-web.tech/B1g.php?tv=9085
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/sony_ten5.jpg",D2H | SONY TEN 5 FHD
-https://tgaadi-web.tech/B1g.php?tv=161921
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/sony_ten4.jpg",IN | D2HSONY TEN 4
-https://tgaadi-web.tech/B1g.php?tv=192746
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/sony_ten4.jpg",IN | D2H SONY TEN 5 HD
-https://tgaadi-web.tech/B1g.php?tv=689429
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/sports18_khel.jpg",IN-FD | SPORTS 18 KHEL
-https://tgaadi-web.tech/B1g.php?tv=417606
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/sports18.jpg",IN | TS SPORTS 18 FHD
-https://tgaadi-web.tech/B1g.php?tv=415465
-#EXTINF:-1 tvg-id="eurosport.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/eurosports.jpg",D2H | EUROSPORT SD
-https://tgaadi-web.tech/B1g.php?tv=161866
-#EXTINF:-1 tvg-id="eurosport.in" tvg-name="" group-title="TataSky_Sports" tvg-logo="http://b1g.fun/logos2/eurosport_hd.jpg",D2H | EUROSPORT FHD
-https://tgaadi-web.tech/B1g.php?tv=161867
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 1 ENG FHD
+http://port.denver1769.in/j.php?tv=18619
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 1 HIN 4K
+http://port.denver1769.in/j.php?tv=14790
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",Astro Cricket
+http://port.denver1769.in/j.php?tv=7918
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",Star Sport1 HD
+http://port.denver1769.in/j.php?tv=18619
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS FIRST
+http://port.denver1769.in/j.php?tv=368
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",WILLOW Cricket
+http://port.denver1769.in/j.php?tv=372
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",Sky Sports1
+http://port.denver1769.in/j.php?tv=41782
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",Ten Sports HD
+http://port.denver1769.in/j.php?tv=41747
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",Sky Sports Cricket
+http://port.denver1769.in/j.php?tv=42372
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",Sky Sports
+http://port.denver1769.in/j.php?tv=8449
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SPORTS 18 1 HD
+http://port.denver1769.in/j.php?tv=41775
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",TEN SPORTS 4K
+http://port.denver1769.in/j.php?tv=41747
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SPORTS 18 1 Tel
+http://port.denver1769.in/j.php?tv=41768
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SPORTS 18 1 Kan
+http://port.denver1769.in/j.php?tv=41761
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",ASTRO CRICKET 4K
+http://port.denver1769.in/j.php?tv=374
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",FLOW SPORTS 4K
+http://port.denver1769.in/j.php?tv=4209
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",WILLOW US 4K
+http://port.denver1769.in/j.php?tv=355
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 1
+http://port.denver1769.in/j.php?tv=373
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 3
+http://port.denver1769.in/j.php?tv=371
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 5
+http://port.denver1769.in/j.php?tv=8422
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",Sky Sports1
+http://port.denver1769.in/j.php?tv=41782
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",A Sports
+http://port.denver1769.in/j.php?tv=41740
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SKY SPORTS CRICKET 4K
+http://port.denver1769.in/j.php?tv=8345
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",RUSH SPORTS CRICKET 4K
+http://port.denver1769.in/j.php?tv=18809
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",ESPN 4K
+http://port.denver1769.in/j.php?tv=11779
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 5 HD*
+http://port.denver1769.in/j.php?tv=11734
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",TEN CRICKET 4K
+http://port.denver1769.in/j.php?tv=11800
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SUPER SPORTS CRICKET FHD
+http://port.denver1769.in/j.php?tv=8431
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 1 4K
+http://port.denver1769.in/j.php?tv=6068
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 1 HINDI FHD
+http://port.denver1769.in/j.php?tv=11793
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS SELECT 1 FHD
+http://port.denver1769.in/j.php?tv=11807
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 2 4K
+http://port.denver1769.in/j.php?tv=8346
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SKY CIRCKET 4K
+http://port.denver1769.in/j.php?tv=354
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SUPER SPORTS CRICKET 4K
+http://port.denver1769.in/j.php?tv=5021
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 5 HD
+http://port.denver1769.in/j.php?tv=8051
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",ATN StarPLUS
+http://port.denver1769.in/j.php?tv=376
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",TEN SPORTS HD
+http://port.denver1769.in/j.php?tv=357
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",GEO SUPER
+http://port.denver1769.in/j.php?tv=358
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS SELECT 1 4K
+http://port.denver1769.in/j.php?tv=361
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS SELECT 2 HD
+http://port.denver1769.in/j.php?tv=362
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 1 ENGLISH HD
+http://port.denver1769.in/j.php?tv=364
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 1 HINDI HD
+http://port.denver1769.in/j.php?tv=365
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",Sony SPorts1 HD
+http://port.denver1769.in/j.php?tv=369
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",DD SPORTS
+http://port.denver1769.in/j.php?tv=375
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SPORTS TREND TV HD
+http://port.denver1769.in/j.php?tv=380
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 1 ENG FHD
+http://port.denver1769.in/j.php?tv=18619
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SPORTS 18 ENG 4K
+http://port.denver1769.in/j.php?tv=41775
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",FLOW SPORTS 4K
+http://port.denver1769.in/j.php?tv=4209
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 1 4K
+http://port.denver1769.in/j.php?tv=373
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 2 4K
+http://port.denver1769.in/j.php?tv=370
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 3 4K
+http://port.denver1769.in/j.php?tv=371
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",HUB SPORTS
+http://port.denver1769.in/j.php?tv=18818
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",HUB SPORTS 5
+http://port.denver1769.in/j.php?tv=14815
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SKY SPORTS CRICKET 4K
+http://port.denver1769.in/j.php?tv=8345
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",RUSH SPORTS CRICKET 4K
+http://port.denver1769.in/j.php?tv=18809
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 5 HD*
+http://port.denver1769.in/j.php?tv=11734
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SUPER SPORTS CRICKET FHD
+http://port.denver1769.in/j.php?tv=8431
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS HINDI 4K
+http://port.denver1769.in/j.php?tv=18642
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 1 4K
+http://port.denver1769.in/j.php?tv=6068
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SUPER SPORTS CRICKET 4K
+http://port.denver1769.in/j.php?tv=5021
+http://port.denver1769.in/j.php?tv=367
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",DD SPORTS
+http://port.denver1769.in/j.php?tv=375
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",EUROSPORTS INDIA 4K
+http://port.denver1769.in/j.php?tv=379
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SPORTS TREND TV HD
+http://port.denver1769.in/j.php?tv=380
 
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/sony_pixhd.jpg",IN | TS SONY PIX ENG FHD
-https://tgaadi-web.tech/B1g.php?tv=8557
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/sony_pixhd.jpg",IN | TS SONY PIX HINDI FHD
-https://tgaadi-web.tech/B1g.php?tv=378703
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/sony_pixhd.jpg",IN | D2H SONY PIX FHD HINDI
-https://tgaadi-web.tech/B1g.php?tv=161919
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="https://static.epg.best/in/AndPictures.in.png",IN | & FLIX FHD
-https://tgaadi-web.tech/B1g.php?tv=8021
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="https://static.epg.best/in/AndPictures.in.png",IN | D2H & FLIX HINDI FHD
-https://tgaadi-web.tech/B1g.php?tv=161825
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="https://static.epg.best/in/AndPictures.in.png",IN | D2H & FLIX ENGLISH FHD
-https://tgaadi-web.tech/B1g.php?tv=161824
-#EXTINF:-1 tvg-id="bflixmovies.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/b_flix.jpg",IN | TS B-FLIX MOVIES
-https://tgaadi-web.tech/B1g.php?tv=20822
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="https://h.top4top.io/p_2563jy7hz1.png",IN | D2H & XPLOR FHD
-https://tgaadi-web.tech/B1g.php?tv=748349
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/star_movieshd.jpg",IN | D2H STAR MOVIES FHD
-https://tgaadi-web.tech/B1g.php?tv=161932
-#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/star_movies_selecthd.jpg",IN | D2H STAR MOVIES SELECT FHD
-https://tgaadi-web.tech/B1g.php?tv=161933
-#EXTINF:-1 tvg-id="starworldhd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/star_worldhd.jpg",IN | D2H STAR WORLD FHD
-https://tgaadi-web.tech/B1g.php?tv=161941
-#EXTINF:-1 tvg-id="starpremierehd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/star_worldpremierehd.jpg",IN | D2H STAR WORLD PREMIER FHD
-https://tgaadi-web.tech/B1g.php?tv=161942
-#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/movies_nowhd.jpg",IN | TS MOVIES NOW FHD
-https://tgaadi-web.tech/B1g.php?tv=20828
-#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/movies_nowhd.jpg",IN | D2H MOVIES NOW
-https://tgaadi-web.tech/B1g.php?tv=161884
-#EXTINF:-1 tvg-id="colorsinfinityhd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/colors_infinityhd.jpg",IN | TS COLORS INFINITY FHD
-https://tgaadi-web.tech/B1g.php?tv=14331
-#EXTINF:-1 tvg-id="colorsinfinityhd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/colors_infinityhd.jpg",IN | D2H COLORS INFINITY FHD
-https://tgaadi-web.tech/B1g.php?tv=161845
-#EXTINF:-1 tvg-id="colorsinfinityhd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/colors_infinityhd.jpg",IN | VT COLORS INFINITY FHD
-https://tgaadi-web.tech/B1g.php?tv=235958
-#EXTINF:-1 tvg-id="mnx.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/mnx_hd.jpg",IN | D2H MNX FHD
-https://tgaadi-web.tech/B1g.php?tv=161882
-#EXTINF:-1 tvg-id="mnx.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/mnx_hd.jpg",IN | TS MNX FHD
-https://tgaadi-web.tech/B1g.php?tv=20825
-#EXTINF:-1 tvg-id="mnplushd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="",IN | TS MN+ MOVIES FHD
-https://tgaadi-web.tech/B1g.php?tv=11834
-#EXTINF:-1 tvg-id="romedynow.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/romedy_nowhd.jpg",IN | D2H ROMEDY NOW
-https://tgaadi-web.tech/B1g.php?tv=161905
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/&privehd.jpg",IN | TS &PRIVE FHD
-https://tgaadi-web.tech/B1g.php?tv=20832
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/&privehd.jpg",IN | D2H & PRIVE FHD
-https://tgaadi-web.tech/B1g.php?tv=161829
-#EXTINF:-1 tvg-id="andpictures.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/&pictures.jpg",IN | TS & PICTURES SD
-https://tgaadi-web.tech/B1g.php?tv=163723
-#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/&pictureshd.jpg",IN | TS &PICTURES FHD
-https://tgaadi-web.tech/B1g.php?tv=14523
-#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/&pictureshd.jpg",IN | D2H & PICTURES FHD
-https://tgaadi-web.tech/B1g.php?tv=161828
-#EXTINF:-1 tvg-id="2149" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="https://img.etimg.com/thumb/msid-57986803,width-640,height-480,imgsize-172406,resizemode-4/exclusively-for-prime-users.jpg",IN | JIO PRIME FHD
-https://tgaadi-web.tech/B1g.php?tv=86053
-#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/zee_cafehd.jpg",IN | TS ZEE CAFE FHD
-https://tgaadi-web.tech/B1g.php?tv=16566
-#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/zee_cafehd.jpg",IN | D2H ZEE CAFE FHD
-https://tgaadi-web.tech/B1g.php?tv=161950
-#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="" group-title="TataSky_ENG_Movies" tvg-logo="http://b1g.fun/logos2/zee_cafehd.jpg",IN | D2H ZEE CAFE FHD
-https://tgaadi-web.tech/B1g.php?tv=164429
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 4K UHD HEVC
+http://port.denver1769.in/j.php?tv=42764
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 2 FHD
+http://port.denver1769.in/j.php?tv=42757
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 1 FHD
+http://port.denver1769.in/j.php?tv=42778
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 3 FHD
+http://port.denver1769.in/j.php?tv=42785
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 4 FHD
+http://port.denver1769.in/j.php?tv=42771
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 5 FHD
+http://port.denver1769.in/j.php?tv=42792
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU EROSNOW CLASSIC CINEMA
+http://port.denver1769.in/j.php?tv=32388
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CLASSIC CINEMA 1 SD
+http://port.denver1769.in/j.php?tv=32399
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU COMEDY ROMANCE CINEMA HD
+http://port.denver1769.in/j.php?tv=32421
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU COMEDY CLIP
+http://port.denver1769.in/j.php?tv=32410
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU DUBBED 1 4K
+http://port.denver1769.in/j.php?tv=32443
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU DUBBED 2 4K
+http://port.denver1769.in/j.php?tv=32454
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CINEMA 1 HD
+http://port.denver1769.in/j.php?tv=32432
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CINEMA 2 SD
+http://port.denver1769.in/j.php?tv=32487
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CINEMA 3 SD
+http://port.denver1769.in/j.php?tv=32465
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CINEMA 4 SD
+http://port.denver1769.in/j.php?tv=32498
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU LATEST CINEMA HD
+http://port.denver1769.in/j.php?tv=32476
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CLASSIC CINEMA 1 HD
+http://port.denver1769.in/j.php?tv=32542
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CLASSIC CINEMA 2 HD
+http://port.denver1769.in/j.php?tv=32509
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU ROMANCE CINEMA HD
+http://port.denver1769.in/j.php?tv=32520
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU THRILLER CINEMA HD
+http://port.denver1769.in/j.php?tv=32531
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CRIME CINEMA HD
+http://port.denver1769.in/j.php?tv=32564
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU DRAMA THRILLER CINEMA HD
+http://port.denver1769.in/j.php?tv=32553
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU COMEDY DRAMA CINEMA HD
+http://port.denver1769.in/j.php?tv=32586
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU DRAMA ROMANCE CINEMA HD
+http://port.denver1769.in/j.php?tv=32619
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU MYSTERY CINEMA HD
+http://port.denver1769.in/j.php?tv=32575
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CRIME DRAMA CINEMA HD
+http://port.denver1769.in/j.php?tv=32630
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU DRAMA CINEMA HD
+http://port.denver1769.in/j.php?tv=32608
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU FAMILY CINEMA HD
+http://port.denver1769.in/j.php?tv=32597
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU ACTION CINEMA HD
+http://port.denver1769.in/j.php?tv=32641
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",BIG BOSS 4K
+http://port.denver1769.in/j.php?tv=14737
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",DISNEY CHANNEL INDIA HD
+http://port.denver1769.in/j.php?tv=41798
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",AASTHA TELUGU
+http://port.denver1769.in/j.php?tv=4222
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",BHAKTI TV HD
+http://port.denver1769.in/j.php?tv=1625
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",DIVYA VANI
+http://port.denver1769.in/j.php?tv=1663
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",HINDU DHARMAM
+http://port.denver1769.in/j.php?tv=1662
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CVR OM
+http://port.denver1769.in/j.php?tv=1658
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",SONY BBC EARTH TELUGU HD
+http://port.denver1769.in/j.php?tv=1640
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",HISTORY TV18 TELUGU HD
+http://port.denver1769.in/j.php?tv=1636
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",NATIONAL GEOGRAPHIC TELUGU HD
+http://port.denver1769.in/j.php?tv=1643
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",DISCOVERY WORLD TELUGU HD
+http://port.denver1769.in/j.php?tv=1634
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",NAT GEO WILD 4K*
+http://port.denver1769.in/j.php?tv=8343
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV HD
+http://port.denver1769.in/j.php?tv=1610
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV 4K
+http://port.denver1769.in/j.php?tv=13089
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV US HD
+http://port.denver1769.in/j.php?tv=1608
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV UK HD
+http://port.denver1769.in/j.php?tv=1606
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA 4K
+http://port.denver1769.in/j.php?tv=7850
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA HD
+http://port.denver1769.in/j.php?tv=1615
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA UK HD
+http://port.denver1769.in/j.php?tv=1611
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA USA HD
+http://port.denver1769.in/j.php?tv=1612
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA MOVIES HD
+http://port.denver1769.in/j.php?tv=1623
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA MOVIES UK HD
+http://port.denver1769.in/j.php?tv=1607
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA MOVIES USA HD
+http://port.denver1769.in/j.php?tv=1614
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CINEMA CLUB
+http://port.denver1769.in/j.php?tv=14711
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TATA SKY TELUGU CINEMA HD
+http://port.denver1769.in/j.php?tv=1639
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA GOLD HD
+http://port.denver1769.in/j.php?tv=1616
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA GOLD USA HD
+http://port.denver1769.in/j.php?tv=1629
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA GOLD UK HD
+http://port.denver1769.in/j.php?tv=7277
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA MUSIC HD
+http://port.denver1769.in/j.php?tv=1609
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA MUSIC UK HD
+http://port.denver1769.in/j.php?tv=7278
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA MUSIC USA HD
+http://port.denver1769.in/j.php?tv=7279
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI HD
+http://port.denver1769.in/j.php?tv=1619
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI UK HD
+http://port.denver1769.in/j.php?tv=7280
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI USA HD
+http://port.denver1769.in/j.php?tv=1633
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI MOVIES HD
+http://port.denver1769.in/j.php?tv=1617
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI MOVIES UK HD
+http://port.denver1769.in/j.php?tv=7281
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI MOVIES USA HD
+http://port.denver1769.in/j.php?tv=7282
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI COMEDY HD
+http://port.denver1769.in/j.php?tv=1620
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI COMEDY UK HD
+http://port.denver1769.in/j.php?tv=7283
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI COMEDY USA HD
+http://port.denver1769.in/j.php?tv=7284
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI  LIFE HD
+http://port.denver1769.in/j.php?tv=1624
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI LIFE UK HD
+http://port.denver1769.in/j.php?tv=7285
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI LIFE USA HD
+http://port.denver1769.in/j.php?tv=7286
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI MUSIC HD
+http://port.denver1769.in/j.php?tv=1618
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI MUSIC UK HD
+http://port.denver1769.in/j.php?tv=7287
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI MUSIC USA HD
+http://port.denver1769.in/j.php?tv=7288
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ZEE TELUGU HD
+http://port.denver1769.in/j.php?tv=1622
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ZEE TELUGU 4K
+http://port.denver1769.in/j.php?tv=8437
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ZEE TELUGU USA HD
+http://port.denver1769.in/j.php?tv=1621
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ZEE TELUGU UK HD
+http://port.denver1769.in/j.php?tv=7289
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ZEE CINEMALU HD
+http://port.denver1769.in/j.php?tv=1642
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",YUPP TV VEDA
+http://port.denver1769.in/j.php?tv=11748
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",99 TV
+http://port.denver1769.in/j.php?tv=13096
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",RAJ MUSIC TELUGU
+http://port.denver1769.in/j.php?tv=1627
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV CINEMA HD
+http://port.denver1769.in/j.php?tv=1648
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV CINEMA US
+http://port.denver1769.in/j.php?tv=1638
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV ABHIRUCHI
+http://port.denver1769.in/j.php?tv=12814
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV LIFE HD
+http://port.denver1769.in/j.php?tv=1653
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV LIFE US HD
+http://port.denver1769.in/j.php?tv=1646
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV PLUS HD
+http://port.denver1769.in/j.php?tv=1652
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV PLUS USA HD
+http://port.denver1769.in/j.php?tv=7290
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",SAKSHI TV
+http://port.denver1769.in/j.php?tv=7996
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",HM TV
+http://port.denver1769.in/j.php?tv=11741
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CVR HEALTH
+http://port.denver1769.in/j.php?tv=1650
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",SONIC NICKLODEON HD
+http://port.denver1769.in/j.php?tv=1654
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV ANDHRA NEWS
+http://port.denver1769.in/j.php?tv=7995
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV TELANGANA
+http://port.denver1769.in/j.php?tv=7998
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",NTV TELUGU
+http://port.denver1769.in/j.php?tv=7997
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",RAJ NEWS TELUGU
+http://port.denver1769.in/j.php?tv=1628
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",10 TV NEWS HD
+http://port.denver1769.in/j.php?tv=1641
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TV9 NEWS HD
+http://port.denver1769.in/j.php?tv=1635
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",T NEWS HD
+http://port.denver1769.in/j.php?tv=1649
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",V6 NEWS
+http://port.denver1769.in/j.php?tv=1631
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TV5 NEWS
+http://port.denver1769.in/j.php?tv=1632
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CVR NEWS TELUGU
+http://port.denver1769.in/j.php?tv=1664
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",I NEWS HD
+http://port.denver1769.in/j.php?tv=1657
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",PRIME 9 NEWS
+http://port.denver1769.in/j.php?tv=1655
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ABN NEWS HD
+http://port.denver1769.in/j.php?tv=7667
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",AP 24X7 HD
+http://port.denver1769.in/j.php?tv=7669
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",VANITHA TV
+http://port.denver1769.in/j.php?tv=1630
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TV5 NEWS USA
+http://port.denver1769.in/j.php?tv=8022
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",MOJO TV
+http://port.denver1769.in/j.php?tv=12159
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",A TV
+http://port.denver1769.in/j.php?tv=7668
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",SUBHAVAARTHA TV
+http://port.denver1769.in/j.php?tv=1659
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",NIREESKHAN TV
+http://port.denver1769.in/j.php?tv=1656
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",Y ONE TV
+http://port.denver1769.in/j.php?tv=1660
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",SWAR SAGAR
+http://port.denver1769.in/j.php?tv=1651
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",DD SAPTAGIRI
+http://port.denver1769.in/j.php?tv=1644
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CALVARY TV
+http://port.denver1769.in/j.php?tv=1637
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",VISSA TV
+http://port.denver1769.in/j.php?tv=1645
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU BOX OFFICE HD
+http://port.denver1769.in/j.php?tv=1613
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",MERCY TV
+http://port.denver1769.in/j.php?tv=1661
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",KUSHI TV
+http://port.denver1769.in/j.php?tv=1626
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",SONY YAY TELUGU
+http://port.denver1769.in/j.php?tv=1647
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",MANA TV INTERNATIONAL
+http://port.denver1769.in/j.php?tv=7892
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",MANNA TV HD
+http://port.denver1769.in/j.php?tv=7893
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",6TV TELANGANA
+http://port.denver1769.in/j.php?tv=12306
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",BHARAT TODAY
+http://port.denver1769.in/j.php?tv=12390
