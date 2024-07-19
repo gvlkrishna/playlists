@@ -116,8 +116,6 @@ https://jio.charron269.workers.dev/bpk-tv/99TV_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="2956" tvg-name="ETV Plus HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus_HD.png" tvg-chno="2956" group-title="Jio_telugu",ETV Plus HD
 https://jio.charron269.workers.dev/bpk-tv/ETV_Plus_HD_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA UK HD
-http://port.denver1769.in/j.php?tv=1611
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="http://127.0.0.1/",ETV 4K
 http://port.denver1769.in/j.php?tv=13089
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI MUSIC HD
@@ -128,65 +126,6 @@ http://port.denver1769.in/j.php?tv=11748
 http://port.denver1769.in/j.php?tv=1627
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="http://127.0.0.1/",ETV ANDHRA NEWS
 http://port.denver1769.in/j.php?tv=7995
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 4K UHD HEVC
-http://port.denver1769.in/j.php?tv=42764
- #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 1 FHD
-http://port.denver1769.in/j.php?tv=42778
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 3 FHD
-http://port.denver1769.in/j.php?tv=42785
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 4 FHD
-http://port.denver1769.in/j.php?tv=42771
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 5 FHD
-http://port.denver1769.in/j.php?tv=42792
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU EROSNOW CLASSIC CINEMA
-http://port.denver1769.in/j.php?tv=32388
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CLASSIC CINEMA 1 SD
-http://port.denver1769.in/j.php?tv=32399
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU COMEDY ROMANCE CINEMA HD
-http://port.denver1769.in/j.php?tv=32421
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU COMEDY CLIP
-http://port.denver1769.in/j.php?tv=32410
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU DUBBED 1 4K
-http://port.denver1769.in/j.php?tv=32443
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU DUBBED 2 4K
-http://port.denver1769.in/j.php?tv=32454
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CINEMA 1 HD
-http://port.denver1769.in/j.php?tv=32432
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CINEMA 2 SD
-http://port.denver1769.in/j.php?tv=32487
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CINEMA 3 SD
-http://port.denver1769.in/j.php?tv=32465
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CINEMA 4 SD
-http://port.denver1769.in/j.php?tv=32498
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU LATEST CINEMA HD
-http://port.denver1769.in/j.php?tv=32476
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CLASSIC CINEMA 1 HD
-http://port.denver1769.in/j.php?tv=32542
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CLASSIC CINEMA 2 HD
-http://port.denver1769.in/j.php?tv=32509
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU ROMANCE CINEMA HD
-http://port.denver1769.in/j.php?tv=32520
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU THRILLER CINEMA HD
-http://port.denver1769.in/j.php?tv=32531
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CRIME CINEMA HD
-http://port.denver1769.in/j.php?tv=32564
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU DRAMA THRILLER CINEMA HD
-http://port.denver1769.in/j.php?tv=32553
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU COMEDY DRAMA CINEMA HD
-http://port.denver1769.in/j.php?tv=32586
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU DRAMA ROMANCE CINEMA HD
-http://port.denver1769.in/j.php?tv=32619
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU MYSTERY CINEMA HD
-http://port.denver1769.in/j.php?tv=32575
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CRIME DRAMA CINEMA HD
-http://port.denver1769.in/j.php?tv=32630
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU DRAMA CINEMA HD
-http://port.denver1769.in/j.php?tv=32608
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU FAMILY CINEMA HD
-http://port.denver1769.in/j.php?tv=32597
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU ACTION CINEMA HD
-http://port.denver1769.in/j.php?tv=32641
 
 #EXTINF:-1 tvg-id="1773" tvg-name="Sony Ten 4 HD Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" tvg-chno="1773" group-title="Jio_sports",Sony Ten 4 HD Telugu
 https://jio.charron269.workers.dev/bpk-tv/Ten_4_HD_Telugu_MOB/Fallback/index.m3u8
@@ -335,259 +274,135 @@ http://port.denver1769.in/j.php?tv=379
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SPORTS TREND TV HD
 http://port.denver1769.in/j.php?tv=380
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 4K UHD HEVC
-http://port.denver1769.in/j.php?tv=42764
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 2 FHD
-http://port.denver1769.in/j.php?tv=42757
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 1 FHD
-http://port.denver1769.in/j.php?tv=42778
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 3 FHD
-http://port.denver1769.in/j.php?tv=42785
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 4 FHD
-http://port.denver1769.in/j.php?tv=42771
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CINEMANIA TELUGU 5 FHD
-http://port.denver1769.in/j.php?tv=42792
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU EROSNOW CLASSIC CINEMA
-http://port.denver1769.in/j.php?tv=32388
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CLASSIC CINEMA 1 SD
-http://port.denver1769.in/j.php?tv=32399
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU COMEDY ROMANCE CINEMA HD
-http://port.denver1769.in/j.php?tv=32421
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU COMEDY CLIP
-http://port.denver1769.in/j.php?tv=32410
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU DUBBED 1 4K
-http://port.denver1769.in/j.php?tv=32443
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU DUBBED 2 4K
-http://port.denver1769.in/j.php?tv=32454
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CINEMA 1 HD
-http://port.denver1769.in/j.php?tv=32432
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CINEMA 2 SD
-http://port.denver1769.in/j.php?tv=32487
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CINEMA 3 SD
-http://port.denver1769.in/j.php?tv=32465
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CINEMA 4 SD
-http://port.denver1769.in/j.php?tv=32498
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU LATEST CINEMA HD
-http://port.denver1769.in/j.php?tv=32476
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CLASSIC CINEMA 1 HD
-http://port.denver1769.in/j.php?tv=32542
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CLASSIC CINEMA 2 HD
-http://port.denver1769.in/j.php?tv=32509
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU ROMANCE CINEMA HD
-http://port.denver1769.in/j.php?tv=32520
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU THRILLER CINEMA HD
-http://port.denver1769.in/j.php?tv=32531
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CRIME CINEMA HD
-http://port.denver1769.in/j.php?tv=32564
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU DRAMA THRILLER CINEMA HD
-http://port.denver1769.in/j.php?tv=32553
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU COMEDY DRAMA CINEMA HD
-http://port.denver1769.in/j.php?tv=32586
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU DRAMA ROMANCE CINEMA HD
-http://port.denver1769.in/j.php?tv=32619
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU MYSTERY CINEMA HD
-http://port.denver1769.in/j.php?tv=32575
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CRIME DRAMA CINEMA HD
-http://port.denver1769.in/j.php?tv=32630
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU DRAMA CINEMA HD
-http://port.denver1769.in/j.php?tv=32608
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU FAMILY CINEMA HD
-http://port.denver1769.in/j.php?tv=32597
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU ACTION CINEMA HD
-http://port.denver1769.in/j.php?tv=32641
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",BIG BOSS 4K
-http://port.denver1769.in/j.php?tv=14737
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",DISNEY CHANNEL INDIA HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",DISNEY CHANNEL INDIA HD
 http://port.denver1769.in/j.php?tv=41798
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",AASTHA TELUGU
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",AASTHA TELUGU
 http://port.denver1769.in/j.php?tv=4222
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",BHAKTI TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",BHAKTI TV HD
 http://port.denver1769.in/j.php?tv=1625
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",DIVYA VANI
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",DIVYA VANI
 http://port.denver1769.in/j.php?tv=1663
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",HINDU DHARMAM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",HINDU DHARMAM
 http://port.denver1769.in/j.php?tv=1662
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CVR OM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",CVR OM
 http://port.denver1769.in/j.php?tv=1658
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",SONY BBC EARTH TELUGU HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",SONY BBC EARTH TELUGU HD
 http://port.denver1769.in/j.php?tv=1640
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",HISTORY TV18 TELUGU HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",HISTORY TV18 TELUGU HD
 http://port.denver1769.in/j.php?tv=1636
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",NATIONAL GEOGRAPHIC TELUGU HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",NATIONAL GEOGRAPHIC TELUGU HD
 http://port.denver1769.in/j.php?tv=1643
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",DISCOVERY WORLD TELUGU HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",DISCOVERY WORLD TELUGU HD
 http://port.denver1769.in/j.php?tv=1634
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",NAT GEO WILD 4K*
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",NAT GEO WILD 4K*
 http://port.denver1769.in/j.php?tv=8343
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ETV HD
 http://port.denver1769.in/j.php?tv=1610
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV 4K
-http://port.denver1769.in/j.php?tv=13089
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV US HD
-http://port.denver1769.in/j.php?tv=1608
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV UK HD
-http://port.denver1769.in/j.php?tv=1606
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA 4K
-http://port.denver1769.in/j.php?tv=7850
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",STAR MAA HD
 http://port.denver1769.in/j.php?tv=1615
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA UK HD
-http://port.denver1769.in/j.php?tv=1611
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA USA HD
-http://port.denver1769.in/j.php?tv=1612
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",STAR MAA MOVIES HD
 http://port.denver1769.in/j.php?tv=1623
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA MOVIES UK HD
-http://port.denver1769.in/j.php?tv=1607
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA MOVIES USA HD
-http://port.denver1769.in/j.php?tv=1614
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU CINEMA CLUB
-http://port.denver1769.in/j.php?tv=14711
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TATA SKY TELUGU CINEMA HD
-http://port.denver1769.in/j.php?tv=1639
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA GOLD HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",STAR MAA GOLD HD
 http://port.denver1769.in/j.php?tv=1616
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA GOLD USA HD
-http://port.denver1769.in/j.php?tv=1629
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA GOLD UK HD
-http://port.denver1769.in/j.php?tv=7277
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA MUSIC HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",STAR MAA MUSIC HD
 http://port.denver1769.in/j.php?tv=1609
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA MUSIC UK HD
-http://port.denver1769.in/j.php?tv=7278
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",STAR MAA MUSIC USA HD
-http://port.denver1769.in/j.php?tv=7279
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",GEMINI HD
 http://port.denver1769.in/j.php?tv=1619
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI UK HD
-http://port.denver1769.in/j.php?tv=7280
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI USA HD
-http://port.denver1769.in/j.php?tv=1633
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",GEMINI MOVIES HD
 http://port.denver1769.in/j.php?tv=1617
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI MOVIES UK HD
-http://port.denver1769.in/j.php?tv=7281
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI MOVIES USA HD
-http://port.denver1769.in/j.php?tv=7282
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI COMEDY HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",GEMINI COMEDY HD
 http://port.denver1769.in/j.php?tv=1620
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI COMEDY UK HD
-http://port.denver1769.in/j.php?tv=7283
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI COMEDY USA HD
-http://port.denver1769.in/j.php?tv=7284
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI  LIFE HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",GEMINI  LIFE HD
 http://port.denver1769.in/j.php?tv=1624
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI LIFE UK HD
-http://port.denver1769.in/j.php?tv=7285
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI LIFE USA HD
-http://port.denver1769.in/j.php?tv=7286
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI MUSIC HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",GEMINI MUSIC HD
 http://port.denver1769.in/j.php?tv=1618
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI MUSIC UK HD
-http://port.denver1769.in/j.php?tv=7287
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI MUSIC USA HD
-http://port.denver1769.in/j.php?tv=7288
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ZEE TELUGU HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ZEE TELUGU HD
 http://port.denver1769.in/j.php?tv=1622
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ZEE TELUGU 4K
-http://port.denver1769.in/j.php?tv=8437
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ZEE TELUGU USA HD
-http://port.denver1769.in/j.php?tv=1621
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ZEE TELUGU UK HD
-http://port.denver1769.in/j.php?tv=7289
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ZEE CINEMALU HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ZEE CINEMALU HD
 http://port.denver1769.in/j.php?tv=1642
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",YUPP TV VEDA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",YUPP TV VEDA
 http://port.denver1769.in/j.php?tv=11748
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",99 TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",99 TV
 http://port.denver1769.in/j.php?tv=13096
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",RAJ MUSIC TELUGU
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",RAJ MUSIC TELUGU
 http://port.denver1769.in/j.php?tv=1627
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ETV CINEMA HD
 http://port.denver1769.in/j.php?tv=1648
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV CINEMA US
-http://port.denver1769.in/j.php?tv=1638
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV ABHIRUCHI
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ETV ABHIRUCHI
 http://port.denver1769.in/j.php?tv=12814
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV LIFE HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ETV LIFE HD
 http://port.denver1769.in/j.php?tv=1653
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV LIFE US HD
-http://port.denver1769.in/j.php?tv=1646
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ETV PLUS HD
 http://port.denver1769.in/j.php?tv=1652
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV PLUS USA HD
-http://port.denver1769.in/j.php?tv=7290
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",SAKSHI TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",SAKSHI TV
 http://port.denver1769.in/j.php?tv=7996
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",HM TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",HM TV
 http://port.denver1769.in/j.php?tv=11741
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CVR HEALTH
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",CVR HEALTH
 http://port.denver1769.in/j.php?tv=1650
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",SONIC NICKLODEON HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",SONIC NICKLODEON HD
 http://port.denver1769.in/j.php?tv=1654
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV ANDHRA NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ETV ANDHRA NEWS
 http://port.denver1769.in/j.php?tv=7995
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ETV TELANGANA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ETV TELANGANA
 http://port.denver1769.in/j.php?tv=7998
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",NTV TELUGU
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",NTV TELUGU
 http://port.denver1769.in/j.php?tv=7997
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",RAJ NEWS TELUGU
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",RAJ NEWS TELUGU
 http://port.denver1769.in/j.php?tv=1628
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",10 TV NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",10 TV NEWS HD
 http://port.denver1769.in/j.php?tv=1641
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TV9 NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",TV9 NEWS HD
 http://port.denver1769.in/j.php?tv=1635
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",T NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",T NEWS HD
 http://port.denver1769.in/j.php?tv=1649
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",V6 NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",V6 NEWS
 http://port.denver1769.in/j.php?tv=1631
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TV5 NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",TV5 NEWS
 http://port.denver1769.in/j.php?tv=1632
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CVR NEWS TELUGU
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",CVR NEWS TELUGU
 http://port.denver1769.in/j.php?tv=1664
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",I NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",I NEWS HD
 http://port.denver1769.in/j.php?tv=1657
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",PRIME 9 NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",PRIME 9 NEWS
 http://port.denver1769.in/j.php?tv=1655
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",ABN NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ABN NEWS HD
 http://port.denver1769.in/j.php?tv=7667
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",AP 24X7 HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",AP 24X7 HD
 http://port.denver1769.in/j.php?tv=7669
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",VANITHA TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",VANITHA TV
 http://port.denver1769.in/j.php?tv=1630
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TV5 NEWS USA
-http://port.denver1769.in/j.php?tv=8022
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",MOJO TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",MOJO TV
 http://port.denver1769.in/j.php?tv=12159
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",A TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",A TV
 http://port.denver1769.in/j.php?tv=7668
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",SUBHAVAARTHA TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",SUBHAVAARTHA TV
 http://port.denver1769.in/j.php?tv=1659
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",NIREESKHAN TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",NIREESKHAN TV
 http://port.denver1769.in/j.php?tv=1656
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",Y ONE TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",Y ONE TV
 http://port.denver1769.in/j.php?tv=1660
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",SWAR SAGAR
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",SWAR SAGAR
 http://port.denver1769.in/j.php?tv=1651
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",DD SAPTAGIRI
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",DD SAPTAGIRI
 http://port.denver1769.in/j.php?tv=1644
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",CALVARY TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",CALVARY TV
 http://port.denver1769.in/j.php?tv=1637
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",VISSA TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",VISSA TV
 http://port.denver1769.in/j.php?tv=1645
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",TELUGU BOX OFFICE HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",TELUGU BOX OFFICE HD
 http://port.denver1769.in/j.php?tv=1613
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",MERCY TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",MERCY TV
 http://port.denver1769.in/j.php?tv=1661
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",KUSHI TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",KUSHI TV
 http://port.denver1769.in/j.php?tv=1626
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",SONY YAY TELUGU
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",SONY YAY TELUGU
 http://port.denver1769.in/j.php?tv=1647
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",MANA TV INTERNATIONAL
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",MANA TV INTERNATIONAL
 http://port.denver1769.in/j.php?tv=7892
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",MANNA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",MANNA TV HD
 http://port.denver1769.in/j.php?tv=7893
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",6TV TELANGANA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",6TV TELANGANA
 http://port.denver1769.in/j.php?tv=12306
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="All_TELUGU" tvg-logo="http://127.0.0.1/",BHARAT TODAY
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",BHARAT TODAY
 http://port.denver1769.in/j.php?tv=12390
