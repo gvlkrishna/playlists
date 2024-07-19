@@ -1,121 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="629" tvg-name="ETV Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Telugu.png" tvg-chno="629" group-title="Jio_telugu",ETV Telugu
-https://jio.charron269.workers.dev/bpk-tv/ETV_Telugu_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="638" tvg-name="Zee Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png" tvg-chno="638" group-title="Jio_telugu",Zee Telugu
-https://jio.charron269.workers.dev/bpk-tv/Zee_Telugu_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="1354" tvg-name="Zee Telugu HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png" tvg-chno="1354" group-title="Jio_telugu",Zee Telugu HD
-https://jio.charron269.workers.dev/bpk-tv/Zee_Telugu_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="1973" tvg-name="ETV HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_HD.png" tvg-chno="1973" group-title="Jio_telugu",ETV HD
-https://jio.charron269.workers.dev/bpk-tv/ETV_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="204" tvg-name="DD Sports" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" tvg-chno="204" group-title="Jio_telugu",DD Sports
-https://jio.charron269.workers.dev/bpk-tv/DD_Sports_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="252" tvg-name="ETV Cinema" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema.png" tvg-chno="252" group-title="Jio_telugu",ETV Cinema
-https://jio.charron269.workers.dev/bpk-tv/ETV_Cinema_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="413" tvg-name="Zee Cinemalu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" tvg-chno="413" group-title="Jio_telugu",Zee Cinemalu
-https://jio.charron269.workers.dev/bpk-tv/Zee_Cinemalu_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="543" tvg-name="Nick Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Telugu.png" tvg-chno="543" group-title="Jio_telugu",Nick Telugu
-https://jio.charron269.workers.dev/bpk-tv/Nick_Hindi_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="558" tvg-name="Kushi TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kushi_TV.png" tvg-chno="558" group-title="Jio_telugu",Kushi TV
-https://jio.charron269.workers.dev/bpk-tv/Kushi_TV_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="565" tvg-name="ETV Abhiruchi" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" tvg-chno="565" group-title="Jio_telugu",ETV Abhiruchi
-https://jio.charron269.workers.dev/bpk-tv/ETV_Abhiruchi_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="570" tvg-name="ETV Life" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Life.png" tvg-chno="570" group-title="Jio_telugu",ETV Life
-https://jio.charron269.workers.dev/bpk-tv/ETV_Life_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="576" tvg-name="Discovery Channel Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" tvg-chno="576" group-title="Jio_telugu",Discovery Channel Telugu
-https://jio.charron269.workers.dev/bpk-tv/Discovery_Channel_Hindi_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="577" tvg-name="History TV18 HD Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-chno="577" group-title="Jio_telugu",History TV18 HD Telugu
-https://jio.charron269.workers.dev/bpk-tv/History_18_Telugu_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="598" tvg-name="Sri Venkateshwar Bhakti" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" tvg-chno="598" group-title="Jio_telugu",Sri Venkateshwar Bhakti
-https://jio.charron269.workers.dev/bpk-tv/Sri_Venkateshwar_Bhakti_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="614" tvg-name="ETV Andhra pradesh" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" tvg-chno="614" group-title="Jio_telugu",ETV Andhra pradesh
-https://jio.charron269.workers.dev/bpk-tv/ETV_Andhra_pradesh_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="618" tvg-name="TV9 Telugu News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" tvg-chno="618" group-title="Jio_telugu",TV9 Telugu News
-https://jio.charron269.workers.dev/bpk-tv/TV9_Telugu_News_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="630" tvg-name="ETV Telangana" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Telangana.png" tvg-chno="630" group-title="Jio_telugu",ETV Telangana
-https://jio.charron269.workers.dev/bpk-tv/ETV_Telangana_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="646" tvg-name="NTV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NTV.png" tvg-chno="646" group-title="Jio_telugu",NTV
-https://jio.charron269.workers.dev/bpk-tv/NTV_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="656" tvg-name="News 9" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News9.png" tvg-chno="656" group-title="Jio_telugu",News 9
-https://jio.charron269.workers.dev/bpk-tv/News9_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="664" tvg-name="Raj News Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" tvg-chno="664" group-title="Jio_telugu",Raj News Telugu
-https://jio.charron269.workers.dev/bpk-tv/Raj_News_Telugu_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="665" tvg-name="HM TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/HM_TV.png" tvg-chno="665" group-title="Jio_telugu",HM TV
-https://jio.charron269.workers.dev/bpk-tv/HM_TV_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="666" tvg-name="ABN Andhra Jyothi" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" tvg-chno="666" group-title="Jio_telugu",ABN Andhra Jyothi
-https://jio.charron269.workers.dev/bpk-tv/ABN_Andhra_Jyothi_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="667" tvg-name="T News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/T_News.png" tvg-chno="667" group-title="Jio_telugu",T News
-https://jio.charron269.workers.dev/bpk-tv/T_News_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="668" tvg-name="TV 5 News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV_5_News.png" tvg-chno="668" group-title="Jio_telugu",TV 5 News
-https://jio.charron269.workers.dev/bpk-tv/TV_5_News_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="684" tvg-name="Gemini Life" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png" tvg-chno="684" group-title="Jio_telugu",Gemini Life
-https://jio.charron269.workers.dev/bpk-tv/Gemini_Life_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="692" tvg-name="ETV Plus" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus.png" tvg-chno="692" group-title="Jio_telugu",ETV Plus
-https://jio.charron269.workers.dev/bpk-tv/ETV_Plus_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="707" tvg-name="Raj TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" tvg-chno="707" group-title="Jio_telugu",Raj TV
-https://jio.charron269.workers.dev/bpk-tv/Raj_TV_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="729" tvg-name="Gemini Comedy" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" tvg-chno="729" group-title="Jio_telugu",Gemini Comedy
-https://jio.charron269.workers.dev/bpk-tv/Gemini_Comedy_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="734" tvg-name="Vissa TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vissa_TV.png" tvg-chno="734" group-title="Jio_telugu",Vissa TV
-https://jio.charron269.workers.dev/bpk-tv/Vissa_TV_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="737" tvg-name="Raj Music Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" tvg-chno="737" group-title="Jio_telugu",Raj Music Telugu
-https://jio.charron269.workers.dev/bpk-tv/Raj_Music_Telugu_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="769" tvg-name="V6 News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/V6_News.png" tvg-chno="769" group-title="Jio_telugu",V6 News
-https://jio.charron269.workers.dev/bpk-tv/V6_News_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="772" tvg-name="CVR OM Spiritual" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" tvg-chno="772" group-title="Jio_telugu",CVR OM Spiritual
-https://jio.charron269.workers.dev/bpk-tv/CVR_OM_Spiritual_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="774" tvg-name="CVR Health" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_Health.png" tvg-chno="774" group-title="Jio_telugu",CVR Health
-https://jio.charron269.workers.dev/bpk-tv/CVR_Health_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="775" tvg-name="Vanitha" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vanitha.png" tvg-chno="775" group-title="Jio_telugu",Vanitha
-https://jio.charron269.workers.dev/bpk-tv/Vanitha_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="776" tvg-name="Bhakti TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhakti_TV.png" tvg-chno="776" group-title="Jio_telugu",Bhakti TV
-https://jio.charron269.workers.dev/bpk-tv/Bhakti_TV_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="777" tvg-name="Aradhana TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aradhana_TV.png" tvg-chno="777" group-title="Jio_telugu",Aradhana TV
-https://jio.charron269.workers.dev/bpk-tv/Aradhana_TV_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="784" tvg-name="CVR News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CVR_News.png" tvg-chno="784" group-title="Jio_telugu",CVR News
-https://jio.charron269.workers.dev/bpk-tv/CVR_News_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="790" tvg-name="I News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/I_News.png" tvg-chno="790" group-title="Jio_telugu",I News
-https://jio.charron269.workers.dev/bpk-tv/I_News_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="832" tvg-name="10 TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/10_TV.png" tvg-chno="832" group-title="Jio_telugu",10 TV
-https://jio.charron269.workers.dev/bpk-tv/10_TV_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="885" tvg-name="TV5 Monde" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV_5_Monde.png" tvg-chno="885" group-title="Jio_telugu",TV5 Monde
-https://jio.charron269.workers.dev/bpk-tv/TV_5_Monde_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="897" tvg-name="Gemini TV HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" tvg-chno="897" group-title="Jio_telugu",Gemini TV HD
-https://jio.charron269.workers.dev/bpk-tv/Gemini_TV_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="898" tvg-name="Gemini Music HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" tvg-chno="898" group-title="Jio_telugu",Gemini Music HD
-https://jio.charron269.workers.dev/bpk-tv/Gemini_Music_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="899" tvg-name="Gemini Movies HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" tvg-chno="899" group-title="Jio_telugu",Gemini Movies HD
-https://jio.charron269.workers.dev/bpk-tv/Gemini_Movies_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="1080" tvg-name="CN HD+ Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" tvg-chno="1080" group-title="Jio_telugu",CN HD+ Telugu
-https://jio.charron269.workers.dev/bpk-tv/CN_HD_Telugu_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="1242" tvg-name="Sonic Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Telugu.png" tvg-chno="1242" group-title="Jio_telugu",Sonic Telugu
-https://jio.charron269.workers.dev/bpk-tv/Sonic_Telugu_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="1363" tvg-name="Zee Cinemalu HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png" tvg-chno="1363" group-title="Jio_telugu",Zee Cinemalu HD
-https://jio.charron269.workers.dev/bpk-tv/Zee_Cinemalu_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="1454" tvg-name="Shiksha TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shiksha_TV.png" tvg-chno="1454" group-title="Jio_telugu",Shiksha TV
-https://jio.charron269.workers.dev/bpk-tv/Shiksha_TV_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="1665" tvg-name="ETV Cinema HD " tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png" tvg-chno="1665" group-title="Jio_telugu",ETV Cinema HD 
-https://jio.charron269.workers.dev/bpk-tv/ETV_Cinema_HD_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="1773" tvg-name="Sony Ten 4 HD Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" tvg-chno="1773" group-title="Jio_telugu",Sony Ten 4 HD Telugu
-https://jio.charron269.workers.dev/bpk-tv/Ten_4_HD_Telugu_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="1775" tvg-name="Sony Ten 4 Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" tvg-chno="1775" group-title="Jio_telugu",Sony Ten 4 Telugu
-https://jio.charron269.workers.dev/bpk-tv/Ten_4_Telugu_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="1850" tvg-name="SVBC" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SVBC.png" tvg-chno="1850" group-title="Jio_telugu",SVBC
-https://jio.charron269.workers.dev/bpk-tv/SVBC_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="1975" tvg-name="PMC Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png" tvg-chno="1975" group-title="Jio_telugu",PMC Telugu
-https://jio.charron269.workers.dev/bpk-tv/PMC_Telugu_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="2031" tvg-name="Fashion India" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Fashion_India.png" tvg-chno="2031" group-title="Jio_telugu",Fashion India
-https://jio.charron269.workers.dev/bpk-tv/Fashion_India_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="2351" tvg-name="SRS Bhakti TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SRS_Bhakti_TV.png" tvg-chno="2351" group-title="Jio_telugu",SRS Bhakti TV
-https://jio.charron269.workers.dev/bpk-tv/SRS_Bhakti_TV_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="2436" tvg-name="Prime 9 News" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_9_News.png" tvg-chno="2436" group-title="Jio_telugu",Prime 9 News
-https://jio.charron269.workers.dev/bpk-tv/Prime_9_News_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="2783" tvg-name="Big TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_TV.png" tvg-chno="2783" group-title="Jio_telugu",Big TV
-https://jio.charron269.workers.dev/bpk-tv/Big_TV_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="2932" tvg-name="99 TV" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/99TV.png" tvg-chno="2932" group-title="Jio_telugu",99 TV
-https://jio.charron269.workers.dev/bpk-tv/99TV_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="2956" tvg-name="ETV Plus HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus_HD.png" tvg-chno="2956" group-title="Jio_telugu",ETV Plus HD
-https://jio.charron269.workers.dev/bpk-tv/ETV_Plus_HD_MOB/Fallback/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="http://127.0.0.1/",ETV 4K
 http://port.denver1769.in/j.php?tv=13089
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="http://127.0.0.1/",GEMINI MUSIC HD
@@ -126,6 +9,29 @@ http://port.denver1769.in/j.php?tv=11748
 http://port.denver1769.in/j.php?tv=1627
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="http://127.0.0.1/",ETV ANDHRA NEWS
 http://port.denver1769.in/j.php?tv=7995
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="",TELEGU: DISCOVERY WORLD HD
+http://sansat.net:88/live/02028857936892/0751169096/95855.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="",TELEGU: ETV HD
+http://sansat.net:88/live/02028857936892/0751169096/95857.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="",TELEGU: GEMINI MOVIES HD
+http://sansat.net:88/live/02028857936892/0751169096/95863.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="",TELEGU: GEMINI MUSIC HD
+http://sansat.net:88/live/02028857936892/0751169096/95864.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="",TELEGU: HISTORY 18 TELUGU HD
+http://sansat.net:88/live/02028857936892/0751169096/95866.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="",TELEGU: NATIONAL GEOGRAPHIC HD
+http://sansat.net:88/live/02028857936892/0751169096/95868.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="",TELEGU: RAJ MUSIC TELUGU
+http://sansat.net:88/live/02028857936892/0751169096/95869.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="",TELEGU: RAJ NEWS TELUGU
+http://sansat.net:88/live/02028857936892/0751169096/95870.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="",TELEGU: SONY BBC EARTH HD
+http://sansat.net:88/live/02028857936892/0751169096/95871.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="",TELEGU: SONY YAY
+http://sansat.net:88/live/02028857936892/0751169096/95872.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_TELUGU" tvg-logo="",TELEGU: GEMINI COMEDY
+http://sansat.net:88/live/02028857936892/0751169096/95860.ts
+
 
 #EXTINF:-1 tvg-id="1773" tvg-name="Sony Ten 4 HD Telugu" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" tvg-chno="1773" group-title="Jio_sports",Sony Ten 4 HD Telugu
 https://jio.charron269.workers.dev/bpk-tv/Ten_4_HD_Telugu_MOB/Fallback/index.m3u8
@@ -145,264 +51,194 @@ https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/play
 #EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="SVBC",SVBC Telugu (1080p)
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",TataSky_STAR 4K
-http://port.denver1769.in/j.php?tv=18855
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 1 ENG FHD
-http://port.denver1769.in/j.php?tv=18619
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 1 HIN 4K
-http://port.denver1769.in/j.php?tv=14790
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",Astro Cricket
-http://port.denver1769.in/j.php?tv=7918
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",Star Sport1 HD
-http://port.denver1769.in/j.php?tv=18619
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS FIRST
-http://port.denver1769.in/j.php?tv=368
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",WILLOW Cricket
-http://port.denver1769.in/j.php?tv=372
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",Sky Sports1
-http://port.denver1769.in/j.php?tv=41782
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",Ten Sports HD
-http://port.denver1769.in/j.php?tv=41747
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",Sky Sports Cricket
-http://port.denver1769.in/j.php?tv=42372
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",Sky Sports
-http://port.denver1769.in/j.php?tv=8449
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SPORTS 18 1 HD
-http://port.denver1769.in/j.php?tv=41775
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",TEN SPORTS 4K
-http://port.denver1769.in/j.php?tv=41747
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SPORTS 18 1 Tel
-http://port.denver1769.in/j.php?tv=41768
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SPORTS 18 1 Kan
-http://port.denver1769.in/j.php?tv=41761
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",ASTRO CRICKET 4K
-http://port.denver1769.in/j.php?tv=374
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",FLOW SPORTS 4K
-http://port.denver1769.in/j.php?tv=4209
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",WILLOW US 4K
-http://port.denver1769.in/j.php?tv=355
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 1
-http://port.denver1769.in/j.php?tv=373
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 3
-http://port.denver1769.in/j.php?tv=371
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 5
-http://port.denver1769.in/j.php?tv=8422
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",Sky Sports1
-http://port.denver1769.in/j.php?tv=41782
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",A Sports
-http://port.denver1769.in/j.php?tv=41740
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SKY SPORTS CRICKET 4K
-http://port.denver1769.in/j.php?tv=8345
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",RUSH SPORTS CRICKET 4K
-http://port.denver1769.in/j.php?tv=18809
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",ESPN 4K
-http://port.denver1769.in/j.php?tv=11779
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 5 HD*
-http://port.denver1769.in/j.php?tv=11734
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",TEN CRICKET 4K
-http://port.denver1769.in/j.php?tv=11800
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SUPER SPORTS CRICKET FHD
-http://port.denver1769.in/j.php?tv=8431
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 1 4K
-http://port.denver1769.in/j.php?tv=6068
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 1 HINDI FHD
-http://port.denver1769.in/j.php?tv=11793
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS SELECT 1 FHD
-http://port.denver1769.in/j.php?tv=11807
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 2 4K
-http://port.denver1769.in/j.php?tv=8346
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SKY CIRCKET 4K
-http://port.denver1769.in/j.php?tv=354
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SUPER SPORTS CRICKET 4K
-http://port.denver1769.in/j.php?tv=5021
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 5 HD
-http://port.denver1769.in/j.php?tv=8051
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",ATN StarPLUS
-http://port.denver1769.in/j.php?tv=376
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",TEN SPORTS HD
-http://port.denver1769.in/j.php?tv=357
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",GEO SUPER
-http://port.denver1769.in/j.php?tv=358
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS SELECT 1 4K
-http://port.denver1769.in/j.php?tv=361
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS SELECT 2 HD
-http://port.denver1769.in/j.php?tv=362
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 1 ENGLISH HD
-http://port.denver1769.in/j.php?tv=364
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 1 HINDI HD
-http://port.denver1769.in/j.php?tv=365
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",Sony SPorts1 HD
-http://port.denver1769.in/j.php?tv=369
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",DD SPORTS
-http://port.denver1769.in/j.php?tv=375
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SPORTS TREND TV HD
-http://port.denver1769.in/j.php?tv=380
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 1 ENG FHD
-http://port.denver1769.in/j.php?tv=18619
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SPORTS 18 ENG 4K
-http://port.denver1769.in/j.php?tv=41775
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",FLOW SPORTS 4K
-http://port.denver1769.in/j.php?tv=4209
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 1 4K
-http://port.denver1769.in/j.php?tv=373
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 2 4K
-http://port.denver1769.in/j.php?tv=370
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 3 4K
-http://port.denver1769.in/j.php?tv=371
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",HUB SPORTS
-http://port.denver1769.in/j.php?tv=18818
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",HUB SPORTS 5
-http://port.denver1769.in/j.php?tv=14815
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SKY SPORTS CRICKET 4K
-http://port.denver1769.in/j.php?tv=8345
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",RUSH SPORTS CRICKET 4K
-http://port.denver1769.in/j.php?tv=18809
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SONY SPORTS 5 HD*
-http://port.denver1769.in/j.php?tv=11734
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SUPER SPORTS CRICKET FHD
-http://port.denver1769.in/j.php?tv=8431
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS HINDI 4K
-http://port.denver1769.in/j.php?tv=18642
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",STAR SPORTS 1 4K
-http://port.denver1769.in/j.php?tv=6068
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SUPER SPORTS CRICKET 4K
-http://port.denver1769.in/j.php?tv=5021
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",DD SPORTS
-http://port.denver1769.in/j.php?tv=375
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",EUROSPORTS INDIA 4K
-http://port.denver1769.in/j.php?tv=379
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports" tvg-logo="http://127.0.0.1/",SPORTS TREND TV HD
-http://port.denver1769.in/j.php?tv=380
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",DISNEY CHANNEL INDIA HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",DISNEY CHANNEL INDIA HD
 http://port.denver1769.in/j.php?tv=41798
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",AASTHA TELUGU
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",AASTHA TELUGU
 http://port.denver1769.in/j.php?tv=4222
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",BHAKTI TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",BHAKTI TV HD
 http://port.denver1769.in/j.php?tv=1625
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",DIVYA VANI
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",DIVYA VANI
 http://port.denver1769.in/j.php?tv=1663
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",HINDU DHARMAM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",HINDU DHARMAM
 http://port.denver1769.in/j.php?tv=1662
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",CVR OM
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",CVR OM
 http://port.denver1769.in/j.php?tv=1658
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",SONY BBC EARTH TELUGU HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",SONY BBC EARTH TELUGU HD
 http://port.denver1769.in/j.php?tv=1640
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",HISTORY TV18 TELUGU HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",HISTORY TV18 TELUGU HD
 http://port.denver1769.in/j.php?tv=1636
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",NATIONAL GEOGRAPHIC TELUGU HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",NATIONAL GEOGRAPHIC TELUGU HD
 http://port.denver1769.in/j.php?tv=1643
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",DISCOVERY WORLD TELUGU HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",DISCOVERY WORLD TELUGU HD
 http://port.denver1769.in/j.php?tv=1634
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",NAT GEO WILD 4K*
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",NAT GEO WILD 4K*
 http://port.denver1769.in/j.php?tv=8343
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ETV HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",ETV HD
 http://port.denver1769.in/j.php?tv=1610
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",STAR MAA HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",STAR MAA HD
 http://port.denver1769.in/j.php?tv=1615
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",STAR MAA MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",STAR MAA MOVIES HD
 http://port.denver1769.in/j.php?tv=1623
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",STAR MAA GOLD HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",STAR MAA GOLD HD
 http://port.denver1769.in/j.php?tv=1616
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",STAR MAA MUSIC HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",STAR MAA MUSIC HD
 http://port.denver1769.in/j.php?tv=1609
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",GEMINI HD
-http://port.denver1769.in/j.php?tv=1619
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",GEMINI MOVIES HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",GEMINI MOVIES HD
 http://port.denver1769.in/j.php?tv=1617
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",GEMINI COMEDY HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",GEMINI COMEDY HD
 http://port.denver1769.in/j.php?tv=1620
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",GEMINI  LIFE HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",GEMINI  LIFE HD
 http://port.denver1769.in/j.php?tv=1624
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",GEMINI MUSIC HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",GEMINI MUSIC HD
 http://port.denver1769.in/j.php?tv=1618
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ZEE TELUGU HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",ZEE TELUGU HD
 http://port.denver1769.in/j.php?tv=1622
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ZEE CINEMALU HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",ZEE CINEMALU HD
 http://port.denver1769.in/j.php?tv=1642
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",YUPP TV VEDA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",YUPP TV VEDA
 http://port.denver1769.in/j.php?tv=11748
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",99 TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",99 TV
 http://port.denver1769.in/j.php?tv=13096
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",RAJ MUSIC TELUGU
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",RAJ MUSIC TELUGU
 http://port.denver1769.in/j.php?tv=1627
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ETV CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",ETV CINEMA HD
 http://port.denver1769.in/j.php?tv=1648
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ETV ABHIRUCHI
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",ETV ABHIRUCHI
 http://port.denver1769.in/j.php?tv=12814
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ETV LIFE HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",ETV LIFE HD
 http://port.denver1769.in/j.php?tv=1653
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ETV PLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",ETV PLUS HD
 http://port.denver1769.in/j.php?tv=1652
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",SAKSHI TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",SAKSHI TV
 http://port.denver1769.in/j.php?tv=7996
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",HM TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",HM TV
 http://port.denver1769.in/j.php?tv=11741
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",CVR HEALTH
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",CVR HEALTH
 http://port.denver1769.in/j.php?tv=1650
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",SONIC NICKLODEON HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",SONIC NICKLODEON HD
 http://port.denver1769.in/j.php?tv=1654
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ETV ANDHRA NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",ETV ANDHRA NEWS
 http://port.denver1769.in/j.php?tv=7995
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ETV TELANGANA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",ETV TELANGANA
 http://port.denver1769.in/j.php?tv=7998
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",NTV TELUGU
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",NTV TELUGU
 http://port.denver1769.in/j.php?tv=7997
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",RAJ NEWS TELUGU
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",RAJ NEWS TELUGU
 http://port.denver1769.in/j.php?tv=1628
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",10 TV NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",10 TV NEWS HD
 http://port.denver1769.in/j.php?tv=1641
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",TV9 NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",TV9 NEWS HD
 http://port.denver1769.in/j.php?tv=1635
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",T NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",T NEWS HD
 http://port.denver1769.in/j.php?tv=1649
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",V6 NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",V6 NEWS
 http://port.denver1769.in/j.php?tv=1631
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",TV5 NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",TV5 NEWS
 http://port.denver1769.in/j.php?tv=1632
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",CVR NEWS TELUGU
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",CVR NEWS TELUGU
 http://port.denver1769.in/j.php?tv=1664
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",I NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",I NEWS HD
 http://port.denver1769.in/j.php?tv=1657
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",PRIME 9 NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",PRIME 9 NEWS
 http://port.denver1769.in/j.php?tv=1655
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",ABN NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",ABN NEWS HD
 http://port.denver1769.in/j.php?tv=7667
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",AP 24X7 HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",AP 24X7 HD
 http://port.denver1769.in/j.php?tv=7669
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",VANITHA TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",VANITHA TV
 http://port.denver1769.in/j.php?tv=1630
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",MOJO TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",MOJO TV
 http://port.denver1769.in/j.php?tv=12159
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",A TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",A TV
 http://port.denver1769.in/j.php?tv=7668
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",SUBHAVAARTHA TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",SUBHAVAARTHA TV
 http://port.denver1769.in/j.php?tv=1659
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",NIREESKHAN TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",NIREESKHAN TV
 http://port.denver1769.in/j.php?tv=1656
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",Y ONE TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",Y ONE TV
 http://port.denver1769.in/j.php?tv=1660
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",SWAR SAGAR
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",SWAR SAGAR
 http://port.denver1769.in/j.php?tv=1651
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",DD SAPTAGIRI
-http://port.denver1769.in/j.php?tv=1644
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",CALVARY TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",CALVARY TV
 http://port.denver1769.in/j.php?tv=1637
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",VISSA TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",VISSA TV
 http://port.denver1769.in/j.php?tv=1645
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",TELUGU BOX OFFICE HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",TELUGU BOX OFFICE HD
 http://port.denver1769.in/j.php?tv=1613
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",MERCY TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",MERCY TV
 http://port.denver1769.in/j.php?tv=1661
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",KUSHI TV
-http://port.denver1769.in/j.php?tv=1626
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",SONY YAY TELUGU
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",SONY YAY TELUGU
 http://port.denver1769.in/j.php?tv=1647
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",MANA TV INTERNATIONAL
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",MANA TV INTERNATIONAL
 http://port.denver1769.in/j.php?tv=7892
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",MANNA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",MANNA TV HD
 http://port.denver1769.in/j.php?tv=7893
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",6TV TELANGANA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",6TV TELANGANA
 http://port.denver1769.in/j.php?tv=12306
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataSky_Telugu" tvg-logo="http://127.0.0.1/",BHARAT TODAY
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",BHARAT TODAY
 http://port.denver1769.in/j.php?tv=12390
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",DD SAPTAGIRI
+http://port.denver1769.in/j.php?tv=1644
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",GEMINI HD
+http://port.denver1769.in/j.php?tv=1619
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",KUSHI TV
+http://port.denver1769.in/j.php?tv=1626
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu_SlowBuffer" tvg-logo="http://127.0.0.1/",VISSA TV
+http://port.denver1769.in/j.php?tv=1645
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Telugu" tvg-logo="",TELEGU: 10 TV
+http://sansat.net:88/live/02028857936892/0751169096/95852.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Telugu" tvg-logo="",TELEGU: BHAKTI TV
+http://sansat.net:88/live/02028857936892/0751169096/95853.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Telugu" tvg-logo="",TELEGU: ETV CINEMA
+http://sansat.net:88/live/02028857936892/0751169096/95856.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Telugu" tvg-logo="",TELEGU: ETV LIFE
+http://sansat.net:88/live/02028857936892/0751169096/95858.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Telugu" tvg-logo="",TELEGU: ETV PLUS
+http://sansat.net:88/live/02028857936892/0751169096/95859.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Telugu" tvg-logo="",TELEGU: GEMINI LIFE
+http://sansat.net:88/live/02028857936892/0751169096/95862.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Telugu" tvg-logo="",TELEGU: STAR MAA GOLD HD
+http://sansat.net:88/live/02028857936892/0751169096/95873.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Telugu" tvg-logo="",TELEGU: STAR MAA HD
+http://sansat.net:88/live/02028857936892/0751169096/95874.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Telugu" tvg-logo="",TELEGU: STAR MAA MOVIES HD
+http://sansat.net:88/live/02028857936892/0751169096/95875.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Telugu" tvg-logo="",TELEGU: TATA SKY TELUGU CINEMA HD
+http://sansat.net:88/live/02028857936892/0751169096/95876.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Telugu" tvg-logo="",TELEGU: TV5 NEWS
+http://sansat.net:88/live/02028857936892/0751169096/95877.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Telugu" tvg-logo="",TELEGU: TV9 NEWS
+http://sansat.net:88/live/02028857936892/0751169096/95878.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Telugu" tvg-logo="",TELEGU: V6 NEWS
+http://sansat.net:88/live/02028857936892/0751169096/95879.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Telugu" tvg-logo="",TELEGU: VANITHA TV
+http://sansat.net:88/live/02028857936892/0751169096/95880.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Telugu" tvg-logo="",TELEGU: ZEE CINEMALU HD
+http://sansat.net:88/live/02028857936892/0751169096/95882.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Telugu" tvg-logo="",TELEGU: ZEE TELUGU HD
+http://sansat.net:88/live/02028857936892/0751169096/95883.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Sports" tvg-logo="http://vodkom.com:25461/Logo/INDIA/",SPORTS: Euro Sports
+http://sansat.net:88/live/02028857936892/0751169096/93721.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Sports" tvg-logo="http://vodkom.com:25461/Logo/INDIA/",SPORTS: DD SPORTS
+http://sansat.net:88/live/02028857936892/0751169096/93722.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Sports" tvg-logo="http://vodkom.com:25461/Logo/INDIA/",SPORTS: SONY PIX HD
+http://sansat.net:88/live/02028857936892/0751169096/93723.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Sports" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Star_Sports_1_IN.png",SPORTS: STAR SPORTS 1 HD ENGLISH
+http://sansat.net:88/live/02028857936892/0751169096/93724.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Sports" tvg-logo="http://vodkom.com:25461/Logo/INDIA/",SPORTS: STAR SPORTS 3
+http://sansat.net:88/live/02028857936892/0751169096/93727.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Sports" tvg-logo="http://vodkom.com:25461/Logo/INDIA/",SPORTS: STAR SPORTS SELECT 1 HD
+http://sansat.net:88/live/02028857936892/0751169096/93729.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TataPlay_Sports" tvg-logo="http://vodkom.com:25461/Logo/INDIA/",SPORTS: WILLOW CRICKET HD
+http://sansat.net:88/live/02028857936892/0751169096/93735.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_Sports" tvg-logo="http://vodkom.com:25461/Logo/INDIA/Star_Sports_2_IN.png",SPORTS: STAR SPORTS 2 HD
+http://sansat.net:88/live/02028857936892/0751169096/93726.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_Sports" tvg-logo="http://vodkom.com:25461/Logo/INDIA/",SPORTS: TEN 1 HD
+http://sansat.net:88/live/02028857936892/0751169096/93732.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_Sports" tvg-logo="http://vodkom.com:25461/Logo/INDIA/",SPORTS: TEN 2 HD
+http://sansat.net:88/live/02028857936892/0751169096/93733.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Airtel_Sports" tvg-logo="http://vodkom.com:25461/Logo/INDIA/",SPORTS: TEN 3 HD
+http://sansat.net:88/live/02028857936892/0751169096/93734.ts
