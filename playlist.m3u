@@ -1,138 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=166 tvg-name="Cartoon Network Telugu" tvg-logo="http://14.102.123.50:5001/jtvimage/Cartoon_Network_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="JIO_Telugu", Cartoon Network Telugu
-http://14.102.123.50:5001/live/166.m3u8
-#EXTINF:-1 tvg-id=252 tvg-name="ETV Cinema" tvg-logo="http://14.102.123.50:5001/jtvimage/ETV_Cinema.png" tvg-language="Telugu" tvg-type="Movies" group-title="JIO_Telugu", ETV Cinema
-http://14.102.123.50:5001/live/252.m3u8
-#EXTINF:-1 tvg-id=413 tvg-name="Zee Cinemalu" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Cinemalu.png" tvg-language="Telugu" tvg-type="Movies" group-title="JIO_Telugu", Zee Cinemalu
-http://14.102.123.50:5001/live/413.m3u8
-#EXTINF:-1 tvg-id=543 tvg-name="Nick Telugu" tvg-logo="http://14.102.123.50:5001/jtvimage/Nick_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="JIO_Telugu", Nick Telugu
-http://14.102.123.50:5001/live/543.m3u8
-#EXTINF:-1 tvg-id=558 tvg-name="Kushi TV" tvg-logo="http://14.102.123.50:5001/jtvimage/Kushi_TV.png" tvg-language="Telugu" tvg-type="Kids" group-title="JIO_Telugu", Kushi TV
-http://14.102.123.50:5001/live/558.m3u8
-#EXTINF:-1 tvg-id=565 tvg-name="ETV Abhiruchi" tvg-logo="http://14.102.123.50:5001/jtvimage/ETV_Abhiruchi.png" tvg-language="Telugu" tvg-type="Lifestyle" group-title="JIO_Telugu", ETV Abhiruchi
-http://14.102.123.50:5001/live/565.m3u8
-#EXTINF:-1 tvg-id=570 tvg-name="ETV Life" tvg-logo="http://14.102.123.50:5001/jtvimage/ETV_Life.png" tvg-language="Telugu" tvg-type="Infotainment" group-title="JIO_Telugu", ETV Life
-http://14.102.123.50:5001/live/570.m3u8
-#EXTINF:-1 tvg-id=576 tvg-name="Discovery Telugu" tvg-logo="http://14.102.123.50:5001/jtvimage/Discovery_Channel_Telugu.png" tvg-language="Telugu" tvg-type="Infotainment" group-title="JIO_Telugu", Discovery Telugu
-http://14.102.123.50:5001/live/576.m3u8
-#EXTINF:-1 tvg-id=577 tvg-name="History TV18 HD Telugu" tvg-logo="http://14.102.123.50:5001/jtvimage/History_18_Telugu.png" tvg-language="Telugu" tvg-type="Infotainment" group-title="JIO_Telugu", History TV18 HD Telugu
-http://14.102.123.50:5001/live/577.m3u8
-#EXTINF:-1 tvg-id=598 tvg-name="Sri Venkateshwar Bhakti" tvg-logo="http://14.102.123.50:5001/jtvimage/Sri_Venkateshwar_Bhakti.png" tvg-language="Telugu" tvg-type="Devotional" group-title="JIO_Telugu", Sri Venkateshwar Bhakti
-http://14.102.123.50:5001/live/598.m3u8
-#EXTINF:-1 tvg-id=607 tvg-name="Subhavartha TV" tvg-logo="http://14.102.123.50:5001/jtvimage/Subhavartha_TV.png" tvg-language="Telugu" tvg-type="Devotional" group-title="JIO_Telugu", Subhavartha TV
-http://14.102.123.50:5001/live/607.m3u8
-#EXTINF:-1 tvg-id=614 tvg-name="ETV Andhra pradesh" tvg-logo="http://14.102.123.50:5001/jtvimage/ETV_Andhra_pradesh.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", ETV Andhra pradesh
-http://14.102.123.50:5001/live/614.m3u8
-#EXTINF:-1 tvg-id=618 tvg-name="TV9 Telugu News" tvg-logo="http://14.102.123.50:5001/jtvimage/TV9_Telugu_News.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", TV9 Telugu News
-http://14.102.123.50:5001/live/618.m3u8
-#EXTINF:-1 tvg-id=629 tvg-name="ETV Telugu" tvg-logo="http://14.102.123.50:5001/jtvimage/ETV_Telugu.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="JIO_Telugu", ETV Telugu
-http://14.102.123.50:5001/live/629.m3u8
-#EXTINF:-1 tvg-id=630 tvg-name="ETV Telangana" tvg-logo="http://14.102.123.50:5001/jtvimage/ETV_Telangana.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", ETV Telangana
-http://14.102.123.50:5001/live/630.m3u8
-#EXTINF:-1 tvg-id=632 tvg-name="Sakshi tv" tvg-logo="http://14.102.123.50:5001/jtvimage/Sakshi_tv.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", Sakshi tv
-http://14.102.123.50:5001/live/632.m3u8
-#EXTINF:-1 tvg-id=638 tvg-name="Zee Telugu" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Telugu.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="JIO_Telugu", Zee Telugu
-http://14.102.123.50:5001/live/638.m3u8
-#EXTINF:-1 tvg-id=646 tvg-name="NTV" tvg-logo="http://14.102.123.50:5001/jtvimage/NTV.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", NTV
-http://14.102.123.50:5001/live/646.m3u8
-#EXTINF:-1 tvg-id=664 tvg-name="Raj News Telugu" tvg-logo="http://14.102.123.50:5001/jtvimage/Raj_News_Telugu.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", Raj News Telugu
-http://14.102.123.50:5001/live/664.m3u8
-#EXTINF:-1 tvg-id=665 tvg-name="HM TV" tvg-logo="http://14.102.123.50:5001/jtvimage/HM_TV.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", HM TV
-http://14.102.123.50:5001/live/665.m3u8
-#EXTINF:-1 tvg-id=666 tvg-name="ABN Andhra Jyothi" tvg-logo="http://14.102.123.50:5001/jtvimage/ABN_Andhra_Jyothi.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", ABN Andhra Jyothi
-http://14.102.123.50:5001/live/666.m3u8
-#EXTINF:-1 tvg-id=667 tvg-name="T News" tvg-logo="http://14.102.123.50:5001/jtvimage/T_News.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", T News
-http://14.102.123.50:5001/live/667.m3u8
-#EXTINF:-1 tvg-id=668 tvg-name="TV 5 News" tvg-logo="http://14.102.123.50:5001/jtvimage/TV_5_News.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", TV 5 News
-http://14.102.123.50:5001/live/668.m3u8
-#EXTINF:-1 tvg-id=670 tvg-name="6 TV" tvg-logo="http://14.102.123.50:5001/jtvimage/6_TV.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", 6 TV
-http://14.102.123.50:5001/live/670.m3u8
-#EXTINF:-1 tvg-id=684 tvg-name="Gemini Life" tvg-logo="http://14.102.123.50:5001/jtvimage/Gemini_Life.png" tvg-language="Telugu" tvg-type="Movies" group-title="JIO_Telugu", Gemini Life
-http://14.102.123.50:5001/live/684.m3u8
-#EXTINF:-1 tvg-id=692 tvg-name="ETV Plus" tvg-logo="http://14.102.123.50:5001/jtvimage/ETV_Plus.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="JIO_Telugu", ETV Plus
-http://14.102.123.50:5001/live/692.m3u8
-#EXTINF:-1 tvg-id=706 tvg-name="DD Saptagiri" tvg-logo="http://14.102.123.50:5001/jtvimage/DD_Saptagiri.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="JIO_Telugu", DD Saptagiri
-http://14.102.123.50:5001/live/706.m3u8
-#EXTINF:-1 tvg-id=729 tvg-name="Gemini Comedy" tvg-logo="http://14.102.123.50:5001/jtvimage/Gemini_Comedy.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="JIO_Telugu", Gemini Comedy
-http://14.102.123.50:5001/live/729.m3u8
-#EXTINF:-1 tvg-id=734 tvg-name="Vissa TV" tvg-logo="http://14.102.123.50:5001/jtvimage/Vissa_TV.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="JIO_Telugu", Vissa TV
-http://14.102.123.50:5001/live/734.m3u8
-#EXTINF:-1 tvg-id=737 tvg-name="Raj Music Telugu" tvg-logo="http://14.102.123.50:5001/jtvimage/Raj_Music_Telugu.png" tvg-language="Telugu" tvg-type="Music" group-title="JIO_Telugu", Raj Music Telugu
-http://14.102.123.50:5001/live/737.m3u8
-#EXTINF:-1 tvg-id=769 tvg-name="V6 News" tvg-logo="http://14.102.123.50:5001/jtvimage/V6_News.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", V6 News
-http://14.102.123.50:5001/live/769.m3u8
-#EXTINF:-1 tvg-id=772 tvg-name="CVR OM Spiritual" tvg-logo="http://14.102.123.50:5001/jtvimage/CVR_OM_Spiritual.png" tvg-language="Telugu" tvg-type="Devotional" group-title="JIO_Telugu", CVR OM Spiritual
-http://14.102.123.50:5001/live/772.m3u8
-#EXTINF:-1 tvg-id=774 tvg-name="CVR Health" tvg-logo="http://14.102.123.50:5001/jtvimage/CVR_Health.png" tvg-language="Telugu" tvg-type="Infotainment" group-title="JIO_Telugu", CVR Health
-http://14.102.123.50:5001/live/774.m3u8
-#EXTINF:-1 tvg-id=775 tvg-name="Vanitha" tvg-logo="http://14.102.123.50:5001/jtvimage/Vanitha.png" tvg-language="Telugu" tvg-type="Infotainment" group-title="JIO_Telugu", Vanitha
-http://14.102.123.50:5001/live/775.m3u8
-#EXTINF:-1 tvg-id=776 tvg-name="Bhakti TV" tvg-logo="http://14.102.123.50:5001/jtvimage/Bhakti_TV.png" tvg-language="Telugu" tvg-type="Devotional" group-title="JIO_Telugu", Bhakti TV
-http://14.102.123.50:5001/live/776.m3u8
-#EXTINF:-1 tvg-id=777 tvg-name="Aradhana TV" tvg-logo="http://14.102.123.50:5001/jtvimage/Aradhana_TV.png" tvg-language="Telugu" tvg-type="Devotional" group-title="JIO_Telugu", Aradhana TV
-http://14.102.123.50:5001/live/777.m3u8
-#EXTINF:-1 tvg-id=784 tvg-name="CVR News" tvg-logo="http://14.102.123.50:5001/jtvimage/CVR_News.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", CVR News
-http://14.102.123.50:5001/live/784.m3u8
-#EXTINF:-1 tvg-id=790 tvg-name="I News" tvg-logo="http://14.102.123.50:5001/jtvimage/I_News.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", I News
-http://14.102.123.50:5001/live/790.m3u8
-#EXTINF:-1 tvg-id=832 tvg-name="10 TV" tvg-logo="http://14.102.123.50:5001/jtvimage/10_TV.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", 10 TV
-http://14.102.123.50:5001/live/832.m3u8
-#EXTINF:-1 tvg-id=874 tvg-name="Sony Yay Telugu" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_Yay_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="JIO_Telugu", Sony Yay Telugu
-http://14.102.123.50:5001/live/874.m3u8
-#EXTINF:-1 tvg-id=897 tvg-name="Gemini TV HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Gemini_TV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="JIO_Telugu", Gemini TV HD
-http://14.102.123.50:5001/live/897.m3u8
-#EXTINF:-1 tvg-id=898 tvg-name="Gemini Music HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Gemini_Music_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="JIO_Telugu", Gemini Music HD
-http://14.102.123.50:5001/live/898.m3u8
-#EXTINF:-1 tvg-id=899 tvg-name="Gemini Movies HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Gemini_Movies_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="JIO_Telugu", Gemini Movies HD
-http://14.102.123.50:5001/live/899.m3u8
-#EXTINF:-1 tvg-id=934 tvg-name="Divya Vani" tvg-logo="http://14.102.123.50:5001/jtvimage/Divya_Vani.png" tvg-language="Telugu" tvg-type="Devotional" group-title="JIO_Telugu", Divya Vani
-http://14.102.123.50:5001/live/934.m3u8
-#EXTINF:-1 tvg-id=955 tvg-name="Hindu Dharmam" tvg-logo="http://14.102.123.50:5001/jtvimage/Hindu_Dharmam.png" tvg-language="Telugu" tvg-type="Devotional" group-title="JIO_Telugu", Hindu Dharmam
-http://14.102.123.50:5001/live/955.m3u8
-#EXTINF:-1 tvg-id=977 tvg-name="Calvary" tvg-logo="http://14.102.123.50:5001/jtvimage/Calvary.png" tvg-language="Telugu" tvg-type="Devotional" group-title="JIO_Telugu", Calvary
-http://14.102.123.50:5001/live/977.m3u8
-#EXTINF:-1 tvg-id=1080 tvg-name="CN HD+ Telugu" tvg-logo="http://14.102.123.50:5001/jtvimage/CN_HD_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="JIO_Telugu", CN HD+ Telugu
-http://14.102.123.50:5001/live/1080.m3u8
-#EXTINF:-1 tvg-id=1242 tvg-name="Sonic Telugu" tvg-logo="http://14.102.123.50:5001/jtvimage/Sonic_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="JIO_Telugu", Sonic Telugu
-http://14.102.123.50:5001/live/1242.m3u8
-#EXTINF:-1 tvg-id=1254 tvg-name="Aastha Telugu" tvg-logo="http://14.102.123.50:5001/jtvimage/Aastha_Telugu.png" tvg-language="Telugu" tvg-type="Devotional" group-title="JIO_Telugu", Aastha Telugu
-http://14.102.123.50:5001/live/1254.m3u8
-#EXTINF:-1 tvg-id=1274 tvg-name="Studio One" tvg-logo="http://14.102.123.50:5001/jtvimage/Studio_One.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", Studio One
-http://14.102.123.50:5001/live/1274.m3u8
-#EXTINF:-1 tvg-id=1354 tvg-name="Zee Telugu HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Telugu_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="JIO_Telugu", Zee Telugu HD
-http://14.102.123.50:5001/live/1354.m3u8
-#EXTINF:-1 tvg-id=1363 tvg-name="Zee Cinemalu HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Cinemalu_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="JIO_Telugu", Zee Cinemalu HD
-http://14.102.123.50:5001/live/1363.m3u8
-#EXTINF:-1 tvg-id=1665 tvg-name="ETV Cinema HD " tvg-logo="http://14.102.123.50:5001/jtvimage/ETV_Cinema_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="JIO_Telugu", ETV Cinema HD 
-http://14.102.123.50:5001/live/1665.m3u8
-#EXTINF:-1 tvg-id=1773 tvg-name="Sony Ten 4 HD Telugu" tvg-logo="http://14.102.123.50:5001/jtvimage/Ten_4_HD_Telugu.png" tvg-language="Telugu" tvg-type="Sports" group-title="JIO_Telugu", Sony Ten 4 HD Telugu
-http://14.102.123.50:5001/live/1773.m3u8
-#EXTINF:-1 tvg-id=1775 tvg-name="Sony Ten 4 Telugu" tvg-logo="http://14.102.123.50:5001/jtvimage/Ten_4_Telugu.png" tvg-language="Telugu" tvg-type="Sports" group-title="JIO_Telugu", Sony Ten 4 Telugu
-http://14.102.123.50:5001/live/1775.m3u8
-#EXTINF:-1 tvg-id=1883 tvg-name="Pogo Telugu" tvg-logo="http://14.102.123.50:5001/jtvimage/Pogo_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="JIO_Telugu", Pogo Telugu
-http://14.102.123.50:5001/live/1883.m3u8
-#EXTINF:-1 tvg-id=1973 tvg-name="ETV HD" tvg-logo="http://14.102.123.50:5001/jtvimage/ETV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="JIO_Telugu", ETV HD
-http://14.102.123.50:5001/live/1973.m3u8
-#EXTINF:-1 tvg-id=2436 tvg-name="Prime 9 News" tvg-logo="http://14.102.123.50:5001/jtvimage/Prime_9_News.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", Prime 9 News
-http://14.102.123.50:5001/live/2436.m3u8
-#EXTINF:-1 tvg-id=2745 tvg-name="Saregama Telugu" tvg-logo="http://14.102.123.50:5001/jtvimage/Saregama_Telugu.png" tvg-language="Telugu" tvg-type="Music" group-title="JIO_Telugu", Saregama Telugu
-http://14.102.123.50:5001/live/2745.m3u8
-#EXTINF:-1 tvg-id=2783 tvg-name="Big TV" tvg-logo="http://14.102.123.50:5001/jtvimage/Big_TV.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", Big TV
-http://14.102.123.50:5001/live/2783.m3u8
-#EXTINF:-1 tvg-id=2862 tvg-name="Mahaa News" tvg-logo="http://14.102.123.50:5001/jtvimage/Mahaa_News.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", Mahaa News
-http://14.102.123.50:5001/live/2862.m3u8
-#EXTINF:-1 tvg-id=2932 tvg-name="99 TV" tvg-logo="http://14.102.123.50:5001/jtvimage/99TV.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", 99 TV
-http://14.102.123.50:5001/live/2932.m3u8
-#EXTINF:-1 tvg-id=2956 tvg-name="ETV Plus HD" tvg-logo="http://14.102.123.50:5001/jtvimage/ETV_Plus_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="JIO_Telugu", ETV Plus HD
-http://14.102.123.50:5001/live/2956.m3u8
-#EXTINF:-1 tvg-id=3009 tvg-name="India Now" tvg-logo="http://14.102.123.50:5001/jtvimage/India_Now.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", India Now
-http://14.102.123.50:5001/live/3009.m3u8
-#EXTINF:-1 tvg-id=3018 tvg-name="News 360" tvg-logo="http://14.102.123.50:5001/jtvimage/News_360.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", News 360
-http://14.102.123.50:5001/live/3018.m3u8
-#EXTINF:-1 tvg-id=3031 tvg-name="Zee Telugu News" tvg-logo="http://14.102.123.50:5001/jtvimage/Zee_Telugu_News.png" tvg-language="Telugu" tvg-type="News" group-title="JIO_Telugu", Zee Telugu News
-http://14.102.123.50:5001/live/3031.m3u8
-
 #EXTINF:-1 tvg-id="SVBC2.in" tvg-logo="https://i.imgur.com/NtmRt1A.png" group-title="SVBC",SVBC Tamil (1080p)
 http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
 #EXTINF:-1 tvg-id="SVBC3.in" tvg-logo="https://i.imgur.com/Ae2PMTu.png" group-title="SVBC",SVBC Kannada (720p)
@@ -142,443 +9,137 @@ https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/play
 #EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="SVBC",SVBC Telugu (1080p)
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id=182 tvg-name="B4U Movies" tvg-logo="http://14.102.123.50:5001/jtvimage/B4U_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="JIO_Movies", B4U Movies
-http://14.102.123.50:5001/live/182.m3u8
-#EXTINF:-1 tvg-id=185 tvg-name="And Pictures HD" tvg-logo="http://14.102.123.50:5001/jtvimage/And_Pictures_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="JIO_Movies", And Pictures HD
-http://14.102.123.50:5001/live/185.m3u8
-#EXTINF:-1 tvg-id=289 tvg-name="Sony Max SD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_Max_SD.png" tvg-language="Hindi" tvg-type="Movies" group-title="JIO_Movies", Sony Max SD
-http://14.102.123.50:5001/live/289.m3u8
-#EXTINF:-1 tvg-id=476 tvg-name="Sony Max HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="JIO_Movies", Sony Max HD
-http://14.102.123.50:5001/live/476.m3u8
-#EXTINF:-1 tvg-id=482 tvg-name="Colors Cineplex" tvg-logo="http://14.102.123.50:5001/jtvimage/Colors_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="JIO_Movies", Colors Cineplex
-http://14.102.123.50:5001/live/482.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ABN NEWS TV" tvg-logo="https://img.logo-cdn.cc/abnnewstv.png" group-title="Telugu",ABN NEWS TV
+http://m1-max.dns-speedy.com:80/35F56F/50945D/102475
+#EXTINF:-1 tvg-ID="" tvg-name="CVR NEWS" tvg-logo="https://img.logo-cdn.cc/cvrnews.png" group-title="Telugu",CVR NEWS
+http://m1-max.dns-speedy.com:80/35F56F/50945D/112918
+#EXTINF:-1 tvg-ID="bhaktitv.in" tvg-name="BHAKTI TV" tvg-logo="https://img.logo-cdn.cc/bhaktitv.png" group-title="Telugu",BHAKTI TV
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63266
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://img.logo-cdn.cc/discoveryworld.png" group-title="Telugu",DISCOVERY WORLD HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63316
+#EXTINF:-1 tvg-ID="etvcinema.in" tvg-name="ETV CINEMA" tvg-logo="https://img.logo-cdn.cc/etvcinema.png" group-title="Telugu",ETV CINEMA
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63299
+#EXTINF:-1 tvg-ID="etv.in" tvg-name="ETV HD" tvg-logo="https://img.logo-cdn.cc/etvcinema.png" group-title="Telugu",ETV HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63530
+#EXTINF:-1 tvg-ID="geminitv.in" tvg-name="GEMINI HD" tvg-logo="https://img.logo-cdn.cc/gemini.png" group-title="Telugu",GEMINI HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63491
+#EXTINF:-1 tvg-ID="geminimovies.in" tvg-name="GEMINI MOVIES HD" tvg-logo="https://img.logo-cdn.cc/geminimovies.png" group-title="Telugu",GEMINI MOVIES HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63490
+#EXTINF:-1 tvg-ID="zeetelugu.in" tvg-name="GEMINI COMEDY" tvg-logo="https://img.logo-cdn.cc/geminicomedy.png" group-title="Telugu",GEMINI COMEDY
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63322
+#EXTINF:-1 tvg-ID="historytv18.in" tvg-name="HISTORY 18 TELUGU HD" tvg-logo="https://img.logo-cdn.cc/history.png" group-title="Telugu",HISTORY 18 TELUGU HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63529
+#EXTINF:-1 tvg-ID="maamovies.in" tvg-name="STAR MAA MOVIES HD" tvg-logo="https://img.logo-cdn.cc/starmaamovies.png" group-title="Telugu",STAR MAA MOVIES HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63489
+#EXTINF:-1 tvg-ID="ngc.in" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://img.logo-cdn.cc/nationalgeographic.png" group-title="Telugu",NATIONAL GEOGRAPHIC HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63528
+#EXTINF:-1 tvg-ID="rajnewstelugu.in" tvg-name="RAJ MUSIC TELUGU" tvg-logo="https://img.logo-cdn.cc/rajmusic.png" group-title="Telugu",RAJ MUSIC TELUGU
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63470
+#EXTINF:-1 tvg-ID="rajnewstelugu.in" tvg-name="RAJ NEWS TELUGU" tvg-logo="https://img.logo-cdn.cc/rajnewstelugu.png" group-title="Telugu",RAJ NEWS TELUGU
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63469
+#EXTINF:-1 tvg-ID="sonybbcearth.in" tvg-name="SONY BBC EARTH HD" tvg-logo="https://img.logo-cdn.cc/sonybbcearth.png" group-title="Telugu",SONY BBC EARTH HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63527
+#EXTINF:-1 tvg-ID="starmaa.in" tvg-name="STAR MAA GOLD HD" tvg-logo="https://img.logo-cdn.cc/starmaagold.png" group-title="Telugu",STAR MAA GOLD HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63414
+#EXTINF:-1 tvg-ID="starmaa.in" tvg-name="STAR MAA HD" tvg-logo="https://img.logo-cdn.cc/starmaagold.png" group-title="Telugu",STAR MAA HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63488
+#EXTINF:-1 tvg-ID="tataskyenglishintelugu.in" tvg-name="TATA SKY TELUGU CINEMA HD" tvg-logo="https://img.logo-cdn.cc/tataskytelugu.png" group-title="Telugu",TATA SKY TELUGU CINEMA HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63324
+#EXTINF:-1 tvg-ID="" tvg-name="V6 NEWS" tvg-logo="https://img.logo-cdn.cc/v6news.png" group-title="Telugu",V6 NEWS
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63264
+#EXTINF:-1 tvg-ID="vanithatv.in" tvg-name="ETV PLUS" tvg-logo="https://img.logo-cdn.cc/etvplus.png" group-title="Telugu",ETV PLUS
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63348
+#EXTINF:-1 tvg-ID="zeecinemalu.in" tvg-name="ZEE CINEMALU HD" tvg-logo="https://img.logo-cdn.cc/zeecinema.png" group-title="Telugu",ZEE CINEMALU HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63407
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE TELUGU HD" tvg-logo="https://img.logo-cdn.cc/zeetelugu.png" group-title="Telugu",ZEE TELUGU HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/143532
+#EXTINF:-1 tvg-ID="" tvg-name="GEMINI MUSIC" tvg-logo="https://img.logo-cdn.cc/geminimusic.png" group-title="Telugu",GEMINI MUSIC
+http://m1-max.dns-speedy.com:80/35F56F/50945D/112741
+#EXTINF:-1 tvg-ID="" tvg-name="GEMINI LIFE" tvg-logo="https://img.logo-cdn.cc/geminilife.png" group-title="Telugu",GEMINI LIFE
+http://m1-max.dns-speedy.com:80/35F56F/50945D/112742
+#EXTINF:-1 tvg-ID="ddsaptagiri.in" tvg-name="ETV LIFE" tvg-logo="https://img.logo-cdn.cc/etvlife.png" group-title="Telugu",ETV LIFE
+http://m1-max.dns-speedy.com:80/35F56F/50945D/66114
+#EXTINF:-1 tvg-ID="" tvg-name="TV5 NEWS" tvg-logo="https://img.logo-cdn.cc/tv5news.png" group-title="Telugu",TV5 NEWS
+http://m1-max.dns-speedy.com:80/35F56F/50945D/112743
+#EXTINF:-1 tvg-ID="" tvg-name="SONY YAY" tvg-logo="https://img.logo-cdn.cc/sonyyay.png" group-title="Telugu",SONY YAY
+http://m1-max.dns-speedy.com:80/35F56F/50945D/112744
+#EXTINF:-1 tvg-ID="" tvg-name="10 TV" tvg-logo="https://img.logo-cdn.cc/10tv.png" group-title="Telugu",10 TV
+http://m1-max.dns-speedy.com:80/35F56F/50945D/112745
+#EXTINF:-1 tvg-ID="" tvg-name="DD SAPTAGIRI" tvg-logo="https://img.logo-cdn.cc/ddsaptagiri.png" group-title="Telugu",DD SAPTAGIRI
+http://m1-max.dns-speedy.com:80/35F56F/50945D/143536
+#EXTINF:-1 tvg-ID="" tvg-name="VANITHA TV" tvg-logo="https://img.logo-cdn.cc/vanitha.png" group-title="Telugu",VANITHA TV
+http://m1-max.dns-speedy.com:80/35F56F/50945D/143535
+#EXTINF:-1 tvg-ID="" tvg-name="VISSA TV" tvg-logo="https://img.logo-cdn.cc/vissa.png" group-title="Telugu",VISSA TV
+http://m1-max.dns-speedy.com:80/35F56F/50945D/143534
+#EXTINF:-1 tvg-ID="" tvg-name="KUSHI TV" tvg-logo="https://img.logo-cdn.cc/kushitv.png" group-title="Telugu",KUSHI TV
+http://m1-max.dns-speedy.com:80/35F56F/50945D/143533
+#EXTINF:-1 tvg-ID="" tvg-name="NTV NEWS HD" tvg-logo="" group-title="Telugu",NTV NEWS HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441525
+#EXTINF:-1 tvg-ID="" tvg-name="TEN 4 TELUGU" tvg-logo="" group-title="Telugu",TEN 4 TELUGU
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441526
+#EXTINF:-1 tvg-ID="" tvg-name="MAA MUSIC HD" tvg-logo="" group-title="Telugu",MAA MUSIC HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441527
+#EXTINF:-1 tvg-ID="" tvg-name="T NEWS " tvg-logo="" group-title="Telugu",T NEWS 
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441528
+#EXTINF:-1 tvg-ID="" tvg-name="SUBHAVAARTHA TV" tvg-logo="" group-title="Telugu",SUBHAVAARTHA TV
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441529
+#EXTINF:-1 tvg-ID="" tvg-name="NIREEKSHANA TV" tvg-logo="" group-title="Telugu",NIREEKSHANA TV
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441530
+#EXTINF:-1 tvg-ID="" tvg-name="MERCY TV" tvg-logo="" group-title="Telugu",MERCY TV
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441531
+#EXTINF:-1 tvg-ID="" tvg-name="I NEWS" tvg-logo="" group-title="Telugu",I NEWS
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441532
+#EXTINF:-1 tvg-ID="" tvg-name="HMTV NEWS" tvg-logo="" group-title="Telugu",HMTV NEWS
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441533
+#EXTINF:-1 tvg-ID="" tvg-name="HINDU DHARMAM" tvg-logo="" group-title="Telugu",HINDU DHARMAM
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441534
+#EXTINF:-1 tvg-ID="" tvg-name="CVR OM" tvg-logo="" group-title="Telugu",CVR OM
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441535
+#EXTINF:-1 tvg-ID="" tvg-name="CVR HEALTH" tvg-logo="" group-title="Telugu",CVR HEALTH
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441536
+#EXTINF:-1 tvg-ID="" tvg-name="CALVARY TV" tvg-logo="" group-title="Telugu",CALVARY TV
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441537
+#EXTINF:-1 tvg-ID="" tvg-name="ARADANA TV" tvg-logo="" group-title="Telugu",ARADANA TV
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441538
+#EXTINF:-1 tvg-ID="" tvg-name="AP_24X7" tvg-logo="" group-title="Telugu",AP_24X7
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441539
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="Telugu",NATIONAL GEOGRAPHIC FHD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441540
+#EXTINF:-1 tvg-ID="" tvg-name="TV9 TELUGU NEWS" tvg-logo="" group-title="Telugu",TV9 TELUGU NEWS
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441541
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY KIDS" tvg-logo="" group-title="Telugu",DISCOVERY KIDS
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441571
 
-#EXTINF:-1 group-title="Movies",&flix HD-Rs 19
-http://223.123.40.18:8000/play/a10n/index.m3u8
-#EXTINF:-1 group-title="Movies",&pictures HD -Rs 19
-http://223.123.40.18:8000/play/a16u/index.m3u8
-#EXTINF:-1 group-title="Movies",&prive HD-Rs 6
-http://223.123.40.18:8000/play/a171/index.m3u8
-#EXTINF:-1 group-title="Movies",&tv HD - Rs 19
-http://223.123.40.18:8000/play/a14l/index.m3u8
-#EXTINF:-1 group-title="Movies",24 News HD
-http://223.123.40.18:8000/play/a0un/index.m3u8
-#EXTINF:-1 group-title="Movies",92 Entertainment
-http://223.123.40.18:8000/play/a0uk/index.m3u8
-#EXTINF:-1 group-title="Movies",92 News HD
-http://223.123.40.18:8000/play/a0ui/index.m3u8
-#EXTINF:-1 group-title="Movies",A SportsHD
-http://223.123.40.18:8000/play/a0ww/index.m3u8
-#EXTINF:-1 group-title="Movies",A1 TV
-http://223.123.40.18:8000/play/a0we/index.m3u8
-#EXTINF:-1 group-title="Movies",AAN TV - HD
-http://223.123.40.18:8000/play/a0x8/index.m3u8
-#EXTINF:-1 group-title="Movies",AUR_Life
-http://223.123.40.18:8000/play/a0xj/index.m3u8
-#EXTINF:-1 group-title="Movies",Al Ehsaan TV
-http://223.123.40.18:8000/play/a0wo/index.m3u8
-#EXTINF:-1 group-title="Movies",Alief TV
-http://223.123.40.18:8000/play/a0uy/index.m3u8
-#EXTINF:-1 group-title="Movies",Animal PlanetHD-Rs5
-http://223.123.40.18:8000/play/a16l/index.m3u8
-#EXTINF:-1 group-title="Movies",BOLO ENT UK
-http://223.123.40.18:8000/play/a0vk/index.m3u8
-#EXTINF:-1 group-title="Movies",Bethat TV
-http://223.123.40.18:8000/play/a0vh/index.m3u8
-#EXTINF:-1 group-title="Movies",CH-11
-http://223.123.40.18:8000/play/a0uj/index.m3u8
-#EXTINF:-1 group-title="Movies",CHANNEL 4 NEWS
-http://223.123.40.18:8000/play/a0vf/index.m3u8
-#EXTINF:-1 group-title="Movies",CINE MAX
-http://223.123.40.18:8000/play/a0wa/index.m3u8
-#EXTINF:-1 group-title="Movies",CITY
-http://223.123.40.18:8000/play/a0uu/index.m3u8
-#EXTINF:-1 group-title="Movies",CITY
-http://223.123.40.18:8000/play/a0ut/index.m3u8
-#EXTINF:-1 group-title="Movies",CITY-21
-http://223.123.40.18:8000/play/a0us/index.m3u8
-#EXTINF:-1 group-title="Movies",CITY-41
-http://223.123.40.18:8000/play/a0up/index.m3u8
-#EXTINF:-1 group-title="Movies",CITY-42 HD
-http://223.123.40.18:8000/play/a0uo/index.m3u8
-#EXTINF:-1 group-title="Movies",Champion TV
-http://223.123.40.18:8000/play/a0wg/index.m3u8
-#EXTINF:-1 group-title="Movies",Channel 89
-http://223.123.40.18:8000/play/a0v4/index.m3u8
-#EXTINF:-1 group-title="Movies",Channel 9
-http://223.123.40.18:8000/play/a0um/index.m3u8
-#EXTINF:-1 group-title="Movies",Colors HD-Rs 19
-http://223.123.40.18:8000/play/a10m/index.m3u8
-#EXTINF:-1 group-title="Movies",DEFAULT PLATE ST2
-http://223.123.40.18:8000/play/a16v/index.m3u8
-#EXTINF:-1 group-title="Movies",Discover Pakistan
-http://223.123.40.18:8000/play/a0vp/index.m3u8
-#EXTINF:-1 group-title="Movies",Discovery HD-Rs8
-http://223.123.40.18:8000/play/a15m/index.m3u8
-#EXTINF:-1 group-title="Movies",Dunya ENT
-http://223.123.40.18:8000/play/a0ua/index.m3u8
-#EXTINF:-1 group-title="Movies",Dunya News HD
-http://223.123.40.18:8000/play/a0u8/index.m3u8
-#EXTINF:-1 group-title="Movies",E1
-http://223.123.40.18:8000/play/a0wn/index.m3u8
-#EXTINF:-1 group-title="Movies",EUROSPORT HD-Rs 6
-http://223.123.40.18:8000/play/a10p/index.m3u8
-#EXTINF:-1 group-title="Movies",EXP ENTERTAINMENT
-http://223.123.40.18:8000/play/a0x3/index.m3u8
-#EXTINF:-1 group-title="Movies",EXP NEWS
-http://223.123.40.18:8000/play/a0x4/index.m3u8
-#EXTINF:-1 group-title="Movies",EYE TV
-http://223.123.40.18:8000/play/a0w8/index.m3u8
-#EXTINF:-1 group-title="Movies",FILM ASIA
-http://223.123.40.18:8000/play/a0vj/index.m3u8
-#EXTINF:-1 group-title="Movies",FILMWORLD
-http://223.123.40.18:8000/play/a0xl/index.m3u8
-#EXTINF:-1 group-title="Movies",Geo News
-http://223.123.40.18:8000/play/a0ub/index.m3u8
-#EXTINF:-1 group-title="Movies",Geo Tez
-http://223.123.40.18:8000/play/a0uf/index.m3u8
-#EXTINF:-1 group-title="Movies",Global News
-http://223.123.40.18:8000/play/a0wc/index.m3u8
-#EXTINF:-1 group-title="Movies",GreenEnt - HD
-http://223.123.40.18:8000/play/a0uw/index.m3u8
-#EXTINF:-1 group-title="Movies",HUM NEWS HD
-http://223.123.40.18:8000/play/a0wq/index.m3u8
-#EXTINF:-1 group-title="Movies",HUM PASHTO-1
-http://223.123.40.18:8000/play/a0wu/index.m3u8
-#EXTINF:-1 group-title="Movies",HUM SITARAY
-http://223.123.40.18:8000/play/a0wr/index.m3u8
-#EXTINF:-1 group-title="Movies",Hidayat TV
-http://223.123.40.18:8000/play/a0vg/index.m3u8
-#EXTINF:-1 group-title="Movies",Hoora TV
-http://223.123.40.18:8000/play/a0vt/index.m3u8
-#EXTINF:-1 group-title="Movies",IB TV USA
-http://223.123.40.18:8000/play/a0w9/index.m3u8
-#EXTINF:-1 group-title="Movies",Investigation D-Rs1
-http://223.123.40.18:8000/play/a0zw/index.m3u8
-#EXTINF:-1 group-title="Movies",KAABA Live
-http://223.123.40.18:8000/play/a18g/index.m3u8
-#EXTINF:-1 group-title="Movies",Kohenoor
-http://223.123.40.18:8000/play/a0uz/index.m3u8
-#EXTINF:-1 group-title="Movies",M-Life TEST
-http://223.123.40.18:8000/play/a0xb/index.m3u8
-#EXTINF:-1 group-title="Movies",M-News TEST
-http://223.123.40.18:8000/play/a0xa/index.m3u8
-#EXTINF:-1 group-title="Movies",M-Sports TEST
-http://223.123.40.18:8000/play/a0xc/index.m3u8
-#EXTINF:-1 group-title="Movies",MINI MAX
-http://223.123.40.18:8000/play/a0w7/index.m3u8
-#EXTINF:-1 group-title="Movies",MUNTAZIR TV P
-http://223.123.40.18:8000/play/a0vm/index.m3u8
-#EXTINF:-1 group-title="Movies",Movie one UK
-http://223.123.40.18:8000/play/a0wi/index.m3u8
-#EXTINF:-1 group-title="Movies",Mye TV
-http://223.123.40.18:8000/play/a0wk/index.m3u8
-#EXTINF:-1 group-title="Movies",NEO NEWS HD
-http://223.123.40.18:8000/play/a0xh/index.m3u8
-#EXTINF:-1 group-title="Movies",NOOR TV
-http://223.123.40.18:8000/play/a0w6/index.m3u8
-#EXTINF:-1 group-title="Movies",Nat Geo HD-Rs14
-http://223.123.40.18:8000/play/a15l/index.m3u8
-#EXTINF:-1 group-title="Movies",NatGeo Wild HD-Rs8
-http://223.123.40.18:8000/play/a18s/index.m3u8
-#EXTINF:-1 group-title="Movies",ON NEWS HD
-http://223.123.40.18:8000/play/a0wl/index.m3u8
-#EXTINF:-1 group-title="Movies",PEACE TV URDU
-http://223.123.40.18:8000/play/a18f/index.m3u8
-#EXTINF:-1 group-title="Movies",PLANET6 TEST
-http://223.123.40.18:8000/play/a0x9/index.m3u8
-#EXTINF:-1 group-title="Movies",POP TV UK
-http://223.123.40.18:8000/play/a0vb/index.m3u8
-#EXTINF:-1 group-title="Movies",PRESS TV
-http://223.123.40.18:8000/play/a0va/index.m3u8
-#EXTINF:-1 group-title="Movies",PRIME 2 HD
-http://223.123.40.18:8000/play/a0v9/index.m3u8
-#EXTINF:-1 group-title="Movies",PRIME BOX HD
-http://223.123.40.18:8000/play/a0wd/index.m3u8
-#EXTINF:-1 group-title="Movies",PTV-Global
-http://223.123.40.18:8000/play/a0vy/index.m3u8
-#EXTINF:-1 group-title="Movies",PTV-Home
-http://223.123.40.18:8000/play/a0vw/index.m3u8
-#EXTINF:-1 group-title="Movies",PTV-NEWS HD
-http://223.123.40.18:8000/play/a0vx/index.m3u8
-#EXTINF:-1 group-title="Movies",PTV-SPORTS-HD
-http://223.123.40.18:8000/play/a0vz/index.m3u8
-#EXTINF:-1 group-title="Movies",PTV-World
-http://223.123.40.18:8000/play/a0w0/index.m3u8
-#EXTINF:-1 group-title="Movies",Paigham Pashto
-http://223.123.40.18:8000/play/a0vd/index.m3u8
-#EXTINF:-1 group-title="Movies",Pakistan 1
-http://223.123.40.18:8000/play/a0v1/index.m3u8
-#EXTINF:-1 group-title="Movies",Peace TV English
-http://223.123.40.18:8000/play/a18e/index.m3u8
-#EXTINF:-1 group-title="Movies",Prime Asia Tv
-http://223.123.40.18:8000/play/a0wb/index.m3u8
-#EXTINF:-1 group-title="Movies",Quran TV
-http://223.123.40.18:8000/play/a0wm/index.m3u8
-#EXTINF:-1 group-title="Movies",ROHI TV
-http://223.123.40.18:8000/play/a0uq/index.m3u8
-#EXTINF:-1 group-title="Movies",SAG
-http://223.123.40.18:8000/play/a0v2/index.m3u8
-#EXTINF:-1 group-title="Movies",SEHAR URDU
-http://223.123.40.18:8000/play/a0vl/index.m3u8
-#EXTINF:-1 group-title="Movies",SET HD - Rs 19
-http://223.123.40.18:8000/play/a10o/index.m3u8
-#EXTINF:-1 group-title="Movies",SONY MAX HD -Rs 19
-http://223.123.40.18:8000/play/a0z8/index.m3u8
-#EXTINF:-1 group-title="Movies",SONY PAL- Rs 0.50
-http://223.123.40.18:8000/play/a118/index.m3u8
-#EXTINF:-1 group-title="Movies",SONY PIX HD - Rs 19
-http://223.123.40.18:8000/play/a16t/index.m3u8
-#EXTINF:-1 group-title="Movies",SONY SAB HD - Rs 19
-http://223.123.40.18:8000/play/a14n/index.m3u8
-#EXTINF:-1 group-title="Movies",STAR BHARAT HD-Rs 19
-http://223.123.40.18:8000/play/a16k/index.m3u8
-#EXTINF:-1 group-title="Movies",STAR MOVIES HD-Rs19
-http://223.123.40.18:8000/play/a15k/index.m3u8
-#EXTINF:-1 group-title="Movies",STARLITE TV
-http://223.123.40.18:8000/play/a0vc/index.m3u8
-#EXTINF:-1 group-title="Movies",See TV
-http://223.123.40.18:8000/play/a0vs/index.m3u8
-#EXTINF:-1 group-title="Movies",Silver Screen N
-http://223.123.40.18:8000/play/a0wj/index.m3u8
-#EXTINF:-1 group-title="Movies",Sindh News
-http://223.123.40.18:8000/play/a0vr/index.m3u8
-#EXTINF:-1 group-title="Movies",Sindh TV
-http://223.123.40.18:8000/play/a0vq/index.m3u8
-#EXTINF:-1 group-title="Movies",Sky Cinema
-http://223.123.40.18:8000/play/a0wh/index.m3u8
-#EXTINF:-1 group-title="Movies",Sony Ten 1 HD-Rs19
-http://223.123.40.18:8000/play/a0z5/index.m3u8
-#EXTINF:-1 group-title="Movies",Sony Ten 1-Rs 19
-http://223.123.40.18:8000/play/a18t/index.m3u8
-#EXTINF:-1 group-title="Movies",Sony Ten 2-Rs 19
-http://223.123.40.18:8000/play/a18u/index.m3u8
-#EXTINF:-1 group-title="Movies",Sony Ten 3 HD-Rs19
-http://223.123.40.18:8000/play/a0zz/index.m3u8
-#EXTINF:-1 group-title="Movies",Sony Ten 3-Rs 19
-http://223.123.40.18:8000/play/a18v/index.m3u8
-#EXTINF:-1 group-title="Movies",Sony Ten 5 HD-Rs19
-http://223.123.40.18:8000/play/a18p/index.m3u8
-#EXTINF:-1 group-title="Movies",SonyBBCearthHD-Rs19
-http://223.123.40.18:8000/play/a16q/index.m3u8
-#EXTINF:-1 group-title="Movies",Sports18 1 HD-Rs19
-http://223.123.40.18:8000/play/a15g/index.m3u8
-#EXTINF:-1 group-title="Movies",Star GOLD HD -Rs 19
-http://223.123.40.18:8000/play/a16m/index.m3u8
-#EXTINF:-1 group-title="Movies",Star Maa HD - Rs 22
-http://223.123.40.18:8000/play/a14p/index.m3u8
-#EXTINF:-1 group-title="Movies",Star Maa MovHD-Rs 19
-http://223.123.40.18:8000/play/a14k/index.m3u8
-#EXTINF:-1 group-title="Movies",Star News Asia
-http://223.123.40.18:8000/play/a0vu/index.m3u8
-#EXTINF:-1 group-title="Movies",Star Plus HD -Rs 22
-http://223.123.40.18:8000/play/a10k/index.m3u8
-#EXTINF:-1 group-title="Movies",Star Pravah HD-Rs19
-http://223.123.40.18:8000/play/a15t/index.m3u8
-#EXTINF:-1 group-title="Movies",Star Utsav- Rs 0.50
-http://223.123.40.18:8000/play/a111/index.m3u8
-#EXTINF:-1 group-title="Movies",StarGold SelHD-Rs8
-http://223.123.40.18:8000/play/a16p/index.m3u8
-#EXTINF:-1 group-title="Movies",StarS1 HindiHD-Rs19
-http://223.123.40.18:8000/play/a18q/index.m3u8
-#EXTINF:-1 group-title="Movies",StarS1 HindiHD-Rs19
-http://223.123.40.18:8000/play/a0z7/index.m3u8
-#EXTINF:-1 group-title="Movies",StarSport Sel2-Rs10
-http://223.123.40.18:8000/play/a0zn/index.m3u8
-#EXTINF:-1 group-title="Movies",StarSportSL1HD-Rs19
-http://223.123.40.18:8000/play/a16y/index.m3u8
-#EXTINF:-1 group-title="Movies",StarSports1 HD-Rs19
-http://223.123.40.18:8000/play/a18m/index.m3u8
-#EXTINF:-1 group-title="Movies",StarSports1 HD-Rs19
-http://223.123.40.18:8000/play/a0z3/index.m3u8
-#EXTINF:-1 group-title="Movies",StarSports2 HD-Rs19
-http://223.123.40.18:8000/play/a18n/index.m3u8
-#EXTINF:-1 group-title="Movies",StarSports2 HD-Rs19
-http://223.123.40.18:8000/play/a0z4/index.m3u8
-#EXTINF:-1 group-title="Movies",Super screen
-http://223.123.40.18:8000/play/a0ve/index.m3u8
-#EXTINF:-1 group-title="Movies",TLC HD- Rs 3
-http://223.123.40.18:8000/play/a15h/index.m3u8
-#EXTINF:-1 group-title="Movies",TV2DAY
-http://223.123.40.18:8000/play/a0xk/index.m3u8
-#EXTINF:-1 group-title="Movies",UK-44
-http://223.123.40.18:8000/play/a0ur/index.m3u8
-#EXTINF:-1 group-title="Movies",VU TV Network 1
-http://223.123.40.18:8000/play/a182/index.m3u8
-#EXTINF:-1 group-title="Movies",VU TV Network 2
-http://223.123.40.18:8000/play/a184/index.m3u8
-#EXTINF:-1 group-title="Movies",VU TV Network 2
-http://223.123.40.18:8000/play/a183/index.m3u8
-#EXTINF:-1 group-title="Movies",VU TV Network 4
-http://223.123.40.18:8000/play/a185/index.m3u8
-#EXTINF:-1 group-title="Movies",Venus Entertainment
-http://223.123.40.18:8000/play/a0v0/index.m3u8
-#EXTINF:-1 group-title="Movies",Voice News
-http://223.123.40.18:8000/play/a0vi/index.m3u8
-#EXTINF:-1 group-title="Movies",ZEE ANMOL- Rs 0.10
-http://223.123.40.18:8000/play/a119/index.m3u8
-#EXTINF:-1 group-title="Movies",ZEE CINEMA HD-Rs 19
-http://223.123.40.18:8000/play/a16j/index.m3u8
-#EXTINF:-1 group-title="Movies",ZEE Cafe HD - Rs10
-http://223.123.40.18:8000/play/a15i/index.m3u8
-#EXTINF:-1 group-title="Movies",ZEE TV HD-Rs 19
-http://223.123.40.18:8000/play/a10l/index.m3u8
-#EXTINF:-1 group-title="Movies",bindass - Rs 0.10
-http://223.123.40.18:8000/play/a110/index.m3u8
-#EXTINF:-1 group-title="Movies",cinemovie
-http://223.123.40.18:8000/play/a0wf/index.m3u8
-#EXTINF:-1 group-title="Movies",colors rishtey-Rs0.50
-http://223.123.40.18:8000/play/a10y/index.m3u8
-#EXTINF:-1 group-title="Movies",iFilm English
-http://223.123.40.18:8000/play/a0vn/index.m3u8
-#EXTINF:-1 group-title="Movies",nick HD+- Rs 10
-http://223.123.40.18:8000/play/a16z/index.m3u8
 
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD INDIA HD
-http://14.102.123.50:9080/play/a0o5
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD JHARKHAND
-http://14.102.123.50:9080/play/a0nd
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD KISAN
-http://14.102.123.50:9080/play/a0l3
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD Kashir
-http://14.102.123.50:9080/play/a0nh
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD MP
-http://14.102.123.50:9080/play/a0ne
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD Malayalam
-http://14.102.123.50:9080/play/a0nl
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD Manipur
-http://14.102.123.50:9080/play/a0o2
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD Meghalaya
-http://14.102.123.50:9080/play/a0o1
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD Mizoram
-http://14.102.123.50:9080/play/a0o4
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD NATIONAL HD
-http://14.102.123.50:9080/play/a0oa
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD NEWS
-http://14.102.123.50:9080/play/a0l1
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD NEWS HD
-http://14.102.123.50:9080/play/a0nx
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD Nagaland
-http://14.102.123.50:9080/play/a0o3
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD National
-http://14.102.123.50:9080/play/a0l2
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD Oriya
-http://14.102.123.50:9080/play/a0nn
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD Podhigai
-http://14.102.123.50:9080/play/a0lm
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD Punjabi
-http://14.102.123.50:9080/play/a0ln
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD RAJASTHAN
-http://14.102.123.50:9080/play/a0na
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD SPORTS
-http://14.102.123.50:9080/play/a0nb
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD SPORTS HD
-http://14.102.123.50:9080/play/a0od
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD Sahyadri
-http://14.102.123.50:9080/play/a0lo
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD Saptagiri
-http://14.102.123.50:9080/play/a0nk
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD TRIPURA
-http://14.102.123.50:9080/play/a0nf
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD UP
-http://14.102.123.50:9080/play/a0n8
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD UTTARAKHAND
-http://14.102.123.50:9080/play/a0nj
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD Urdu
-http://14.102.123.50:9080/play/a0ob
-#EXTINF:-1 group-title="DD_FreeDish_channels",DD Yadagiri
-http://14.102.123.50:9080/play/a0n7
-#EXTINF:-1 group-title="DD_FreeDish_channels",B4U BHOJPURI
-http://14.102.123.50:9080/play/a0lb
-#EXTINF:-1 group-title="DD_FreeDish_channels",B4U KADAK
-http://14.102.123.50:9080/play/a0m8
-#EXTINF:-1 group-title="DD_FreeDish_channels",B4U Movies
-http://14.102.123.50:9080/play/a0lc
-#EXTINF:-1 group-title="DD_FreeDish_channels",B4U Music
-http://14.102.123.50:9080/play/a0mu
-#EXTINF:-1 group-title="DD_FreeDish_channels",GOOD NEWS TODAY
-http://14.102.123.50:9080/play/a0ld
-#EXTINF:-1 group-title="DD_FreeDish_channels",Raapchik
-http://14.102.123.50:9080/play/a0tn
-#EXTINF:-1 group-title="DD_FreeDish_channels",News 24 Think First
-http://14.102.123.50:9080/play/a0to
-#EXTINF:-1 group-title="DD_FreeDish_channels",SHEMAROO TV
-http://14.102.123.50:9080/play/a0lt
-#EXTINF:-1 group-title="DD_FreeDish_channels",Shemaroo Marathibana
-http://14.102.123.50:9080/play/a0ll
-#EXTINF:-1 group-title="DD_FreeDish_channels",SUN Neo
-http://14.102.123.50:9080/play/a0tp
-#EXTINF:-1 group-title="DD_FreeDish_channels",Shemaroo Umang
-http://14.102.123.50:9080/play/a0lf
-#EXTINF:-1 group-title="DD_FreeDish_channels",Showbox
-http://14.102.123.50:9080/play/a0l7
-#EXTINF:-1 group-title="DD_FreeDish_channels",All Time Movies
-http://14.102.123.50:9080/play/a0tx
-#EXTINF:-1 group-title="DD_FreeDish_channels",MANORANJAN GRAND
-http://14.102.123.50:9080/play/a0lk
-#EXTINF:-1 group-title="DD_FreeDish_channels",MH ONE - Free
-http://14.102.123.50:9080/play/a0pj
-#EXTINF:-1 group-title="DD_FreeDish_channels",Manoranjan Movies
-http://14.102.123.50:9080/play/a0m6
-#EXTINF:-1 group-title="DD_FreeDish_channels",Manoranjan Prime
-http://14.102.123.50:9080/play/a0li
-#EXTINF:-1 group-title="DD_FreeDish_channels",Manoranjan TV
-http://14.102.123.50:9080/play/a0m9
-#EXTINF:-1 group-title="DD_FreeDish_channels",Masti
-http://14.102.123.50:9080/play/a0mt
-#EXTINF:-1 group-title="DD_FreeDish_channels",NAZARA
-http://14.102.123.50:9080/play/a0l5
-#EXTINF:-1 group-title="DD_FreeDish_channels",NDTV India
-http://14.102.123.50:9080/play/a0mf
-#EXTINF:-1 group-title="DD_FreeDish_channels",Fakt Marathi
-http://14.102.123.50:9080/play/a0lp
-#EXTINF:-1 group-title="DD_FreeDish_channels",ZEE Chitra Mandir
-http://14.102.123.50:9080/play/a0n2
-#EXTINF:-1 group-title="DD_FreeDish_channels",ZEE ANMOL CINEMA
-http://14.102.123.50:9080/play/a0me
-#EXTINF:-1 group-title="DD_FreeDish_channels",ZEE ANMOL CINEMA 2
-http://14.102.123.50:9080/play/a0ts
-#EXTINF:-1 group-title="DD_FreeDish_channels",ACTION CINEMA
-http://14.102.123.50:9080/play/a0tr
-#EXTINF:-1 group-title="DD_FreeDish_channels",Aaj Tak
-http://14.102.123.50:9080/play/a0mz
-#EXTINF:-1 group-title="DD_FreeDish_channels",Aastha Bhajan
-http://14.102.123.50:9080/play/a0ns
-#EXTINF:-1 group-title="DD_FreeDish_channels",Sports18 Khel
-http://14.102.123.50:9080/play/a0lq
-#EXTINF:-1 group-title="DD_FreeDish_channels",Dangal
-http://14.102.123.50:9080/play/a0lu
-#EXTINF:-1 group-title="DD_FreeDish_channels",Dangal 2
-http://14.102.123.50:9080/play/a0m3
-#EXTINF:-1 group-title="DD_FreeDish_channels",Dhamaal 
-http://14.102.123.50:9080/play/a0tt
-#EXTINF:-1 group-title="DD_FreeDish_channels",FILAMCHI BHOJPURI
-http://14.102.123.50:9080/play/a0mc
-#EXTINF:-1 group-title="DD_FreeDish_channels",Bhojpuri Cinema
-http://14.102.123.50:9080/play/a0lv
-#EXTINF:-1 group-title="DD_FreeDish_channels",Big Magic
-http://14.102.123.50:9080/play/a0m7
-#EXTINF:-1 group-title="DD_FreeDish_channels",CHUMBAK TV
-http://14.102.123.50:9080/play/a0mj
-#EXTINF:-1 group-title="DD_FreeDish_channels",Cineplex Bollywood
-http://14.102.123.50:9080/play/a0m0
-#EXTINF:-1 group-title="DD_FreeDish_channels",RISHTEY CINEPLEX
-http://14.102.123.50:9080/play/a0m4
-#EXTINF:-1 group-title="DD_FreeDish_channels",SONY WAH - Rs 0.10
-http://14.102.123.50:9080/play/a0z4
-#EXTINF:-1 group-title="DD_FreeDish_channels",Goldmines
-http://14.102.123.50:9080/play/a0ly
-#EXTINF:-1 group-title="DD_FreeDish_channels",Goldmines Bollywood
-http://14.102.123.50:9080/play/a0m1
-#EXTINF:-1 group-title="DD_FreeDish_channels",GOLDMINES MOVIES
-http://14.102.123.50:9080/play/a0mi
-#EXTINF:-1 group-title="DD_FreeDish_channels",STAR GOLD THRILLS
-http://14.102.123.50:9080/play/a0mg
-#EXTINF:-1 group-title="DD_FreeDish_channels",Star Utsav Movies
-http://14.102.123.50:9080/play/a0mm
-#EXTINF:-1 group-title="DD_FreeDish_channels",THE Q
-http://14.102.123.50:9080/play/a0lz
-#EXTINF:-1 group-title="DD_FreeDish_channels",NDTV India
-http://14.102.123.50:9080/play/a0mf
-#EXTINF:-1 group-title="DD_FreeDish_channels",9XM
-http://14.102.123.50:9080/play/a0l4
+#EXTINF:-1 tvg-ID="starsports1.in" tvg-name="STAR SPORTS 1 HD ENGLISH" tvg-logo="https://img.logo-cdn.cc/starsports1.png" group-title="Sports",STAR SPORTS 1 HD ENGLISH
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63541
+#EXTINF:-1 tvg-ID="starsports2.in" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://img.logo-cdn.cc/starsports2.png" group-title="Sports",STAR SPORTS 2 HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63540
+#EXTINF:-1 tvg-ID="starsports1hindi.in" tvg-name="STAR SPORTS 3" tvg-logo="https://img.logo-cdn.cc/starsports3.png" group-title="Sports",STAR SPORTS 3
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63314
+#EXTINF:-1 tvg-ID="starsportsselect1.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://img.logo-cdn.cc/starsports1.png" group-title="Sports",STAR SPORTS SELECT 1 HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63539
+#EXTINF:-1 tvg-ID="starsportsselect2.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://img.logo-cdn.cc/starsports2.png" group-title="Sports",STAR SPORTS SELECT 2 HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63498
+#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS 1 TELUGU FHD" tvg-logo="" group-title="Sports",STAR SPORTS 1 TELUGU FHD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1441567
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS 18" tvg-logo="https://img.logo-cdn.cc/sport18.png" group-title="Sports",SPORTS 18
+http://m1-max.dns-speedy.com:80/35F56F/50945D/724568
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS 18 ENGLISH" tvg-logo="https://img.logo-cdn.cc/sport18.png" group-title="Sports",SPORTS 18 ENGLISH
+http://m1-max.dns-speedy.com:80/35F56F/50945D/771623
+#EXTINF:-1 tvg-ID="" tvg-name="T-SPORTS 2" tvg-logo="https://img.logo-cdn.cc/tsports2.png" group-title="Sports",T-SPORTS 2
+http://m1-max.dns-speedy.com:80/35F56F/50945D/756463
+#EXTINF:-1 tvg-ID="dsport.in" tvg-name="EUROSPORT HD" tvg-logo="https://img.logo-cdn.cc/dsports.png" group-title="Sports",EUROSPORT HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63332
+#EXTINF:-1 tvg-ID="sonysix.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://img.logo-cdn.cc/sonysix.png" group-title="Sports",SONY TEN 5 HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63499
+#EXTINF:-1 tvg-ID="sonyten1.in" tvg-name="TEN 1 HD" tvg-logo="https://img.logo-cdn.cc/ten1.png" group-title="Sports",TEN 1 HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63537
+#EXTINF:-1 tvg-ID="sonyten2.in" tvg-name="TEN 2 HD" tvg-logo="https://img.logo-cdn.cc/ten2.png" group-title="Sports",TEN 2 HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63536
+#EXTINF:-1 tvg-ID="sonyten3.in" tvg-name="TEN 3 HD" tvg-logo="https://img.logo-cdn.cc/ten3.png" group-title="Sports",TEN 3 HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63535
+#EXTINF:-1 tvg-ID="" tvg-name="WILLOW CRICKET HD" tvg-logo="https://img.logo-cdn.cc/willowcricket.png" group-title="Sports",WILLOW CRICKET HD
+http://m1-max.dns-speedy.com:80/35F56F/50945D/63439
+#EXTINF:-1 tvg-ID="" tvg-name="DD SPORTS" tvg-logo="https://img.logo-cdn.cc/ddsports.png" group-title="Sports",DD SPORTS
+http://m1-max.dns-speedy.com:80/35F56F/50945D/112863
