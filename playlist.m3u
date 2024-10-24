@@ -9,137 +9,93 @@ https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/play
 #EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="SVBC",SVBC Telugu (1080p)
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="ABN NEWS TV" tvg-logo="https://img.logo-cdn.cc/abnnewstv.png" group-title="Telugu",ABN NEWS TV
-http://m1-max.dns-speedy.com:80/35F56F/50945D/102475
-#EXTINF:-1 tvg-ID="" tvg-name="CVR NEWS" tvg-logo="https://img.logo-cdn.cc/cvrnews.png" group-title="Telugu",CVR NEWS
-http://m1-max.dns-speedy.com:80/35F56F/50945D/112918
-#EXTINF:-1 tvg-ID="bhaktitv.in" tvg-name="BHAKTI TV" tvg-logo="https://img.logo-cdn.cc/bhaktitv.png" group-title="Telugu",BHAKTI TV
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63266
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://img.logo-cdn.cc/discoveryworld.png" group-title="Telugu",DISCOVERY WORLD HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63316
-#EXTINF:-1 tvg-ID="etvcinema.in" tvg-name="ETV CINEMA" tvg-logo="https://img.logo-cdn.cc/etvcinema.png" group-title="Telugu",ETV CINEMA
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63299
-#EXTINF:-1 tvg-ID="etv.in" tvg-name="ETV HD" tvg-logo="https://img.logo-cdn.cc/etvcinema.png" group-title="Telugu",ETV HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63530
-#EXTINF:-1 tvg-ID="geminitv.in" tvg-name="GEMINI HD" tvg-logo="https://img.logo-cdn.cc/gemini.png" group-title="Telugu",GEMINI HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63491
-#EXTINF:-1 tvg-ID="geminimovies.in" tvg-name="GEMINI MOVIES HD" tvg-logo="https://img.logo-cdn.cc/geminimovies.png" group-title="Telugu",GEMINI MOVIES HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63490
-#EXTINF:-1 tvg-ID="zeetelugu.in" tvg-name="GEMINI COMEDY" tvg-logo="https://img.logo-cdn.cc/geminicomedy.png" group-title="Telugu",GEMINI COMEDY
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63322
-#EXTINF:-1 tvg-ID="historytv18.in" tvg-name="HISTORY 18 TELUGU HD" tvg-logo="https://img.logo-cdn.cc/history.png" group-title="Telugu",HISTORY 18 TELUGU HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63529
-#EXTINF:-1 tvg-ID="maamovies.in" tvg-name="STAR MAA MOVIES HD" tvg-logo="https://img.logo-cdn.cc/starmaamovies.png" group-title="Telugu",STAR MAA MOVIES HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63489
-#EXTINF:-1 tvg-ID="ngc.in" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://img.logo-cdn.cc/nationalgeographic.png" group-title="Telugu",NATIONAL GEOGRAPHIC HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63528
-#EXTINF:-1 tvg-ID="rajnewstelugu.in" tvg-name="RAJ MUSIC TELUGU" tvg-logo="https://img.logo-cdn.cc/rajmusic.png" group-title="Telugu",RAJ MUSIC TELUGU
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63470
-#EXTINF:-1 tvg-ID="rajnewstelugu.in" tvg-name="RAJ NEWS TELUGU" tvg-logo="https://img.logo-cdn.cc/rajnewstelugu.png" group-title="Telugu",RAJ NEWS TELUGU
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63469
-#EXTINF:-1 tvg-ID="sonybbcearth.in" tvg-name="SONY BBC EARTH HD" tvg-logo="https://img.logo-cdn.cc/sonybbcearth.png" group-title="Telugu",SONY BBC EARTH HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63527
-#EXTINF:-1 tvg-ID="starmaa.in" tvg-name="STAR MAA GOLD HD" tvg-logo="https://img.logo-cdn.cc/starmaagold.png" group-title="Telugu",STAR MAA GOLD HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63414
-#EXTINF:-1 tvg-ID="starmaa.in" tvg-name="STAR MAA HD" tvg-logo="https://img.logo-cdn.cc/starmaagold.png" group-title="Telugu",STAR MAA HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63488
-#EXTINF:-1 tvg-ID="tataskyenglishintelugu.in" tvg-name="TATA SKY TELUGU CINEMA HD" tvg-logo="https://img.logo-cdn.cc/tataskytelugu.png" group-title="Telugu",TATA SKY TELUGU CINEMA HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63324
-#EXTINF:-1 tvg-ID="" tvg-name="V6 NEWS" tvg-logo="https://img.logo-cdn.cc/v6news.png" group-title="Telugu",V6 NEWS
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63264
-#EXTINF:-1 tvg-ID="vanithatv.in" tvg-name="ETV PLUS" tvg-logo="https://img.logo-cdn.cc/etvplus.png" group-title="Telugu",ETV PLUS
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63348
-#EXTINF:-1 tvg-ID="zeecinemalu.in" tvg-name="ZEE CINEMALU HD" tvg-logo="https://img.logo-cdn.cc/zeecinema.png" group-title="Telugu",ZEE CINEMALU HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63407
-#EXTINF:-1 tvg-ID="" tvg-name="ZEE TELUGU HD" tvg-logo="https://img.logo-cdn.cc/zeetelugu.png" group-title="Telugu",ZEE TELUGU HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/143532
-#EXTINF:-1 tvg-ID="" tvg-name="GEMINI MUSIC" tvg-logo="https://img.logo-cdn.cc/geminimusic.png" group-title="Telugu",GEMINI MUSIC
-http://m1-max.dns-speedy.com:80/35F56F/50945D/112741
-#EXTINF:-1 tvg-ID="" tvg-name="GEMINI LIFE" tvg-logo="https://img.logo-cdn.cc/geminilife.png" group-title="Telugu",GEMINI LIFE
-http://m1-max.dns-speedy.com:80/35F56F/50945D/112742
-#EXTINF:-1 tvg-ID="ddsaptagiri.in" tvg-name="ETV LIFE" tvg-logo="https://img.logo-cdn.cc/etvlife.png" group-title="Telugu",ETV LIFE
-http://m1-max.dns-speedy.com:80/35F56F/50945D/66114
-#EXTINF:-1 tvg-ID="" tvg-name="TV5 NEWS" tvg-logo="https://img.logo-cdn.cc/tv5news.png" group-title="Telugu",TV5 NEWS
-http://m1-max.dns-speedy.com:80/35F56F/50945D/112743
-#EXTINF:-1 tvg-ID="" tvg-name="SONY YAY" tvg-logo="https://img.logo-cdn.cc/sonyyay.png" group-title="Telugu",SONY YAY
-http://m1-max.dns-speedy.com:80/35F56F/50945D/112744
-#EXTINF:-1 tvg-ID="" tvg-name="10 TV" tvg-logo="https://img.logo-cdn.cc/10tv.png" group-title="Telugu",10 TV
-http://m1-max.dns-speedy.com:80/35F56F/50945D/112745
-#EXTINF:-1 tvg-ID="" tvg-name="DD SAPTAGIRI" tvg-logo="https://img.logo-cdn.cc/ddsaptagiri.png" group-title="Telugu",DD SAPTAGIRI
-http://m1-max.dns-speedy.com:80/35F56F/50945D/143536
-#EXTINF:-1 tvg-ID="" tvg-name="VANITHA TV" tvg-logo="https://img.logo-cdn.cc/vanitha.png" group-title="Telugu",VANITHA TV
-http://m1-max.dns-speedy.com:80/35F56F/50945D/143535
-#EXTINF:-1 tvg-ID="" tvg-name="VISSA TV" tvg-logo="https://img.logo-cdn.cc/vissa.png" group-title="Telugu",VISSA TV
-http://m1-max.dns-speedy.com:80/35F56F/50945D/143534
-#EXTINF:-1 tvg-ID="" tvg-name="KUSHI TV" tvg-logo="https://img.logo-cdn.cc/kushitv.png" group-title="Telugu",KUSHI TV
-http://m1-max.dns-speedy.com:80/35F56F/50945D/143533
-#EXTINF:-1 tvg-ID="" tvg-name="NTV NEWS HD" tvg-logo="" group-title="Telugu",NTV NEWS HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441525
-#EXTINF:-1 tvg-ID="" tvg-name="TEN 4 TELUGU" tvg-logo="" group-title="Telugu",TEN 4 TELUGU
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441526
-#EXTINF:-1 tvg-ID="" tvg-name="MAA MUSIC HD" tvg-logo="" group-title="Telugu",MAA MUSIC HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441527
-#EXTINF:-1 tvg-ID="" tvg-name="T NEWS " tvg-logo="" group-title="Telugu",T NEWS 
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441528
-#EXTINF:-1 tvg-ID="" tvg-name="SUBHAVAARTHA TV" tvg-logo="" group-title="Telugu",SUBHAVAARTHA TV
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441529
-#EXTINF:-1 tvg-ID="" tvg-name="NIREEKSHANA TV" tvg-logo="" group-title="Telugu",NIREEKSHANA TV
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441530
-#EXTINF:-1 tvg-ID="" tvg-name="MERCY TV" tvg-logo="" group-title="Telugu",MERCY TV
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441531
-#EXTINF:-1 tvg-ID="" tvg-name="I NEWS" tvg-logo="" group-title="Telugu",I NEWS
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441532
-#EXTINF:-1 tvg-ID="" tvg-name="HMTV NEWS" tvg-logo="" group-title="Telugu",HMTV NEWS
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441533
-#EXTINF:-1 tvg-ID="" tvg-name="HINDU DHARMAM" tvg-logo="" group-title="Telugu",HINDU DHARMAM
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441534
-#EXTINF:-1 tvg-ID="" tvg-name="CVR OM" tvg-logo="" group-title="Telugu",CVR OM
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441535
-#EXTINF:-1 tvg-ID="" tvg-name="CVR HEALTH" tvg-logo="" group-title="Telugu",CVR HEALTH
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441536
-#EXTINF:-1 tvg-ID="" tvg-name="CALVARY TV" tvg-logo="" group-title="Telugu",CALVARY TV
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441537
-#EXTINF:-1 tvg-ID="" tvg-name="ARADANA TV" tvg-logo="" group-title="Telugu",ARADANA TV
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441538
-#EXTINF:-1 tvg-ID="" tvg-name="AP_24X7" tvg-logo="" group-title="Telugu",AP_24X7
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441539
-#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="Telugu",NATIONAL GEOGRAPHIC FHD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441540
-#EXTINF:-1 tvg-ID="" tvg-name="TV9 TELUGU NEWS" tvg-logo="" group-title="Telugu",TV9 TELUGU NEWS
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441541
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY KIDS" tvg-logo="" group-title="Telugu",DISCOVERY KIDS
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441571
-
-
-#EXTINF:-1 tvg-ID="starsports1.in" tvg-name="STAR SPORTS 1 HD ENGLISH" tvg-logo="https://img.logo-cdn.cc/starsports1.png" group-title="Sports",STAR SPORTS 1 HD ENGLISH
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63541
-#EXTINF:-1 tvg-ID="starsports2.in" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://img.logo-cdn.cc/starsports2.png" group-title="Sports",STAR SPORTS 2 HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63540
-#EXTINF:-1 tvg-ID="starsports1hindi.in" tvg-name="STAR SPORTS 3" tvg-logo="https://img.logo-cdn.cc/starsports3.png" group-title="Sports",STAR SPORTS 3
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63314
-#EXTINF:-1 tvg-ID="starsportsselect1.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://img.logo-cdn.cc/starsports1.png" group-title="Sports",STAR SPORTS SELECT 1 HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63539
-#EXTINF:-1 tvg-ID="starsportsselect2.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://img.logo-cdn.cc/starsports2.png" group-title="Sports",STAR SPORTS SELECT 2 HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63498
-#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS 1 TELUGU FHD" tvg-logo="" group-title="Sports",STAR SPORTS 1 TELUGU FHD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/1441567
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS 18" tvg-logo="https://img.logo-cdn.cc/sport18.png" group-title="Sports",SPORTS 18
-http://m1-max.dns-speedy.com:80/35F56F/50945D/724568
-#EXTINF:-1 tvg-ID="" tvg-name="SPORTS 18 ENGLISH" tvg-logo="https://img.logo-cdn.cc/sport18.png" group-title="Sports",SPORTS 18 ENGLISH
-http://m1-max.dns-speedy.com:80/35F56F/50945D/771623
-#EXTINF:-1 tvg-ID="" tvg-name="T-SPORTS 2" tvg-logo="https://img.logo-cdn.cc/tsports2.png" group-title="Sports",T-SPORTS 2
-http://m1-max.dns-speedy.com:80/35F56F/50945D/756463
-#EXTINF:-1 tvg-ID="dsport.in" tvg-name="EUROSPORT HD" tvg-logo="https://img.logo-cdn.cc/dsports.png" group-title="Sports",EUROSPORT HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63332
-#EXTINF:-1 tvg-ID="sonysix.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://img.logo-cdn.cc/sonysix.png" group-title="Sports",SONY TEN 5 HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63499
-#EXTINF:-1 tvg-ID="sonyten1.in" tvg-name="TEN 1 HD" tvg-logo="https://img.logo-cdn.cc/ten1.png" group-title="Sports",TEN 1 HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63537
-#EXTINF:-1 tvg-ID="sonyten2.in" tvg-name="TEN 2 HD" tvg-logo="https://img.logo-cdn.cc/ten2.png" group-title="Sports",TEN 2 HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63536
-#EXTINF:-1 tvg-ID="sonyten3.in" tvg-name="TEN 3 HD" tvg-logo="https://img.logo-cdn.cc/ten3.png" group-title="Sports",TEN 3 HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63535
-#EXTINF:-1 tvg-ID="" tvg-name="WILLOW CRICKET HD" tvg-logo="https://img.logo-cdn.cc/willowcricket.png" group-title="Sports",WILLOW CRICKET HD
-http://m1-max.dns-speedy.com:80/35F56F/50945D/63439
-#EXTINF:-1 tvg-ID="" tvg-name="DD SPORTS" tvg-logo="https://img.logo-cdn.cc/ddsports.png" group-title="Sports",DD SPORTS
-http://m1-max.dns-speedy.com:80/35F56F/50945D/112863
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png",IND: ZEE TELUGU FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10063
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ZEE CINEMALU FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10069
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ZEE TELUGU
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10095
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ETV TELUGU FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10126
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ETV PLUS FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10127
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ETV CINEMA FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10128
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ETV ANDHRA PRADESH FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10129
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ETV TELANGANA FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10130
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ETV ABHIRUCHI FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10131
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ETV LIFE FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10132
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: DISCOVERY FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10133
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: DISCOVERY SCIENCE
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10134
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: TLC FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10135
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: DISCOVERY TURBO
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10136
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ANIMAL PLANET FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10137
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI LIFE
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10164
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: KUSHI TV
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10163
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI TV
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10162
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI MOVIES
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10161
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI MUSIC
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10160
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI COMEDY
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10165
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI MUSIC FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10166
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI TV FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10167
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI MOVIES FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10178
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR SPORTS 1 FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10269
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR SPORTS 2 FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10270
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR SPORTS 3 FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10271
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR SPORTS SELECT 1 FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10272
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR SPORTS SELECT 2 FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10273
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND:  STAR SUVARNA FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10274
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR PLUS FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10275
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR PRAVAH FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10276
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR BHARAT FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10277
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR GOLD FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10278
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR GOLD SELECT FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10279
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR GOLD 2
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10280
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR GOLD THRILLS
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10281
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR GOLD ROMANCE
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10282
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR MOVIES FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10283
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR MAA FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10298
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR MAA MOVIES FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10299
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: SONY PIX FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10300
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10301
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: JAYA TV FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10303
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR VIJAY SUPER FHD
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/10304
