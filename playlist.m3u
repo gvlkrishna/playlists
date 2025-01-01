@@ -9,95 +9,95 @@ https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/play
 #EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="SVBC",SVBC Telugu (1080p)
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto,dpr_1.25/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png",IND: ZEE TELUGU FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: ZEE TELUGU FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10063
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ZEE CINEMALU FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: ZEE CINEMALU FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10069
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ZEE TELUGU
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: ZEE TELUGU
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10095
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ETV TELUGU FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: ETV TELUGU FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10126
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ETV PLUS FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: ETV PLUS FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10127
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ETV CINEMA FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: ETV CINEMA FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10128
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ETV ANDHRA PRADESH FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: ETV ANDHRA PRADESH FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10129
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ETV TELANGANA FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: ETV TELANGANA FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10130
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ETV ABHIRUCHI FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: ETV ABHIRUCHI FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10131
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ETV LIFE FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: ETV LIFE FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10132
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: DISCOVERY FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: DISCOVERY FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10133
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: DISCOVERY SCIENCE
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10134
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: TLC FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: TLC FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10135
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: DISCOVERY TURBO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: DISCOVERY TURBO
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10136
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: ANIMAL PLANET FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: ANIMAL PLANET FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10137
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI LIFE
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: GEMINI LIFE
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10164
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: KUSHI TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: KUSHI TV
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10163
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: GEMINI TV
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10162
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: GEMINI MOVIES
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10161
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: GEMINI MUSIC
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10160
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: GEMINI COMEDY
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10165
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI MUSIC FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: GEMINI MUSIC FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10166
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: GEMINI TV FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10167
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI MOVIES FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: GEMINI MOVIES FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10178
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR SPORTS 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: STAR SPORTS 1 FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10269
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR SPORTS 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: STAR SPORTS 2 FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10270
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR SPORTS 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: STAR SPORTS 3 FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10271
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR SPORTS SELECT 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: STAR SPORTS SELECT 1 FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10272
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR SPORTS SELECT 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: STAR SPORTS SELECT 2 FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10273
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND:  STAR SUVARNA FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND:  STAR SUVARNA FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10274
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR PLUS FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: STAR PLUS FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10275
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR PRAVAH FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: STAR PRAVAH FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10276
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR BHARAT FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: STAR BHARAT FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10277
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR GOLD FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: STAR GOLD FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10278
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR GOLD SELECT FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: STAR GOLD SELECT FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10279
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR GOLD 2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: STAR GOLD 2
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10280
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR GOLD THRILLS
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: STAR GOLD THRILLS
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10281
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR GOLD ROMANCE
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: STAR GOLD ROMANCE
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10282
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR MOVIES FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: STAR MOVIES FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10283
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR MAA FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: STAR MAA FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10298
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR MAA MOVIES FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: STAR MAA MOVIES FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10299
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: SONY PIX FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: SONY PIX FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10300
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: GEMINI FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: GEMINI FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10301
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: JAYA TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: JAYA TV FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10303
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="New_oct_24_2024" tvg-logo="",IND: STAR VIJAY SUPER FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="oct_24_2024" tvg-logo="",IND: STAR VIJAY SUPER FHD
 http://www.localpacks.shop:80/myown/wbQQTCSCp5/10304
 
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="Telugu: ETV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="DEC_26_2024_TELUGU",Telugu: ETV (4K).
@@ -387,6 +387,182 @@ https://starshare.org:443/live/Woods1234/Woods1234/9388.ts
 https://starshare.org:443/live/Woods1234/Woods1234/9389.ts
 #EXTINF:-1 tvg-id="colorsinfinityhd.in" tvg-name="IN: Colors INFINITY (FHD)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-colors-infinity-hd-logo-300x300.jpg" group-title="DEC_26_2024_INDIA_ENGLISH_MOVIES",IN: Colors INFINITY (FHD)
 https://starshare.org:443/live/Woods1234/Woods1234/9390.ts
-#EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="IN: STAR LIFE (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA DOCUMENTARY",IN: STAR LIFE (4K).
+#EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="IN: STAR LIFE (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="DEC_26_2024_INDIA_ENGLISH_MOVIES",IN: STAR LIFE (4K).
 https://starshare.org:443/live/Woods1234/Woods1234/98876.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: STAR MAA TV HD
+https://starshare.live:443/live/KVSingh/KVSingh/168.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: TV 5 NEWS
+https://starshare.live:443/live/KVSingh/KVSingh/170.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: GEMINI_MOVIES_HD
+https://starshare.live:443/live/KVSingh/KVSingh/212.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: GEMINI_MUSIC_HD
+https://starshare.live:443/live/KVSingh/KVSingh/213.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: GEMINI_TV_HD
+https://starshare.live:443/live/KVSingh/KVSingh/214.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: SONY_BBC_EARTH_HD_TELUGU
+https://starshare.live:443/live/KVSingh/KVSingh/223.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU:  V6_NEWS
+https://starshare.live:443/live/KVSingh/KVSingh/228.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU:  SRI_VENKATESHWAR_BHAKTI
+https://starshare.live:443/live/KVSingh/KVSingh/233.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU:  ABN_ANDHRA_JYOTHI
+https://starshare.live:443/live/KVSingh/KVSingh/234.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: NTV TELUGU
+https://starshare.live:443/live/KVSingh/KVSingh/235.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: ETV PLUS
+https://starshare.live:443/live/KVSingh/KVSingh/242.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: VISSA TV
+https://starshare.live:443/live/KVSingh/KVSingh/244.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: ZEE TELUGU HD
+https://starshare.live:443/live/KVSingh/KVSingh/1605.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: STAR MAA MOVIES HD
+https://starshare.live:443/live/KVSingh/KVSingh/9015.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: ZEE CINEMALU HD
+https://starshare.live:443/live/KVSingh/KVSingh/9016.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: ETV HD
+https://starshare.live:443/live/KVSingh/KVSingh/9017.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: GEMINI COMEDY HD
+https://starshare.live:443/live/KVSingh/KVSingh/9042.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: STAR MAA GOLD
+https://starshare.live:443/live/KVSingh/KVSingh/9043.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: GEMINI LIFE HD
+https://starshare.live:443/live/KVSingh/KVSingh/9044.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: ETV CINEMA (4K)
+https://starshare.live:443/live/KVSingh/KVSingh/9045.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: ETV ANDHRAPRADESH
+https://starshare.live:443/live/KVSingh/KVSingh/9046.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: TV9 NEWS HD
+https://starshare.live:443/live/KVSingh/KVSingh/9047.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: SAKSHI TV (NEWS)
+https://starshare.live:443/live/KVSingh/KVSingh/9048.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: T NEWS HD
+https://starshare.live:443/live/KVSingh/KVSingh/9049.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: ETV TELANGANA
+https://starshare.live:443/live/KVSingh/KVSingh/9050.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: ETV LIFE
+https://starshare.live:443/live/KVSingh/KVSingh/9052.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: ETV ABHIRUCHI
+https://starshare.live:443/live/KVSingh/KVSingh/9053.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: SVBC HD
+https://starshare.live:443/live/KVSingh/KVSingh/9054.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: ETV (FHD)
+https://starshare.live:443/live/KVSingh/KVSingh/23312.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: STAR-MAA (FHD)
+https://starshare.live:443/live/KVSingh/KVSingh/23313.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: STAR-MAA-MOVIE (FHD)
+https://starshare.live:443/live/KVSingh/KVSingh/23314.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: GEMINI (FHD)
+https://starshare.live:443/live/KVSingh/KVSingh/23315.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: ZEE-TELUGU (FHD)
+https://starshare.live:443/live/KVSingh/KVSingh/23316.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: ZEE-CINEMALU (FHD)
+https://starshare.live:443/live/KVSingh/KVSingh/23317.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: BHAKTI TV
+https://starshare.live:443/live/KVSingh/KVSingh/34581.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU:  RAJ NEWS
+https://starshare.live:443/live/KVSingh/KVSingh/52504.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: STAR MAA MUSIC
+https://starshare.live:443/live/KVSingh/KVSingh/57772.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: GEMINI MOVIE (4K)
+https://starshare.live:443/live/KVSingh/KVSingh/23797.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: GEMINI MUSIC (4K)
+https://starshare.live:443/live/KVSingh/KVSingh/23796.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: ETV (4K).
+https://starshare.live:443/live/KVSingh/KVSingh/98885.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: STAR-MAA (4K).
+https://starshare.live:443/live/KVSingh/KVSingh/98886.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: STAR-MAA-MOVIE (4K).
+https://starshare.live:443/live/KVSingh/KVSingh/98887.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: GEMINI (4K).
+https://starshare.live:443/live/KVSingh/KVSingh/98892.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: ZEE-TELUGU (4K).
+https://starshare.live:443/live/KVSingh/KVSingh/98894.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: ZEE-CINEMALU (4K).
+https://starshare.live:443/live/KVSingh/KVSingh/98896.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: KUSHI TV SD
+https://starshare.live:443/live/KVSingh/KVSingh/355504.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_telugu" tvg-logo="",TELUGU: ARADANA SD
+https://starshare.live:443/live/KVSingh/KVSingh/355093.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: SUPER SPORTS CRICKET (4K)
+https://starshare.live:443/live/KVSingh/KVSingh/158442.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: SUPER SPORTS (CRICKET)
+https://starshare.live:443/live/KVSingh/KVSingh/2496.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: SKY SPORTS CRICKET (4K)
+https://starshare.live:443/live/KVSingh/KVSingh/124269.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: SKY SPORTS CRICKET (4K).
+https://starshare.live:443/live/KVSingh/KVSingh/114479.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: SKY SPORTS CRICKET (4K)
+https://starshare.live:443/live/KVSingh/KVSingh/23566.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: SKY SPORTS CRICKET
+https://starshare.live:443/live/KVSingh/KVSingh/12.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: TNT SPORTS 3 FHD
+https://starshare.live:443/live/KVSingh/KVSingh/148090.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: PTV SPORTS
+https://starshare.live:443/live/KVSingh/KVSingh/89.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: PTV SPORTS (4K)
+https://starshare.live:443/live/KVSingh/KVSingh/61674.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: A SPORTS ARY
+https://starshare.live:443/live/KVSingh/KVSingh/43444.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: A SPORTS ARY (4K)
+https://starshare.live:443/live/KVSingh/KVSingh/43447.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: TEN SPORTS
+https://starshare.live:443/live/KVSingh/KVSingh/98.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: TEN CRICKET (FHD)
+https://starshare.live:443/live/KVSingh/KVSingh/196594.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: TEN CRICKET
+https://starshare.live:443/live/KVSingh/KVSingh/9886.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: STAR SPORT 1 HD
+https://starshare.live:443/live/KVSingh/KVSingh/148.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: STAR SPORT-1  (FHD)
+https://starshare.live:443/live/KVSingh/KVSingh/9397.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: STAR SPORTS 1 (4K)
+https://starshare.live:443/live/KVSingh/KVSingh/124281.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: STAR SPORTS 2 HD
+https://starshare.live:443/live/KVSingh/KVSingh/239.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: STAR SPORT-2  (FHD)
+https://starshare.live:443/live/KVSingh/KVSingh/9398.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: STAR SPORTS 2 (4K)
+https://starshare.live:443/live/KVSingh/KVSingh/124284.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: STAR SPORTS HINDI HD
+https://starshare.live:443/live/KVSingh/KVSingh/211.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: STAR SPORT 1 HINDI (FHD)
+https://starshare.live:443/live/KVSingh/KVSingh/9399.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: STAR SPORTS 1 HINDI (4K)
+https://starshare.live:443/live/KVSingh/KVSingh/124287.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: STAR SPORTS SELECT 1 HD
+https://starshare.live:443/live/KVSingh/KVSingh/238.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: STAR SPORTS SELECT 2 HD
+https://starshare.live:443/live/KVSingh/KVSingh/148801.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: STAR SPORTS TAMIL 1 HD
+https://starshare.live:443/live/KVSingh/KVSingh/9722.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: STAR SPORTS TELUGU 1 (4K)
+https://starshare.live:443/live/KVSingh/KVSingh/177843.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: STAR SPORTS 3
+https://starshare.live:443/live/KVSingh/KVSingh/1080.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: T SPORTS FHD
+https://starshare.live:443/live/KVSingh/KVSingh/18452.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: T SPORTS.
+https://starshare.live:443/live/KVSingh/KVSingh/130714.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: RTA SPORTS
+https://starshare.live:443/live/KVSingh/KVSingh/1039.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: SONY TEN 1 HD
+https://starshare.live:443/live/KVSingh/KVSingh/154.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: SONY TEN 2 HD.
+https://starshare.live:443/live/KVSingh/KVSingh/31314.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: SONY TEN 2 HD
+https://starshare.live:443/live/KVSingh/KVSingh/192.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: SONY TEN 3 HD
+https://starshare.live:443/live/KVSingh/KVSingh/146.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: SONY TEN 4 (4K)
+https://starshare.live:443/live/KVSingh/KVSingh/29469.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: SONY 5 HD
+https://starshare.live:443/live/KVSingh/KVSingh/176.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: SONY ESPN HD
+https://starshare.live:443/live/KVSingh/KVSingh/155.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: FLOW SPORTS
+https://starshare.live:443/live/KVSingh/KVSingh/34489.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_1_2025_Sports" tvg-logo="",CRI: SPORTS 18 KHEL
+https://starshare.live:443/live/KVSingh/KVSingh/151091.ts
