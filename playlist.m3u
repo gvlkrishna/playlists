@@ -203,8 +203,6 @@ https://starshare.org:443/live/Woods1234/Woods1234/130714.ts
 https://starshare.org:443/live/Woods1234/Woods1234/1039.ts
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRI: SONY TEN 1 HD" tvg-logo="https://i.ibb.co/6HtV5jJ/Sony-Sports-Ten-1.png" group-title="OLD_DEC_26_2024",CRI: SONY TEN 1 HD
 https://starshare.org:443/live/Woods1234/Woods1234/154.ts
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRI: SONY Ten 2 HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="Football (Soccer)",CRI: SONY Ten 2 HD
-https://starshare.org:443/live/Woods1234/Woods1234/192.ts
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRI: SONY Ten 2 HD." tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="OLD_DEC_26_2024",CRI: SONY Ten 2 HD.
 https://starshare.org:443/live/Woods1234/Woods1234/31314.ts
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="CRI: SONY TEN 3 HD" tvg-logo="https://i.ibb.co/t4yVGKQ/Sony-Sports-Ten-3.png" group-title="OLD_DEC_26_2024",CRI: SONY TEN 3 HD
@@ -476,11 +474,6 @@ https://starshare.live:443/live/KVSingh/KVSingh/34489.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="OLD_Jan_1_2025" tvg-logo="",CRI: SPORTS 18 KHEL
 https://starshare.live:443/live/KVSingh/KVSingh/151091.ts
 
-#EXTINF:-1 tvg-id="Star Sports 1 Telugu HD.in" tvg-name="IN | D2H STAR SPORTS 1 FHD TELUGU" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCzj90fd1T_RaDgyFPeg9ZdCxsAPQjZ51ga6XoSFBqSgG.jpg" group-title="jan_7_2025_Telugu",IN | D2H STAR SPORTS 1 FHD TELUGU
-https://rolextv.asia:443/441122/441122/109103
-#EXTINF:-1 tvg-id="Star Sports 1 Telugu HD.in" tvg-name="IN | TS STAR SPORTS 1 FHD TELUGU" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCzj90fd1T_RaDgyFPeg9ZdCxsAPQjZ51ga6XoSFBqSgG.jpg" group-title="jan_7_2025_Telugu",IN | TS STAR SPORTS 1 FHD TELUGU
-https://rolextv.asia:443/441122/441122/109104
-
 #EXTINF:-1 tvg-id="" tvg-name="IN-TG | ETV PLUS HD" tvg-logo="https://rolextv.asia:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTrzR_sySK54-mzJrrP8BfNmBC-YUnEDuArw2YDPvKnSg.png" group-title="jan_7_2025_Telugu",IN-TG | ETV PLUS HD
 https://rolextv.asia:443/441122/441122/112096
 #EXTINF:-1 tvg-id="" tvg-name="IN-TG | ETV HD" tvg-logo="https://rolextv.asia:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTO-t3SOFyxvE4mHD8n5Y5YWZgyML5N9oxov2u5k-X-bA.png" group-title="jan_7_2025_Telugu",IN-TG | ETV HD
@@ -553,3 +546,177 @@ https://rolextv.asia:443/441122/441122/59947
 https://rolextv.asia:443/441122/441122/59948
 #EXTINF:-1 tvg-id="" tvg-name="IN-TG | D2H NICK" tvg-logo="https://rolextv.asia:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGwYMgyeHObSz8EwgJnqrRXQ.png" group-title="jan_7_2025_Telugu",IN-TG | D2H NICK
 https://rolextv.asia:443/441122/441122/59949
+
+#EXTINF:-1 tvg-id="Colors Cineplex HD.in" tvg-name="IN | TS COLORS CINEPLEX FHD" tvg-logo="" group-title="jan_7_2025_Movies",IN | TS COLORS CINEPLEX FHD
+https://rolextv.asia:443/441122/441122/111406
+#EXTINF:-1 tvg-id="andXplor HD.in" tvg-name="IN | TS &XPLOR FHD" tvg-logo="" group-title="jan_7_2025_Movies",IN | TS &XPLOR FHD
+https://rolextv.asia:443/441122/441122/111809
+#EXTINF:-1 tvg-id="Colors Cineplex HD.in" tvg-name="Colors Cineplex SD" tvg-logo="" group-title="jan_7_2025_Movies",Colors Cineplex SD
+https://rolextv.asia:443/441122/441122/128034
+#EXTINF:-1 tvg-id="Colors Cineplex Superhits.in" tvg-name="Colors Cineplex HD" tvg-logo="" group-title="jan_7_2025_Movies",Colors Cineplex HD
+https://rolextv.asia:443/441122/441122/143548
+#EXTINF:-1 tvg-id="Movie Plus.in" tvg-name="FD | MOVIE PLUS" tvg-logo="" group-title="jan_7_2025_Movies",FD | MOVIE PLUS
+https://rolextv.asia:443/441122/441122/33771
+#EXTINF:-1 tvg-id="Filamchi Bhojpuri.in" tvg-name="FD | FILMACHI BHOJPURI" tvg-logo="https://rolextv.asia:443/images/905d56baa16cc361740677fcca6980df.png" group-title="jan_7_2025_Movies",FD | FILMACHI BHOJPURI
+https://rolextv.asia:443/441122/441122/33769
+#EXTINF:-1 tvg-id="Bhojpuri Cinema.in" tvg-name="FD | BHOJPURI CINEMA" tvg-logo="https://rolextv.asia:443/images/6f65cb192c047f861694e9e99cf79ce8.png" group-title="jan_7_2025_Movies",FD | BHOJPURI CINEMA
+https://rolextv.asia:443/441122/441122/33767
+#EXTINF:-1 tvg-id="B4U Bhojpuri.in" tvg-name="TS | B4U BHOJPURI" tvg-logo="https://rolextv.asia:443/images/10134e499a386073fad2481d7370a6ad.png" group-title="jan_7_2025_Movies",TS | B4U BHOJPURI
+https://rolextv.asia:443/441122/441122/33766
+#EXTINF:-1 tvg-id="Shemaroo TV.in" tvg-name="SHEMAROO TV" tvg-logo="https://rolextv.asia:443/images/741f7ddf18ab61518753af0e26e6f2c5.png" group-title="jan_7_2025_Movies",SHEMAROO TV
+https://rolextv.asia:443/441122/441122/33757
+#EXTINF:-1 tvg-id="Colors Cineplex Superhits.in" tvg-name="COLORS CINEPLEX SUPERHITS HD" tvg-logo="https://rolextv.asia:443/images/29553782b8458ab1e8ba183993d042b8.jpg" group-title="jan_7_2025_Movies",COLORS CINEPLEX SUPERHITS HD
+https://rolextv.asia:443/441122/441122/33748
+#EXTINF:-1 tvg-id="Zee Classic.in" tvg-name="IN | TS ZEE CLASSIC HD" tvg-logo="https://rolextv.asia:443/images/1ee6374bc545fe03a8ea40a83f00e833.png" group-title="jan_7_2025_Movies",IN | TS ZEE CLASSIC HD
+https://rolextv.asia:443/441122/441122/33747
+#EXTINF:-1 tvg-id="Manoranjan Movies.in" tvg-name="FD | MANORANJAN MOVIES HD" tvg-logo="https://rolextv.asia:443/images/78ae644dbbc33eefae51bd54ee27cb24.png" group-title="jan_7_2025_Movies",FD | MANORANJAN MOVIES HD
+https://rolextv.asia:443/441122/441122/27181
+#EXTINF:-1 tvg-id="" tvg-name="FD | CINEPLEX BOLLYWOOD HD" tvg-logo="https://rolextv.asia:443/images/f7b14af2d254ed5b6f3ca2fddc8ad60f.png" group-title="jan_7_2025_Movies",FD | CINEPLEX BOLLYWOOD HD
+https://rolextv.asia:443/441122/441122/27180
+#EXTINF:-1 tvg-id="B4U Kadak.in" tvg-name="FD | B4U KADAK HD" tvg-logo="https://rolextv.asia:443/images/392583a9c239fa35a0df46f70765dd45.png" group-title="jan_7_2025_Movies",FD | B4U KADAK HD
+https://rolextv.asia:443/441122/441122/27179
+#EXTINF:-1 tvg-id="STAR Utsav Movies.in" tvg-name="STAR UTSAV MOVIES FHD" tvg-logo="https://rolextv.asia:443/images/3fd26b15e4d13e0e4360b805d9e069ba.png" group-title="jan_7_2025_Movies",STAR UTSAV MOVIES FHD
+https://rolextv.asia:443/441122/441122/27178
+#EXTINF:-1 tvg-id="Zee Anmol Cinema.in" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://rolextv.asia:443/images/3707e112d9c3ead81cea72c06ac8d795.png" group-title="jan_7_2025_Movies",ZEE ANMOL CINEMA
+https://rolextv.asia:443/441122/441122/27177
+#EXTINF:-1 tvg-id="Zee Action.in" tvg-name="ZEE ACTION FHD" tvg-logo="https://rolextv.asia:443/images/f9d77e16ef6b5c92c9e44aa46e8024b6.png" group-title="jan_7_2025_Movies",ZEE ACTION FHD
+https://rolextv.asia:443/441122/441122/27176
+#EXTINF:-1 tvg-id="Sony Wah.in" tvg-name="SONY WAH FHD" tvg-logo="https://rolextv.asia:443/images/81bc55756bde13d987a8e2a4c76ea3a7.png" group-title="jan_7_2025_Movies",SONY WAH FHD
+https://rolextv.asia:443/441122/441122/27175
+#EXTINF:-1 tvg-id="Star Gold Thrills.in" tvg-name="STAR GOLD THRILLS FHD" tvg-logo="https://rolextv.asia:443/images/02a222cca20c31a5b73ca0d82f41cfed.png" group-title="jan_7_2025_Movies",STAR GOLD THRILLS FHD
+https://rolextv.asia:443/441122/441122/27174
+#EXTINF:-1 tvg-id="Star Gold Romance.in" tvg-name="STAR GOLD ROMANCE FHD" tvg-logo="https://rolextv.asia:443/images/db5d9ffe052436e14ef9c5f76dc50235.jpg" group-title="jan_7_2025_Movies",STAR GOLD ROMANCE FHD
+https://rolextv.asia:443/441122/441122/27173
+#EXTINF:-1 tvg-id="MN+ HD.in" tvg-name="MN+ SD" tvg-logo="https://rolextv.asia:443/images/5b9717378988bc595cff3d812c8f2782.png" group-title="jan_7_2025_Movies",MN+ SD
+https://rolextv.asia:443/441122/441122/27172
+#EXTINF:-1 tvg-id="MN+ HD.in" tvg-name="IN | TS MN+ FHD" tvg-logo="https://rolextv.asia:443/images/5b9717378988bc595cff3d812c8f2782.png" group-title="jan_7_2025_Movies",IN | TS MN+ FHD
+https://rolextv.asia:443/441122/441122/27171
+#EXTINF:-1 tvg-id="MN+ HD.in" tvg-name="IN | D2H MN+ 4K" tvg-logo="https://rolextv.asia:443/images/5b9717378988bc595cff3d812c8f2782.png" group-title="jan_7_2025_Movies",IN | D2H MN+ 4K
+https://rolextv.asia:443/441122/441122/27170
+#EXTINF:-1 tvg-id="andPrive HD.in" tvg-name="&PRIVE SD" tvg-logo="https://rolextv.asia:443/images/599211d8c7031fa9617a87e98c83beb3.png" group-title="jan_7_2025_Movies",&PRIVE SD
+https://rolextv.asia:443/441122/441122/27169
+#EXTINF:-1 tvg-id="andPrive HD.in" tvg-name="IN | TS &PRIVE FHD" tvg-logo="https://rolextv.asia:443/images/599211d8c7031fa9617a87e98c83beb3.png" group-title="jan_7_2025_Movies",IN | TS &PRIVE FHD
+https://rolextv.asia:443/441122/441122/27168
+#EXTINF:-1 tvg-id="andPrive HD.in" tvg-name="IN | D2H &PRIVE 4K" tvg-logo="https://rolextv.asia:443/images/599211d8c7031fa9617a87e98c83beb3.png" group-title="jan_7_2025_Movies",IN | D2H &PRIVE 4K
+https://rolextv.asia:443/441122/441122/27167
+#EXTINF:-1 tvg-id="andFlix HD.in" tvg-name="&FLIX (HINDI)" tvg-logo="https://rolextv.asia:443/images/a435a9b718d65e20476b52c278c986d4.png" group-title="jan_7_2025_Movies",&FLIX (HINDI)
+https://rolextv.asia:443/441122/441122/27166
+#EXTINF:-1 tvg-id="andFlix HD.in" tvg-name="IN | TS &FLIX FHD" tvg-logo="https://rolextv.asia:443/images/a435a9b718d65e20476b52c278c986d4.png" group-title="jan_7_2025_Movies",IN | TS &FLIX FHD
+https://rolextv.asia:443/441122/441122/27165
+#EXTINF:-1 tvg-id="andFlix HD.in" tvg-name="IN | D2H &FLIX 4K" tvg-logo="https://rolextv.asia:443/images/a435a9b718d65e20476b52c278c986d4.png" group-title="jan_7_2025_Movies",IN | D2H &FLIX 4K
+https://rolextv.asia:443/441122/441122/27164
+#EXTINF:-1 tvg-id="SONY PIX HD.in" tvg-name="SONY PIX (HINDI) 4K" tvg-logo="https://rolextv.asia:443/images/3ac04d30cf578d1a095cc45114731dfe.png" group-title="jan_7_2025_Movies",SONY PIX (HINDI) 4K
+https://rolextv.asia:443/441122/441122/27163
+#EXTINF:-1 tvg-id="SONY PIX HD.in" tvg-name="SONY PIX SD" tvg-logo="https://rolextv.asia:443/images/3ac04d30cf578d1a095cc45114731dfe.png" group-title="jan_7_2025_Movies",SONY PIX SD
+https://rolextv.asia:443/441122/441122/27162
+#EXTINF:-1 tvg-id="SONY PIX HD.in" tvg-name="IN | TS SONY PIX FHD" tvg-logo="https://rolextv.asia:443/images/3ac04d30cf578d1a095cc45114731dfe.png" group-title="jan_7_2025_Movies",IN | TS SONY PIX FHD
+https://rolextv.asia:443/441122/441122/27161
+#EXTINF:-1 tvg-id="SONY PIX HD.in" tvg-name="IN | D2H SONY PIX 4K" tvg-logo="https://rolextv.asia:443/images/3ac04d30cf578d1a095cc45114731dfe.png" group-title="jan_7_2025_Movies",IN | D2H SONY PIX 4K
+https://rolextv.asia:443/441122/441122/27160
+#EXTINF:-1 tvg-id="STAR Movies Select HD.in" tvg-name="STAR MOVIE SELECT SD" tvg-logo="https://rolextv.asia:443/images/0145153ac86cfa7d8831a67f75baed5f.png" group-title="jan_7_2025_Movies",STAR MOVIE SELECT SD
+https://rolextv.asia:443/441122/441122/27159
+#EXTINF:-1 tvg-id="STAR Movies Select HD.in" tvg-name="IN | TS STAR MOVIES SELECT FHD" tvg-logo="https://rolextv.asia:443/images/0145153ac86cfa7d8831a67f75baed5f.png" group-title="jan_7_2025_Movies",IN | TS STAR MOVIES SELECT FHD
+https://rolextv.asia:443/441122/441122/27158
+#EXTINF:-1 tvg-id="STAR Movies Select HD.in" tvg-name="IN D2H STAR MOVIES SELECT 4K" tvg-logo="https://rolextv.asia:443/images/0145153ac86cfa7d8831a67f75baed5f.png" group-title="jan_7_2025_Movies",IN D2H STAR MOVIES SELECT 4K
+https://rolextv.asia:443/441122/441122/27157
+#EXTINF:-1 tvg-id="Star Movies HD.in" tvg-name="STAR MOVIES SD" tvg-logo="https://rolextv.asia:443/images/66ebec91865c026b5f78e3128a313dea.png" group-title="jan_7_2025_Movies",STAR MOVIES SD
+https://rolextv.asia:443/441122/441122/27156
+#EXTINF:-1 tvg-id="STAR Movies HD.in" tvg-name="IN | TS STAR MOVIES FHD" tvg-logo="https://rolextv.asia:443/images/66ebec91865c026b5f78e3128a313dea.png" group-title="jan_7_2025_Movies",IN | TS STAR MOVIES FHD
+https://rolextv.asia:443/441122/441122/27155
+#EXTINF:-1 tvg-id="STAR Movies HD.in" tvg-name="IN | D2H STAR MOVIES 4K" tvg-logo="https://rolextv.asia:443/images/66ebec91865c026b5f78e3128a313dea.png" group-title="jan_7_2025_Movies",IN | D2H STAR MOVIES 4K
+https://rolextv.asia:443/441122/441122/27154
+#EXTINF:-1 tvg-id="ZEEBOLL" tvg-name="ZEE BOLLYWOOD SD" tvg-logo="https://rolextv.asia:443/images/e8deed909a5fee0b4f65d91cbce0b894.png" group-title="jan_7_2025_Movies",ZEE BOLLYWOOD SD
+https://rolextv.asia:443/441122/441122/27153
+#EXTINF:-1 tvg-id="Zee Bollywood.in" tvg-name="IN | TS ZEE BOLLYWOOD FHD" tvg-logo="https://rolextv.asia:443/images/e8deed909a5fee0b4f65d91cbce0b894.png" group-title="jan_7_2025_Movies",IN | TS ZEE BOLLYWOOD FHD
+https://rolextv.asia:443/441122/441122/27152
+#EXTINF:-1 tvg-id="Zee Bollywood.in" tvg-name="IN | D2H ZEE BOLLYWOOD 4K" tvg-logo="https://rolextv.asia:443/images/e8deed909a5fee0b4f65d91cbce0b894.png" group-title="jan_7_2025_Movies",IN | D2H ZEE BOLLYWOOD 4K
+https://rolextv.asia:443/441122/441122/27151
+#EXTINF:-1 tvg-id="STRGAHL" tvg-name="STAR GOLD 2 SD" tvg-logo="https://rolextv.asia:443/images/1c5846e91b19e4fcab2bc83afc70b040.png" group-title="jan_7_2025_Movies",STAR GOLD 2 SD
+https://rolextv.asia:443/441122/441122/27150
+#EXTINF:-1 tvg-id="Star Gold 2 HD.in" tvg-name="IN | D2H STAR GOLD 2 FHD" tvg-logo="https://rolextv.asia:443/images/1c5846e91b19e4fcab2bc83afc70b040.png" group-title="jan_7_2025_Movies",IN | D2H STAR GOLD 2 FHD
+https://rolextv.asia:443/441122/441122/27149
+#EXTINF:-1 tvg-id="Star Gold 2 HD.in" tvg-name="IN | TS STAR GOLD 2 4K" tvg-logo="https://rolextv.asia:443/images/1c5846e91b19e4fcab2bc83afc70b040.png" group-title="jan_7_2025_Movies",IN | TS STAR GOLD 2 4K
+https://rolextv.asia:443/441122/441122/27148
+#EXTINF:-1 tvg-id="SONY MAX 2.in" tvg-name="SONY MAX 2 SD" tvg-logo="https://rolextv.asia:443/images/ff121eb0ae7cd2f23a5203686031a17d.png" group-title="jan_7_2025_Movies",SONY MAX 2 SD
+https://rolextv.asia:443/441122/441122/27147
+#EXTINF:-1 tvg-id="SONY MAX 2.in" tvg-name="IN | TS SONY MAX 2 FHD" tvg-logo="https://rolextv.asia:443/images/ff121eb0ae7cd2f23a5203686031a17d.png" group-title="jan_7_2025_Movies",IN | TS SONY MAX 2 FHD
+https://rolextv.asia:443/441122/441122/27146
+#EXTINF:-1 tvg-id="SONY MAX 2.in" tvg-name="IN | D2H SONY MAX 2 4K" tvg-logo="https://rolextv.asia:443/images/ff121eb0ae7cd2f23a5203686031a17d.png" group-title="jan_7_2025_Movies",IN | D2H SONY MAX 2 4K
+https://rolextv.asia:443/441122/441122/27145
+#EXTINF:-1 tvg-id="And Pictures HD.in" tvg-name="&PICTURES SD" tvg-logo="https://rolextv.asia:443/images/55981cce50bb0a1fea9d312413b80046.png" group-title="jan_7_2025_Movies",&PICTURES SD
+https://rolextv.asia:443/441122/441122/27144
+#EXTINF:-1 tvg-id="andpictures HD.in" tvg-name="IN | TS &PICTURES FHD" tvg-logo="https://rolextv.asia:443/images/55981cce50bb0a1fea9d312413b80046.png" group-title="jan_7_2025_Movies",IN | TS &PICTURES FHD
+https://rolextv.asia:443/441122/441122/27143
+#EXTINF:-1 tvg-id="And Pictures HD.in" tvg-name="IN | &PICTURES 4K" tvg-logo="https://rolextv.asia:443/images/55981cce50bb0a1fea9d312413b80046.png" group-title="jan_7_2025_Movies",IN | &PICTURES 4K
+https://rolextv.asia:443/441122/441122/27142
+#EXTINF:-1 tvg-id="Zee Cinema HD.in" tvg-name="ZEE CINEMA SD" tvg-logo="https://rolextv.asia:443/images/499cb6b27642307867f1088993e7fd90.png" group-title="jan_7_2025_Movies",ZEE CINEMA SD
+https://rolextv.asia:443/441122/441122/27141
+#EXTINF:-1 tvg-id="Zee Cinema HD.in" tvg-name="IN | TS ZEE CINEMA FHD" tvg-logo="https://rolextv.asia:443/images/499cb6b27642307867f1088993e7fd90.png" group-title="jan_7_2025_Movies",IN | TS ZEE CINEMA FHD
+https://rolextv.asia:443/441122/441122/27140
+#EXTINF:-1 tvg-id="Zee Cinema HD.in" tvg-name="IN | D2H ZEE CINEMA 4K" tvg-logo="https://rolextv.asia:443/images/499cb6b27642307867f1088993e7fd90.png" group-title="jan_7_2025_Movies",IN | D2H ZEE CINEMA 4K
+https://rolextv.asia:443/441122/441122/27139
+#EXTINF:-1 tvg-id="Star Gold Select HD.in" tvg-name="IN | STAR GOLD SELECT SD" tvg-logo="https://rolextv.asia:443/images/73373abc0da63f8711b8792f755f6a4a.jpg" group-title="jan_7_2025_Movies",IN | STAR GOLD SELECT SD
+https://rolextv.asia:443/441122/441122/27138
+#EXTINF:-1 tvg-id="Star Gold Select HD.in" tvg-name="IN | TS STAR GOLD SELECT FHD" tvg-logo="https://rolextv.asia:443/images/73373abc0da63f8711b8792f755f6a4a.jpg" group-title="jan_7_2025_Movies",IN | TS STAR GOLD SELECT FHD
+https://rolextv.asia:443/441122/441122/27137
+#EXTINF:-1 tvg-id="Star Gold Select HD.in" tvg-name="IN | D2H STAR GOLD SELECT 4K" tvg-logo="https://rolextv.asia:443/images/73373abc0da63f8711b8792f755f6a4a.jpg" group-title="jan_7_2025_Movies",IN | D2H STAR GOLD SELECT 4K
+https://rolextv.asia:443/441122/441122/27136
+#EXTINF:-1 tvg-id="STARGLD" tvg-name="IN | STAR GOLD SD" tvg-logo="https://rolextv.asia:443/images/9b9a5a699e8e8ec0c99dd638f26d9ae8.jpg" group-title="jan_7_2025_Movies",IN | STAR GOLD SD
+https://rolextv.asia:443/441122/441122/27135
+#EXTINF:-1 tvg-id="Star GOLD HD.in" tvg-name="IN | TS STAR GOLD FHD" tvg-logo="https://rolextv.asia:443/images/9b9a5a699e8e8ec0c99dd638f26d9ae8.jpg" group-title="jan_7_2025_Movies",IN | TS STAR GOLD FHD
+https://rolextv.asia:443/441122/441122/27134
+#EXTINF:-1 tvg-id="Star GOLD HD.in" tvg-name="IN | D2H STAR GOLD 4K" tvg-logo="https://rolextv.asia:443/images/9b9a5a699e8e8ec0c99dd638f26d9ae8.jpg" group-title="jan_7_2025_Movies",IN | D2H STAR GOLD 4K
+https://rolextv.asia:443/441122/441122/27133
+#EXTINF:-1 tvg-id="SONY MAX HD.in" tvg-name="IN | SONY MAX SD" tvg-logo="https://rolextv.asia:443/images/65234132502a30ad5254ec8d8218649e.png" group-title="jan_7_2025_Movies",IN | SONY MAX SD
+https://rolextv.asia:443/441122/441122/27132
+#EXTINF:-1 tvg-id="SONY MAX HD.in" tvg-name="IN | TS SONY MAX FHD" tvg-logo="https://rolextv.asia:443/images/65234132502a30ad5254ec8d8218649e.png" group-title="jan_7_2025_Movies",IN | TS SONY MAX FHD
+https://rolextv.asia:443/441122/441122/27131
+#EXTINF:-1 tvg-id="SONY MAX HD.in" tvg-name="IN | D2H SONY MAX 4K" tvg-logo="https://rolextv.asia:443/images/65234132502a30ad5254ec8d8218649e.png" group-title="jan_7_2025_Movies",IN | D2H SONY MAX 4K
+https://rolextv.asia:443/441122/441122/27130
+
+#EXTINF:-1 tvg-id="STARBL" tvg-name="IN | STAR 4K" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="jan_7_2025_Sports",IN | STAR 4K
+https://rolextv.asia:443/441122/441122/144609
+#EXTINF:-1 tvg-id="Star Sports 1 Telugu HD.in" tvg-name="IN | D2H STAR SPORTS 1 FHD TELUGU" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCzj90fd1T_RaDgyFPeg9ZdCxsAPQjZ51ga6XoSFBqSgG.jpg" group-title="jan_7_2025_Sports",IN | D2H STAR SPORTS 1 FHD TELUGU
+https://rolextv.asia:443/441122/441122/109103
+#EXTINF:-1 tvg-id="Star Sports 1 Telugu HD.in" tvg-name="IN | TS STAR SPORTS 1 FHD TELUGU" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCzj90fd1T_RaDgyFPeg9ZdCxsAPQjZ51ga6XoSFBqSgG.jpg" group-title="jan_7_2025_Sports",IN | TS STAR SPORTS 1 FHD TELUGU
+https://rolextv.asia:443/441122/441122/109104
+#EXTINF:-1 tvg-id="Star Sports 1 HD.in" tvg-name="STAR SPORTS 1 FHD" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCzj90fd1T_RaDgyFPeg9ZdD2pb_UcwjRaLyJyL1hllQO.jpg" group-title="jan_7_2025_Sports",STAR SPORTS 1 FHD
+https://rolextv.asia:443/441122/441122/27238
+#EXTINF:-1 tvg-id="Star Sports 1 HD.in" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCzj90fd1T_RaDgyFPeg9ZdD2pb_UcwjRaLyJyL1hllQO.jpg" group-title="jan_7_2025_Sports",STAR SPORTS 1 HD
+https://rolextv.asia:443/441122/441122/27241
+#EXTINF:-1 tvg-id="Star Sports 2 HD.in" tvg-name="STAR SPORTS 2 FHD" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCzj90fd1T_RaDgyFPeg9ZdC28DuFZEDlGMIDgyBySKRJ.jpg" group-title="jan_7_2025_Sports",STAR SPORTS 2 FHD
+https://rolextv.asia:443/441122/441122/27249
+#EXTINF:-1 tvg-id="Star Sports Select 2.in" tvg-name="STAR SPORTS SELECT 2 FHD" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCzj90fd1T_RaDgyFPeg9ZdBo0KP70k-H_JrujPOaurdT.jpg" group-title="jan_7_2025_Sports",STAR SPORTS SELECT 2 FHD
+https://rolextv.asia:443/441122/441122/27260
+#EXTINF:-1 tvg-id="SSPOCRH" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="https://rolextv.asia:443/images/47e44ce2ab746b346217f266a8bfa401.png" group-title="jan_7_2025_Sports",SKY SPORTS CRICKET HD
+https://rolextv.asia:443/441122/441122/27263
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORTS CRICKET HD" tvg-logo="https://rolextv.asia:443/images/b1779d0d79931a7fa643abfd93618924.png" group-title="jan_7_2025_Sports",SUPERSPORTS CRICKET HD
+https://rolextv.asia:443/441122/441122/27267
+#EXTINF:-1 tvg-id="DUPWCHD" tvg-name="WILLOW CRICKET HD" tvg-logo="http://www.tmsimg.com/assets/s68605_ll_h3_aa.png" group-title="jan_7_2025_Sports",WILLOW CRICKET HD
+https://rolextv.asia:443/441122/441122/27269
+#EXTINF:-1 tvg-id="WILXHD" tvg-name="WILLOW EXTRA HD" tvg-logo="https://rolextv.asia:443/images/4f108160d215cbf92a07508b7c216de0.png" group-title="jan_7_2025_Sports",WILLOW EXTRA HD
+https://rolextv.asia:443/441122/441122/27270
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://rolextv.asia:443/images/0abae8418f9cb3f2e6709c903b9d9db2.png" group-title="jan_7_2025_Sports",ASTRO CRICKET HD
+https://rolextv.asia:443/441122/441122/27271
+#EXTINF:-1 tvg-id="F501ANZ" tvg-name="FOX CRICKET HD" tvg-logo="https://rolextv.asia:443/images/96c606bd4e4946f808023f328c61026e.png" group-title="jan_7_2025_Sports",FOX CRICKET HD
+https://rolextv.asia:443/441122/441122/27272
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://rolextv.asia:443/images/689e82ba935f5f79b8330151b367a49a.png" group-title="jan_7_2025_Sports",T SPORTS HD
+https://rolextv.asia:443/441122/441122/27273
+#EXTINF:-1 tvg-id="TENCRIC" tvg-name="TEN CRICKET HD" tvg-logo="https://rolextv.asia:443/images/42cd65ea722e20601cc0db4750c0b45b.png" group-title="jan_7_2025_Sports",TEN CRICKET HD
+https://rolextv.asia:443/441122/441122/27274
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAYS CRICKET HD" tvg-logo="https://rolextv.asia:443/images/b2a8a7aab3732cd45f1ddcec6d4f694e.png" group-title="jan_7_2025_Sports",STARZPLAYS CRICKET HD
+https://rolextv.asia:443/441122/441122/27278
+#EXTINF:-1 tvg-id="" tvg-name="STARZPLAYS CRICLIFE 1 HD" tvg-logo="https://rolextv.asia:443/images/d3c2a060ab6cdaacdfbf7ebf639df124.png" group-title="jan_7_2025_Sports",STARZPLAYS CRICLIFE 1 HD
+https://rolextv.asia:443/441122/441122/27286
+#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS FHD" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCyY8pRGy9HgtTp2HYuEkF90nV2O-v-w_d21G9BgGs6y-.jpg" group-title="jan_7_2025_Sports",TEN SPORTS FHD
+https://rolextv.asia:443/441122/441122/27207
+#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS HD" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCyY8pRGy9HgtTp2HYuEkF90nV2O-v-w_d21G9BgGs6y-.jpg" group-title="jan_7_2025_Sports",TEN SPORTS HD
+https://rolextv.asia:443/441122/441122/27211
+#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS SD" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCyY8pRGy9HgtTp2HYuEkF90nV2O-v-w_d21G9BgGs6y-.jpg" group-title="jan_7_2025_Sports",TEN SPORTS SD
+https://rolextv.asia:443/441122/441122/27213
+#EXTINF:-1 tvg-id="" tvg-name="A SPORTS FHD" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC8Oyzlf15GF7cUOMxSQnNtZ3tfX2IgBc3ccavoNXQGp1.jpg" group-title="jan_7_2025_Sports",A SPORTS FHD
+https://rolextv.asia:443/441122/441122/27220
+#EXTINF:-1 tvg-id="" tvg-name="A SPORTS HD" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC8Oyzlf15GF7cUOMxSQnNtZ3tfX2IgBc3ccavoNXQGp1.jpg" group-title="jan_7_2025_Sports",A SPORTS HD
+https://rolextv.asia:443/441122/441122/27221
+#EXTINF:-1 tvg-id="" tvg-name="A SPORTS SD" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC_kpLVPSW3Tvf9Ib6tazUODtA6pEEAcR7Xs-ti7VV7qH.jpg" group-title="jan_7_2025_Sports",A SPORTS SD
+https://rolextv.asia:443/441122/441122/27223
