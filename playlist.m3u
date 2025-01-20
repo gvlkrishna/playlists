@@ -9,16 +9,10 @@ https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/play
 #EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="SVBC",SVBC Telugu (1080p)
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa.png" group-title="Jan_19_starChannels", STAR MAA
-http://opplex.live:8080/live/10jun.abbas/51316725/381103.ts
 #EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="Jan_19_starChannels", Star Movies
 http://opplex.live:8080/live/10jun.abbas/51316725/66213.ts
 #EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="Jan_19_starChannels", Star Movies Select HD
 http://opplex.live:8080/live/10jun.abbas/51316725/66315.ts
-#EXTINF:-1 tvg-id="maagold.in" tvg-logo="http://openboxv8s.com/india/maa_gold.jpg" group-title="Jan_19_starChannels", STAR MAA GOLD
-http://opplex.live:8080/live/10jun.abbas/51316725/250845.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa-Movies-HD.png" group-title="Jan_19_starChannels", STAR MAA MOVIES HD
-http://opplex.live:8080/live/10jun.abbas/51316725/381117.ts
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Jan_19_starChannels", Star Sport 1 HINDI
 http://opplex.live:8080/live/10jun.abbas/51316725/109986.ts
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Jan_19_starChannels", Star Sports 1 
@@ -29,3 +23,63 @@ http://opplex.live:8080/live/10jun.abbas/51316725/109988.ts
 http://opplex.live:8080/live/10jun.abbas/51316725/109993.ts
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="Jan_19_starChannels", Star Sports Select 2
 http://opplex.live:8080/live/10jun.abbas/51316725/109994.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg", SPORTS 18 (4K)
+https://freelivtvm3u.vercel.app/play.m3u8?id=382205
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="",SRI VENKATESHWAR BHAKTI 
+https://freelivtvm3u.vercel.app/play.m3u8?id=382294
+#EXTINF:-1 tvg-id="maagold.in" tvg-logo="http://openboxv8s.com/india/maa_gold.jpg" group-title="Jan_19_TeluguChannels", STAR MAA GOLD
+http://opplex.live:8080/live/10jun.abbas/51316725/250845.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa-Movies-HD.png" group-title="Jan_19_TeluguChannels", STAR MAA MOVIES HD
+http://opplex.live:8080/live/10jun.abbas/51316725/381117.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa.png" group-title="Jan_19_TeluguChannels", STAR MAA
+http://opplex.live:8080/live/10jun.abbas/51316725/381103.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", HINDU DHARMAM
+https://freelivtvm3u.vercel.app/play.m3u8?id=382293
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", AASTHA TELUGU  
+https://freelivtvm3u.vercel.app/play.m3u8?id=382292
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", OM CVR
+https://freelivtvm3u.vercel.app/play.m3u8?id=382291
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", SVBC2
+https://freelivtvm3u.vercel.app/play.m3u8?id=382290
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", KRISHNA VANI
+https://freelivtvm3u.vercel.app/play.m3u8?id=382289
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", BHAKTI TV 
+https://freelivtvm3u.vercel.app/play.m3u8?id=382288
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", ARADANA TV
+https://freelivtvm3u.vercel.app/play.m3u8?id=382287
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", KUSHI TV
+https://freelivtvm3u.vercel.app/play.m3u8?id=382286
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", INEWS
+https://freelivtvm3u.vercel.app/play.m3u8?id=382285
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", INDIA NOW
+https://freelivtvm3u.vercel.app/play.m3u8?id=382284
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", HMTV
+https://freelivtvm3u.vercel.app/play.m3u8?id=382283
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", SWATANTRA NEWS
+https://freelivtvm3u.vercel.app/play.m3u8?id=382282
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", SUBHAVARTHA_TV
+https://freelivtvm3u.vercel.app/play.m3u8?id=382281
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", STUDIO ONE
+https://freelivtvm3u.vercel.app/play.m3u8?id=382280
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", SONIC TELUGU
+https://freelivtvm3u.vercel.app/play.m3u8?id=382279
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", CVR NEWS
+https://freelivtvm3u.vercel.app/play.m3u8?id=382278
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", CVR HEALTH
+https://freelivtvm3u.vercel.app/play.m3u8?id=382277
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", CVR ENGLISH NEWS
+https://freelivtvm3u.vercel.app/play.m3u8?id=382276
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", CN HD+ TELUGU
+https://freelivtvm3u.vercel.app/play.m3u8?id=382275
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", CARTOON NETWORK
+https://freelivtvm3u.vercel.app/play.m3u8?id=382274
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", CALVARY TV
+https://freelivtvm3u.vercel.app/play.m3u8?id=382273
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", BIG TV
+https://freelivtvm3u.vercel.app/play.m3u8?id=382272
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", 99 TV
+https://freelivtvm3u.vercel.app/play.m3u8?id=382271
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", PMC
+https://freelivtvm3u.vercel.app/play.m3u8?id=382270
