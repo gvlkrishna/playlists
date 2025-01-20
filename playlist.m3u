@@ -9,10 +9,6 @@ https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/play
 #EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="SVBC",SVBC Telugu (1080p)
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="Jan_19_starChannels", Star Movies
-http://opplex.live:8080/live/10jun.abbas/51316725/66213.ts
-#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="Jan_19_starChannels", Star Movies Select HD
-http://opplex.live:8080/live/10jun.abbas/51316725/66315.ts
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Jan_19_starChannels", Star Sport 1 HINDI
 http://opplex.live:8080/live/10jun.abbas/51316725/109986.ts
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Jan_19_starChannels", Star Sports 1 
@@ -25,6 +21,40 @@ http://opplex.live:8080/live/10jun.abbas/51316725/109993.ts
 http://opplex.live:8080/live/10jun.abbas/51316725/109994.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg", SPORTS 18 (4K)
 https://freelivtvm3u.vercel.app/play.m3u8?id=382205
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="Jan_19_starChannels", Star Movies
+http://opplex.live:8080/live/10jun.abbas/51316725/66213.ts
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="Jan_19_starChannels", Star Movies Select HD
+http://opplex.live:8080/live/10jun.abbas/51316725/66315.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://static.epg.best/in/StarWorld.in.png",IN | STAR WORLD HD
+https://freelivtvm3u.vercel.app/play.m3u8?id=66211
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://static.epg.best/in/StarMovies.in.png",IN | STAR MOVIES FHD
+https://freelivtvm3u.vercel.app/play.m3u8?id=66213
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png",IN | SONY PIX FHD
+https://freelivtvm3u.vercel.app/play.m3u8?id=66224
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg",IN | &PRIVE FHD
+https://freelivtvm3u.vercel.app/play.m3u8?id=66228
+#EXTINF:-1 tvg-id="axnhd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://static.epg.best/in/HBO.in.png",IN | HBO HD
+https://freelivtvm3u.vercel.app/play.m3u8?id=66229
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png",IN | & FLIX FHD
+https://freelivtvm3u.vercel.app/play.m3u8?id=66236
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="",IN: & EXPLOR FHD
+https://freelivtvm3u.vercel.app/play.m3u8?id=66241
+#EXTINF:-1 tvg-id="mnx.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png",IN: MNX FHD
+https://freelivtvm3u.vercel.app/play.m3u8?id=66266
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://static.epg.best/in/MoviesNow.in.png",IN | MOVIES NOW FHD
+https://freelivtvm3u.vercel.app/play.m3u8?id=66271
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png",IN | BBO HD
+https://freelivtvm3u.vercel.app/play.m3u8?id=66277
+#EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png",IN | FOX LIFE FHD
+https://freelivtvm3u.vercel.app/play.m3u8?id=66278
+#EXTINF:-1 tvg-id="romedynowhdin.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://static.epg.best/in/RomedyNow.in.png",IN | ROMEDY NOW
+https://freelivtvm3u.vercel.app/play.m3u8?id=66282
+#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png",IN | ZEE CAFE HD
+https://freelivtvm3u.vercel.app/play.m3u8?id=66287
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | D2H ACTIVE" tvg-logo="https://static.epg.best/kr/AXN.kr.png",IN | AXN HD
+https://freelivtvm3u.vercel.app/play.m3u8?id=66313
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png",IN | STAR MOVIES SELECT HD
+https://freelivtvm3u.vercel.app/play.m3u8?id=66315
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="",SRI VENKATESHWAR BHAKTI 
