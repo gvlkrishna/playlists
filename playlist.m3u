@@ -9,201 +9,161 @@ https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/play
 #EXTINF:-1 tvg-id="SVBC.in" tvg-logo="https://i.imgur.com/LSMvXAl.png" group-title="SVBC",SVBC Telugu (1080p)
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Jan_19_starChannels", Star Sport 1 HINDI
-http://opplex.live:8080/live/10jun.abbas/51316725/109986.ts
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Jan_19_starChannels", Star Sports 1 
-http://opplex.live:8080/live/10jun.abbas/51316725/109987.ts
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="noimg.png" group-title="Jan_19_starChannels", Star Sports 2 
-http://opplex.live:8080/live/10jun.abbas/51316725/109988.ts
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Jan_19_starChannels", Star Sports Select 1
-http://opplex.live:8080/live/10jun.abbas/51316725/109993.ts
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="Jan_19_starChannels", Star Sports Select 2
-http://opplex.live:8080/live/10jun.abbas/51316725/109994.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg", SPORTS 18 (4K)
-https://freelivtvm3u.vercel.app/play.m3u8?id=382205
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="Jan_19_starChannels", Star Movies
-http://opplex.live:8080/live/10jun.abbas/51316725/66213.ts
-#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="Jan_19_starChannels", Star Movies Select HD
-http://opplex.live:8080/live/10jun.abbas/51316725/66315.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://static.epg.best/in/StarWorld.in.png",IN | STAR WORLD HD
-https://freelivtvm3u.vercel.app/play.m3u8?id=66211
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://static.epg.best/in/StarMovies.in.png",IN | STAR MOVIES FHD
-https://freelivtvm3u.vercel.app/play.m3u8?id=66213
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png",IN | SONY PIX FHD
-https://freelivtvm3u.vercel.app/play.m3u8?id=66224
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg",IN | &PRIVE FHD
-https://freelivtvm3u.vercel.app/play.m3u8?id=66228
-#EXTINF:-1 tvg-id="axnhd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://static.epg.best/in/HBO.in.png",IN | HBO HD
-https://freelivtvm3u.vercel.app/play.m3u8?id=66229
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png",IN | & FLIX FHD
-https://freelivtvm3u.vercel.app/play.m3u8?id=66236
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="",IN: & EXPLOR FHD
-https://freelivtvm3u.vercel.app/play.m3u8?id=66241
-#EXTINF:-1 tvg-id="mnx.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png",IN: MNX FHD
-https://freelivtvm3u.vercel.app/play.m3u8?id=66266
-#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://static.epg.best/in/MoviesNow.in.png",IN | MOVIES NOW FHD
-https://freelivtvm3u.vercel.app/play.m3u8?id=66271
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png",IN | BBO HD
-https://freelivtvm3u.vercel.app/play.m3u8?id=66277
-#EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png",IN | FOX LIFE FHD
-https://freelivtvm3u.vercel.app/play.m3u8?id=66278
-#EXTINF:-1 tvg-id="romedynowhdin.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://static.epg.best/in/RomedyNow.in.png",IN | ROMEDY NOW
-https://freelivtvm3u.vercel.app/play.m3u8?id=66282
-#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png",IN | ZEE CAFE HD
-https://freelivtvm3u.vercel.app/play.m3u8?id=66287
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | D2H ACTIVE" tvg-logo="https://static.epg.best/kr/AXN.kr.png",IN | AXN HD
-https://freelivtvm3u.vercel.app/play.m3u8?id=66313
-#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="" group-title="Jan_19_starChannels" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png",IN | STAR MOVIES SELECT HD
-https://freelivtvm3u.vercel.app/play.m3u8?id=66315
+#EXTINF:-1 tvg-id="cvrnews.in" tvg-name="CVR NEWS" tvg-logo="http://logo.ottcst.info/CVRNEWS.png" group-title="Feb_2_2025_Telugu",CVR NEWS
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/3000
+#EXTINF:-1 tvg-id="" tvg-name="ABN NEWS TV" tvg-logo="http://logo.ottcst.info/ABNNEWSTV.png" group-title="Feb_2_2025_Telugu",ABN NEWS TV
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/3055
+#EXTINF:-1 tvg-id="" tvg-name="10 TV" tvg-logo="http://logo.ottcst.info/10TV.png" group-title="Feb_2_2025_Telugu",10 TV
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2643
+#EXTINF:-1 tvg-id="" tvg-name="BHAKTI TV" tvg-logo="http://logo.ottcst.info/BHAKTITV.png" group-title="Feb_2_2025_Telugu",BHAKTI TV
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2669
+#EXTINF:-1 tvg-id="" tvg-name="DD SAPTAGIRI" tvg-logo="http://logo.ottcst.info/DDSAPTAGIRI.png" group-title="Feb_2_2025_Telugu",DD SAPTAGIRI
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2641
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://logo.ottcst.info/DISCOVERYWORLDHD.png" group-title="Feb_2_2025_Telugu",DISCOVERY WORLD HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2668
+#EXTINF:-1 tvg-id="" tvg-name="ETV CINEMA" tvg-logo="http://logo.ottcst.info/ETVCINEMA.png" group-title="Feb_2_2025_Telugu",ETV CINEMA
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2667
+#EXTINF:-1 tvg-id="" tvg-name="ETV HD" tvg-logo="http://logo.ottcst.info/ETVHD.png" group-title="Feb_2_2025_Telugu",ETV HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2666
+#EXTINF:-1 tvg-id="" tvg-name="ETV LIFE" tvg-logo="http://logo.ottcst.info/ETVLIFE.png" group-title="Feb_2_2025_Telugu",ETV LIFE
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2646
+#EXTINF:-1 tvg-id="" tvg-name="ETV PLUS" tvg-logo="http://logo.ottcst.info/ETVPLUS.png" group-title="Feb_2_2025_Telugu",ETV PLUS
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2651
+#EXTINF:-1 tvg-id="" tvg-name="GEMINI COMEDY" tvg-logo="http://logo.ottcst.info/GEMINICOMEDY.png" group-title="Feb_2_2025_Telugu",GEMINI COMEDY
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2663
+#EXTINF:-1 tvg-id="" tvg-name="GEMINI HD" tvg-logo="http://logo.ottcst.info/GEMINIHD.png" group-title="Feb_2_2025_Telugu",GEMINI HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2665
+#EXTINF:-1 tvg-id="" tvg-name="GEMINI LIFE" tvg-logo="http://logo.ottcst.info/GEMINILIFE.png" group-title="Feb_2_2025_Telugu",GEMINI LIFE
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2647
+#EXTINF:-1 tvg-id="" tvg-name="GEMINI MOVIES HD" tvg-logo="http://logo.ottcst.info/GEMINIMOVIESHD.png" group-title="Feb_2_2025_Telugu",GEMINI MOVIES HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2664
+#EXTINF:-1 tvg-id="" tvg-name="GEMINI MUSIC" tvg-logo="http://logo.ottcst.info/GEMINIMUSIC.png" group-title="Feb_2_2025_Telugu",GEMINI MUSIC
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2648
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 18 TELUGU HD" tvg-logo="http://logo.ottcst.info/HISTORY18TELUGUHD.png" group-title="Feb_2_2025_Telugu",HISTORY 18 TELUGU HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2662
+#EXTINF:-1 tvg-id="" tvg-name="KUSHI TV" tvg-logo="http://logo.ottcst.info/KUSHITV.png" group-title="Feb_2_2025_Telugu",KUSHI TV
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2638
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://logo.ottcst.info/NATIONALGEOGRAPHICHD.png" group-title="Feb_2_2025_Telugu",NATIONAL GEOGRAPHIC HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2660
+#EXTINF:-1 tvg-id="" tvg-name="RAJ MUSIC TELUGU" tvg-logo="http://logo.ottcst.info/RAJMUSICTELUGU.png" group-title="Feb_2_2025_Telugu",RAJ MUSIC TELUGU
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2659
+#EXTINF:-1 tvg-id="" tvg-name="RAJ NEWS TELUGU" tvg-logo="http://logo.ottcst.info/RAJNEWSTELUGU.png" group-title="Feb_2_2025_Telugu",RAJ NEWS TELUGU
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2658
+#EXTINF:-1 tvg-id="" tvg-name="SONY BBC EARTH HD" tvg-logo="http://logo.ottcst.info/SONYBBCEARTHHD.png" group-title="Feb_2_2025_Telugu",SONY BBC EARTH HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2657
+#EXTINF:-1 tvg-id="" tvg-name="SONY YAY" tvg-logo="http://logo.ottcst.info/SONYYAY.png" group-title="Feb_2_2025_Telugu",SONY YAY
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2644
+#EXTINF:-1 tvg-id="" tvg-name="STAR MAA GOLD HD" tvg-logo="http://logo.ottcst.info/STARMAAGOLDHD.png" group-title="Feb_2_2025_Telugu",STAR MAA GOLD HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2656
+#EXTINF:-1 tvg-id="" tvg-name="STAR MAA HD" tvg-logo="http://logo.ottcst.info/STARMAAHD.png" group-title="Feb_2_2025_Telugu",STAR MAA HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2655
+#EXTINF:-1 tvg-id="" tvg-name="STAR MAA MOVIES HD" tvg-logo="http://logo.ottcst.info/STARMAAMOVIESHD.png" group-title="Feb_2_2025_Telugu",STAR MAA MOVIES HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2661
+#EXTINF:-1 tvg-id="" tvg-name="TATA SKY TELUGU CINEMA HD" tvg-logo="http://logo.ottcst.info/TATASKYTELUGUCINEMAHD.png" group-title="Feb_2_2025_Telugu",TATA SKY TELUGU CINEMA HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2654
+#EXTINF:-1 tvg-id="" tvg-name="TV5 NEWS" tvg-logo="http://logo.ottcst.info/TV5NEWS.png" group-title="Feb_2_2025_Telugu",TV5 NEWS
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2645
+#EXTINF:-1 tvg-id="" tvg-name="TV9 NEWS" tvg-logo="http://logo.ottcst.info/TV9NEWS.png" group-title="Feb_2_2025_Telugu",TV9 NEWS
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2653
+#EXTINF:-1 tvg-id="" tvg-name="V6 NEWS" tvg-logo="http://logo.ottcst.info/V6NEWS.png" group-title="Feb_2_2025_Telugu",V6 NEWS
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2652
+#EXTINF:-1 tvg-id="" tvg-name="VANITHA TV" tvg-logo="http://logo.ottcst.info/VANITHATV.png" group-title="Feb_2_2025_Telugu",VANITHA TV
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2640
+#EXTINF:-1 tvg-id="" tvg-name="VISSA TV" tvg-logo="http://logo.ottcst.info/VISSATV.png" group-title="Feb_2_2025_Telugu",VISSA TV
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2639
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMALU HD" tvg-logo="http://logo.ottcst.info/ZEECINEMALUHD.png" group-title="Feb_2_2025_Telugu",ZEE CINEMALU HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2650
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TELUGU HD" tvg-logo="http://logo.ottcst.info/ZEETELUGUHD.png" group-title="Feb_2_2025_Telugu",ZEE TELUGU HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2649
+#EXTINF:-1 tvg-id="" tvg-name="SAKSHI TV" tvg-logo="http://logo.ottcst.info/SAKSHITV.png" group-title="Feb_2_2025_Telugu",SAKSHI TV
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/71039
+#EXTINF:-1 tvg-id="" tvg-name="Telugu FilmNagar" tvg-logo="http://logo.ottcst.info/TELUGU%20FILMNAGAR.png" group-title="Feb_2_2025_Telugu",Telugu FilmNagar
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/412811
 
+#EXTINF:-1 tvg-id="" tvg-name="AND PRIVE HD" tvg-logo="http://logo.ottcst.info/ANDPRIVEHD.png" group-title="Feb_2_2025_English",AND PRIVE HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2933
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG INDIA" tvg-logo="http://logo.ottcst.info/BLOOMBERGINDIA.png" group-title="Feb_2_2025_English",BLOOMBERG INDIA
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2931
+#EXTINF:-1 tvg-id="" tvg-name="COLORS INFINITY HD" tvg-logo="http://logo.ottcst.info/COLORSINFINITYHD.png" group-title="Feb_2_2025_English",COLORS INFINITY HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2928
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://logo.ottcst.info/COMEDYCENTRALHD.png" group-title="Feb_2_2025_English",COMEDY CENTRAL HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2927
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="http://logo.ottcst.info/DISNEYXD.png" group-title="Feb_2_2025_English",DISNEY XD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2925
+#EXTINF:-1 tvg-id="" tvg-name="ET NOW HD" tvg-logo="http://logo.ottcst.info/ETNOWHD.png" group-title="Feb_2_2025_English",ET NOW HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2924
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="http://logo.ottcst.info/FOXLIFEHD.png" group-title="Feb_2_2025_English",FOX LIFE HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2923
+#EXTINF:-1 tvg-id="hbohd.in" tvg-name="HBO INDIA HD" tvg-logo="http://logo.ottcst.info/HBOINDIAHD.png" group-title="Feb_2_2025_English",HBO INDIA HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2922
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY TV 18 HD" tvg-logo="http://logo.ottcst.info/HISTORYTV18HD.png" group-title="Feb_2_2025_English",HISTORY TV 18 HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2921
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET WORLD HD" tvg-logo="http://logo.ottcst.info/ANIMALPLANETWORLDHD.png" group-title="Feb_2_2025_English",ANIMAL PLANET WORLD HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2917
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://logo.ottcst.info/DISCOVERYWORLD.png" group-title="Feb_2_2025_English",DISCOVERY WORLD HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2916
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="http://logo.ottcst.info/NATGEOWILDHD.png" group-title="Feb_2_2025_English",NAT GEO WILD HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2915
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://logo.ottcst.info/NATIONALGEOGRAPHICHD.png" group-title="Feb_2_2025_English",NATIONAL GEOGRAPHIC HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2914
+#EXTINF:-1 tvg-id="" tvg-name="SONY BBC EARTH ENGLISH HD" tvg-logo="http://logo.ottcst.info/SONYBBCEARTHENGLISHHD.png" group-title="Feb_2_2025_English",SONY BBC EARTH ENGLISH HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2910
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="http://logo.ottcst.info/STARMOVIESHD.png" group-title="Feb_2_2025_English",STAR MOVIES HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2909
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT HD" tvg-logo="http://logo.ottcst.info/STARMOVIESSELECTHD.png" group-title="Feb_2_2025_English",STAR MOVIES SELECT HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2908
+#EXTINF:-1 tvg-id="" tvg-name="TLC WORLD HD" tvg-logo="http://logo.ottcst.info/TLCWORLDHD.png" group-title="Feb_2_2025_English",TLC WORLD HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2903
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP HD" tvg-logo="http://logo.ottcst.info/TRAVELXPHD.png" group-title="Feb_2_2025_English",TRAVEL XP HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2902
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="http://logo.ottcst.info/VH1HD.png" group-title="Feb_2_2025_English",VH1 HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2901
+#EXTINF:-1 tvg-id="" tvg-name="WARNER BROS" tvg-logo="http://logo.ottcst.info/WARNERBROS.png" group-title="Feb_2_2025_English",WARNER BROS
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2900
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CAFE HD" tvg-logo="http://logo.ottcst.info/ZEECAFEHD.png" group-title="Feb_2_2025_English",ZEE CAFE HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2899
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://logo.ottcst.info/DISCOVERYSCIENCE.png" group-title="Feb_2_2025_English",DISCOVERY SCIENCE
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2898
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="http://logo.ottcst.info/DISCOVERYTURBO.png" group-title="Feb_2_2025_English",DISCOVERY TURBO
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2896
+#EXTINF:-1 tvg-id="" tvg-name="CNN NEWS" tvg-logo="http://logo.ottcst.info/CNNNEWS.png" group-title="Feb_2_2025_English",CNN NEWS
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2895
+#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA HD" tvg-logo="http://logo.ottcst.info/ALJAZEERAHD.png" group-title="Feb_2_2025_English",ALJAZEERA HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2894
+#EXTINF:-1 tvg-id="" tvg-name="WION NEWS" tvg-logo="http://logo.ottcst.info/WIONNEWS.png" group-title="Feb_2_2025_English",WION NEWS
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2892
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="",SRI VENKATESHWAR BHAKTI 
-https://freelivtvm3u.vercel.app/play.m3u8?id=382294
-#EXTINF:-1 tvg-id="maagold.in" tvg-logo="http://openboxv8s.com/india/maa_gold.jpg" group-title="Jan_19_TeluguChannels", STAR MAA GOLD
-http://opplex.live:8080/live/10jun.abbas/51316725/250845.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa-Movies-HD.png" group-title="Jan_19_TeluguChannels", STAR MAA MOVIES HD
-http://opplex.live:8080/live/10jun.abbas/51316725/381117.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa.png" group-title="Jan_19_TeluguChannels", STAR MAA
-http://opplex.live:8080/live/10jun.abbas/51316725/381103.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", HINDU DHARMAM
-https://freelivtvm3u.vercel.app/play.m3u8?id=382293
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", AASTHA TELUGU  
-https://freelivtvm3u.vercel.app/play.m3u8?id=382292
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", OM CVR
-https://freelivtvm3u.vercel.app/play.m3u8?id=382291
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", SVBC2
-https://freelivtvm3u.vercel.app/play.m3u8?id=382290
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", KRISHNA VANI
-https://freelivtvm3u.vercel.app/play.m3u8?id=382289
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", BHAKTI TV 
-https://freelivtvm3u.vercel.app/play.m3u8?id=382288
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", ARADANA TV
-https://freelivtvm3u.vercel.app/play.m3u8?id=382287
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", KUSHI TV
-https://freelivtvm3u.vercel.app/play.m3u8?id=382286
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", INEWS
-https://freelivtvm3u.vercel.app/play.m3u8?id=382285
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", INDIA NOW
-https://freelivtvm3u.vercel.app/play.m3u8?id=382284
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", HMTV
-https://freelivtvm3u.vercel.app/play.m3u8?id=382283
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", SWATANTRA NEWS
-https://freelivtvm3u.vercel.app/play.m3u8?id=382282
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", SUBHAVARTHA_TV
-https://freelivtvm3u.vercel.app/play.m3u8?id=382281
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", STUDIO ONE
-https://freelivtvm3u.vercel.app/play.m3u8?id=382280
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", SONIC TELUGU
-https://freelivtvm3u.vercel.app/play.m3u8?id=382279
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", CVR NEWS
-https://freelivtvm3u.vercel.app/play.m3u8?id=382278
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", CVR HEALTH
-https://freelivtvm3u.vercel.app/play.m3u8?id=382277
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", CVR ENGLISH NEWS
-https://freelivtvm3u.vercel.app/play.m3u8?id=382276
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", CN HD+ TELUGU
-https://freelivtvm3u.vercel.app/play.m3u8?id=382275
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", CARTOON NETWORK
-https://freelivtvm3u.vercel.app/play.m3u8?id=382274
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", CALVARY TV
-https://freelivtvm3u.vercel.app/play.m3u8?id=382273
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", BIG TV
-https://freelivtvm3u.vercel.app/play.m3u8?id=382272
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", 99 TV
-https://freelivtvm3u.vercel.app/play.m3u8?id=382271
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_19_TeluguChannels" tvg-logo="", PMC
-https://freelivtvm3u.vercel.app/play.m3u8?id=382270
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Studio-Yuva.png", STUDIO YUVA
-https://freelivtvm3u.vercel.app/play.m3u8?id=381180
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/History-TV18-HD.png", HISTORY 18 FHD
-https://freelivtvm3u.vercel.app/play.m3u8?id=381179
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vissa-TV.png", VISSA TV
-https://freelivtvm3u.vercel.app/play.m3u8?id=381176
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/T-News.png", T NEWS
-https://freelivtvm3u.vercel.app/play.m3u8?id=381171
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Saptagiri.png", DD SAPTAGIRI
-https://freelivtvm3u.vercel.app/play.m3u8?id=381166
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Andhra-Pradesh.png", ETV ANDHRA PRADESH
-https://freelivtvm3u.vercel.app/play.m3u8?id=381164
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Telangana.png", ETV TELANGANA
-https://freelivtvm3u.vercel.app/play.m3u8?id=381159
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sakshi-TV.png",IN SAKSHI TV
-https://freelivtvm3u.vercel.app/play.m3u8?id=381154
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Fitness.png", TATA PLAY FITNESS
-https://freelivtvm3u.vercel.app/play.m3u8?id=381147
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Hollywood-Local.png", TATA PLAY HOLLYWOOD LOCAL
-https://freelivtvm3u.vercel.app/play.m3u8?id=381146
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-English-in-Telugu.png", TATA PLAY ENGLISH IN TELUGU
-https://freelivtvm3u.vercel.app/play.m3u8?id=381145
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-HD-World.png", DISCOVERY WORLD FHD
-https://freelivtvm3u.vercel.app/play.m3u8?id=381141
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/National-Geographic-HD.png", NATIONAL GEOGRAPHIC FHD
-https://freelivtvm3u.vercel.app/play.m3u8?id=381139
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Toons.png", TATA PLAY TOONS+
-https://freelivtvm3u.vercel.app/play.m3u8?id=381130
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gubbare.png", GUBBARE
-https://freelivtvm3u.vercel.app/play.m3u8?id=381129
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NTV.png", NTV TELUGU
-https://freelivtvm3u.vercel.app/play.m3u8?id=381126
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/V6.png", V6 NEWS
-https://freelivtvm3u.vercel.app/play.m3u8?id=381124
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/4tv-News.png", 4TV NEWS
-https://freelivtvm3u.vercel.app/play.m3u8?id=381121
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa-Movies-HD.png", STAR MAA MOVIES FHD
-https://freelivtvm3u.vercel.app/play.m3u8?id=381117
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Abhiruchi.png", ETV ABHIRUCHI
-https://freelivtvm3u.vercel.app/play.m3u8?id=381112
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cinemalu-HD.png", ZEE CINEMALU HD
-https://freelivtvm3u.vercel.app/play.m3u8?id=381108
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa.png", STAR MAA FHD
-https://freelivtvm3u.vercel.app/play.m3u8?id=381103
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-BBC-Earth-HD.png", SONY BBC EARTH FHD
-https://freelivtvm3u.vercel.app/play.m3u8?id=381102
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nat-Geo-Wild-HD.png", NAT GEO WILD FHD
-https://freelivtvm3u.vercel.app/play.m3u8?id=381099
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Channel-1.png", DISCOVERY CHANNEL
-https://freelivtvm3u.vercel.app/play.m3u8?id=381095
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Cartoon-Network.png", CARTOON NETWORK
-https://freelivtvm3u.vercel.app/play.m3u8?id=381094
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-PIX-HD.png", SONY PIX FHD
-https://freelivtvm3u.vercel.app/play.m3u8?id=381093
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/10-TV.png", 10 TV
-https://freelivtvm3u.vercel.app/play.m3u8?id=381088
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-News.png", RAJ NEWS
-https://freelivtvm3u.vercel.app/play.m3u8?id=381086
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Abn-Andhra.png", ABN ANDHRA JYOTHI
-https://freelivtvm3u.vercel.app/play.m3u8?id=381085
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TV5-News.png", TV5 NEWS
-https://freelivtvm3u.vercel.app/play.m3u8?id=381084
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vanitha.png", VANITHA
-https://freelivtvm3u.vercel.app/play.m3u8?id=381083
-#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="", MAA MOVIES
-https://freelivtvm3u.vercel.app/play.m3u8?id=250841
-#EXTINF:-1 tvg-id="etvhd.in" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://openboxv8s.com/india/etv_in.jpg", ETV HD
-https://freelivtvm3u.vercel.app/play.m3u8?id=250842
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://openboxv8s.com/india/maa_tv.jpg", MAA HD
-https://freelivtvm3u.vercel.app/play.m3u8?id=250843
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://openboxv8s.com/india/zee-telugu-in.png", ZEE TELUGU
-https://freelivtvm3u.vercel.app/play.m3u8?id=250844
-#EXTINF:-1 tvg-id="maagold.in" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://openboxv8s.com/india/maa_gold.jpg", STAR MAA GOLD
-https://freelivtvm3u.vercel.app/play.m3u8?id=250845
-#EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://openboxv8s.com/india/sun_gemini_movies.png", GEMINI MOVIES
-https://freelivtvm3u.vercel.app/play.m3u8?id=250846
-#EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://openboxv8s.com/india/sun_gemini_comedy.png", GEMINI COMEDY
-https://freelivtvm3u.vercel.app/play.m3u8?id=250847
-#EXTINF:-1 tvg-id="geminilife.in" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://openboxv8s.com/india/sun_gemini_life.jpg", GEMINI LIFE
-https://freelivtvm3u.vercel.app/play.m3u8?id=250848
-#EXTINF:-1 tvg-id="etvplus.in" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://openboxv8s.com/india/etv_in_plus.png", ETV PLUS
-https://freelivtvm3u.vercel.app/play.m3u8?id=250849
-#EXTINF:-1 tvg-id="etvlife.in" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://openboxv8s.com/india/etv_in_life.png", ETV LIFE
-https://freelivtvm3u.vercel.app/play.m3u8?id=250850
-#EXTINF:-1 tvg-id="etvcinema.in" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://openboxv8s.com/india/etv_in_cinema.png", ETV CINEMA
-https://freelivtvm3u.vercel.app/play.m3u8?id=250851
-#EXTINF:-1 tvg-id="geminimusic.in" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://openboxv8s.com/india/sun_gemini_music.png", GEMINI MUSIC
-https://freelivtvm3u.vercel.app/play.m3u8?id=250852
-#EXTINF:-1 tvg-id="rajmusixtelugu.in" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://openboxv8s.com/india/raj_musix_telugu.jpg", RAJ MUSIX
-https://freelivtvm3u.vercel.app/play.m3u8?id=250853
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://fastplayer.uk/images/5cf1335aa3209e809616340c22c05a49.png", TV9 TELUGU
-https://freelivtvm3u.vercel.app/play.m3u8?id=250854
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jan_20_TeluguChannels" tvg-logo="http://openboxv8s.com/india/sun_gemini.png", GEMINI HD
-https://freelivtvm3u.vercel.app/play.m3u8?id=250855
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD ENGLISH" tvg-logo="http://logo.ottcst.info/STARSPORTS1HDENGLISH.png" group-title="Feb_2_2025_Sports",STAR SPORTS 1 HD ENGLISH
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2756
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD HINDI" tvg-logo="http://logo.ottcst.info/STARSPORTS1HDHINDI.png" group-title="Feb_2_2025_Sports",STAR SPORTS 1 HD HINDI
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2755
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://logo.ottcst.info/STARSPORTS2HD.png" group-title="Feb_2_2025_Sports",STAR SPORTS 2 HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2754
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 3" tvg-logo="http://logo.ottcst.info/STARSPORTS3.png" group-title="Feb_2_2025_Sports",STAR SPORTS 3
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2753
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS FIRST" tvg-logo="http://logo.ottcst.info/STARSPORTSFIRST.png" group-title="Feb_2_2025_Sports",STAR SPORTS FIRST
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2757
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="http://logo.ottcst.info/STARSPORTSSELECT1HD.png" group-title="Feb_2_2025_Sports",STAR SPORTS SELECT 1 HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2752
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="http://logo.ottcst.info/STARSPORTSSELECT2HD.png" group-title="Feb_2_2025_Sports",STAR SPORTS SELECT 2 HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2751
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS TAMIL" tvg-logo="http://logo.ottcst.info/STARSPORTSTAMIL.png" group-title="Feb_2_2025_Sports",STAR SPORTS TAMIL
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2750
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS 18 HD" tvg-logo="" group-title="Feb_2_2025_Sports",SPORTS 18 HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/989552
+#EXTINF:-1 tvg-id="" tvg-name="TEN 1 HD" tvg-logo="http://logo.ottcst.info/TEN1HD.png" group-title="Feb_2_2025_Sports",TEN 1 HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2749
+#EXTINF:-1 tvg-id="" tvg-name="TEN 2 HD" tvg-logo="http://logo.ottcst.info/TEN2HD.png" group-title="Feb_2_2025_Sports",TEN 2 HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2748
+#EXTINF:-1 tvg-id="" tvg-name="TEN 3 HD" tvg-logo="http://logo.ottcst.info/TEN3HD.png" group-title="Feb_2_2025_Sports",TEN 3 HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2747
+#EXTINF:-1 tvg-id="" tvg-name="SONY SIX HD" tvg-logo="http://logo.ottcst.info/SONYSIXHD.png" group-title="Feb_2_2025_Sports",SONY SIX HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2758
+#EXTINF:-1 tvg-id="" tvg-name="WILLOW CRICKET HD" tvg-logo="http://logo.ottcst.info/WILLOWCRICKETHD.png" group-title="Feb_2_2025_Sports",WILLOW CRICKET HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2746
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="" group-title="Feb_2_2025_Sports",ASTRO CRICKET HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/1068374
+#EXTINF:-1 tvg-id="" tvg-name="D SPORTS HD" tvg-logo="http://logo.ottcst.info/DSPORTSHD.png" group-title="Feb_2_2025_Sports",D SPORTS HD
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2759
+#EXTINF:-1 tvg-id="" tvg-name="DD SPORTS" tvg-logo="http://logo.ottcst.info/DDSPORTS.png" group-title="Feb_2_2025_Sports",DD SPORTS
+http://mag.spainott.net:80/8MTQGHDMIB/GTNI9XYSYD/2745
